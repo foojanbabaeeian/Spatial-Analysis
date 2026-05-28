@@ -1,0 +1,116 @@
+1. Cover page of story map 
+Title 1-1 
+Arts employment by state and metropolitan area Your Name 
+Subtitle 1-2   
+Employment levels, average wages, and cost of living index 
+Alternative text 1-3 
+Background image with abstract art on cover page of story. 
+ 
+2. Introduction 
+Heading 2-1 
+Arts Employment 
+ 
+Subheading 2-2  
+Where are the jobs in the arts field? What are average wages versus cost of living?  
+ 
+Paragraphs 2-3 
+If your career interests lie in the arts field, broadly speaking (including arts, design, entertainment, 
+sports, and media occupations ), this story map can help you analyze locations across the U.S. where you 
+might live in regard finding jobs and financial prospects. 
+Of importance for job searching in the arts field is that there are huge variations by state and 
+metropolitan area in employment levels, average wages, and cost of living. As you might suspect, wages 
+in the arts and cost of living are positively correlated (71%), so the job with the highest wages across 
+different cities of the country may not be the best option financially because of high cost of living. You 
+might be better off with a good, but not top-paying job elsewhere because of lower cost of living.  
+To help you explore metropolitan areas for arts employment, this story map has two interactive maps 
+that provide data on employment levels, average annual wages, and a cost of living index by state and 
+metropolitan area. Also included is a sample calculation showing how to use the data from the maps to 
+analyze the financial prospects for you of different metropolitan areas. 
+Subheading 2-4  
+Disclaimer 
+Paragraph 2-5 
+The information in this story map is generally helpful, but there are sampling errors and approximations 
+involved in making estimates or otherwise using the data presented. There are no guarantees of 
+accuracy. 
+ 
+
+Alternative Text 2-6 
+Interactive map of the lower 48 states and metropolitan areas with employment levels and annual 
+wages for the arts field 
+ 
+3. Arts Employment map 
+Heading 3-1 
+Arts Employment map 
+Subheading 3-2 
+Map use and navigation 
+Bulleted list 3-3 
+Click the legend button (top right, second button down) to see the map legend. Click the magnifying 
+glass to search for a location. Click the layers button at the bottom on the right to turn layers on and off. 
+Click the + to zoom in, - to zoom out, and house icon to zoom to the default map view. You can also drag 
+the map to pan and use your mouse wheel to zoom in and out. Click the magnifying glass icon (upper 
+left of map) to search for an address or place. Zoom in far enough and metropolitan areas appear as 
+points. Hover over a metropolitan point to get a pop-up with data on the area. Lastly click the fourth 
+button down on the left to take a screen shot of the map. 
+Caption 3-4 
+The top 10 states in terms of annual average wages in the arts 
+Subheading 3-4 
+Patterns on the map 
+Caption 3-5 
+The top 10 metropolitan areas in terms of wages in the arts (while only the major city is listed, data is for 
+the city and surrounding metropolitan area)  
+Credits 
+Employment and average annual wages data  
+U.S. Bureau of Labor Statistics and its occupational classification; Arts, Design, Entertainment, Sports, 
+and Media Occupations http://www.bls.gov/soc/major_groups.htm 
+ 
+Population data 
+American Community Survey of the U.S. Census Bureau https://www.census.gov/programs-surveys/acs 
+ 
+
+Cost of living index data (copyrighted data and used with permission) 
+Council for Community and Economic Research. https://www.c2er.org/ 
+ 
+State and metropolitan area boundary maps 
+U.S. Census Bureau https://www.census.gov/geographies/mapping-files/time-series/geo/carto-
+boundary-file.html 
+ 
+4. Cost of Living Index map (optional Your Turn) 
+Heading 4-1 
+Cost of living index map 
+Subheading 4-2 
+The data 
+Paragraph 4-3  
+The Cost of living index data was generously provided by the Council for Community and Economic 
+Research. It’s copyrighted data and used with permission here. Parts of the following bullets are quoted 
+from documentation for the data provided by this organization.  
+URL for data source (Note: Copy the URL below, select “Council for Community and Economic Research” 
+in Paragraph 4-3 and use link symbol of the text editor to make that text a hyperlink by pasting the URL) 
+https://www.c2er.org/ 
+Bulleted list 4-4  (Note: each sentence is a separate bullet) 
+The data in the map is only for metropolitan areas; non-metropolitan data exists but is not included. 
+“The Cost of Living Index measures relative price levels for consumer goods and services in participating 
+areas.”  “The average for all participating places, both metropolitan and nonmetropolitan, equals 100, 
+and each participant’s index is read as a percentage of the average for all places.” “The Index reflects 
+cost differentials for professional and executive households in the top income quintile (homeownership 
+costs, for example, are more heavily weighted than they would be if the Index reflected a clerical worker 
+standard of living or average costs for all urban consumers).” The index does not include state or local 
+taxes. 
+Subheading 4-5 
+Patterns on the map 
+Paragraphs 4-6 
+
+States that have approximately average cost of living index (95 to 105) have white color fill. Those below 
+average are increasing darker green the less the index. Those above average go from yellow to orange to 
+red for increasing index values. See the map legend for details. 
+There are remarkably cheaper and more expensive places to live in the U.S. The index range by state is 
+from 84 (Mississippi) to 143 (D.C.) and by metropolitan area from the available sample from 77 to 190. 
+Image 4-7 
+Insert Table3 from the Resources folder with caption: The 10 least expensive metropolitan areas. 
+Image 4-8 
+Insert Table4 from the Resources folder with caption: The 10 most expensive metropolitan areas. 
+Image 4-9 
+Insert CostOfLivingWeights image from the Resources folder with caption: Shopping basket and weights 
+used to estimate the cost of living index 
+ 
+ 
+ 

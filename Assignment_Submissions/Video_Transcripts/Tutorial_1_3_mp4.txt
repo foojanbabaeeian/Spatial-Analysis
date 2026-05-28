@@ -1,0 +1,584 @@
+Okay, welcome to...
+tutorial one dash three so we're gonna be
+working with attribute data in this tutorial.
+So we will start by opening to...
+tutorial 1-3 so we're gonna go to our GIS for
+on our desktop as we press.
+GIS Pro. Check.
+Chapter 1, Tutorials, and Tutorials.
+And now we're going to be opening tutorial one dash three.
+Okay, so.
+So as usual, we're going to first save the price.
+project with our last name here.
+So project, safe project, and...
+And then again we can do it in the same tutorial.
+So we do tutorial 1-3.
+with our last name.
+Rosen.
+And you should see the change in the
+project name at the top.
+Some chew.
+Start with point...
+clicking attributes from the federal
+qualified health centers. So...
+If just as a reminder to get to the attribute table, we're going to
+go to FQHC clinics. We're going to
+right click and we're going to open the attribute to
+from here.
+And what we want to do is we're going to move--
+around some of these different
+field. So again remember we have the show.
+shape. So all of these are point data because they represent
+single health centers. We have the name
+address latitude, longitude, and then the
+website. So if we
+We want to change the order.
+can drag the website.
+That's what we're gonna move. We're not a highlighter.
+the website and we can just drag it before the
+latitude. So now we've moved it in our app
+table and...
+We can also...
+if we want.
+Sort our data by like alpha.
+or in numerical order.
+And one way to do that.
+if we say we want to reorder the
+names so that it's an alphabetical order.
+We have two options here.
+Again, we have two options here.
+Again, I do not have a personal preference of which
+one you choose to do, I'm going to show you both
+ways just so that you have options.
+So the
+The first way we can sort these in alphabetical order, we can
+And click on the name column, right click.
+Then press this sort in ascending order sort of
+sending and that will alpha to.
+are different clinics or enough
+that a quarter. The other way you can do this
+which is what I tend to do is you can just
+double click it and it will change the order. So you
+You can see now it's an alphabetical order.
+If I click it again, double click, it'll be in reverse alphabetical work.
+order or descending order. So you can either write
+click and sort that way or if it's easier for you.
+just to double click and sort it that way. That's
+totally fine. Okay so we're
+We are going to close the attribute table now that we've moved our website.
+and sorted our clinics and we're going to
+Save our project.
+So, now we are...
+are going to turn off all of the layers.
+Hearn on population density.
+So, turn off all of these layers.
+and streets, and now the
+The only layer we have on is our population density.
+layer which is kind of our
+baseline map.
+that we had. So now
+Now we're going to open our attribute table for population density.
+going to right click and go to
+attribute table and now we start.
+see that. So we see that in this attribute table,
+We have again the shape and it's polygon features because
+We're looking at each of the census tracts, the G.O.I.
+So remember that's the actual identifier.
+number that all geographical
+units have. We have
+the area per square miles.
+We have, oh sorry, let me go back actually.
+We have population.
+here so we have the population for each and every one of these.
+different census tracts here. So...
+You can see that there's a wide variation here.
+We also have the area square mile.
+So the way we get our population density is
+we divide our population by
+our area in square miles and that's how we get popular.
+density in case you were wondering.
+And then again, shape length and shape area, which--
+are really just more forward GIS is right.
+we're not going to be using those.
+So now we're gonna sort population density
+in reverse order, so we're gonna have
+largest one on top. So remember we
+can either double click or if we want to
+do it with the right clicking method.
+So we highlight population density.
+We're gonna right click.
+and we're going to sort in descending order this time.
+because we want the biggest one at the top.
+So, descending order we see that
+This census tract right here has the higher
+population density of 29,400.
+92 which is very very large.
+and we're going to select
+Remember, we can just click it.
+So we're going to select that highest population.
+density sensor shard and so we can see right now.
+here it's kind of dead center where the Pittsburgh area
+is which is not surprising.
+And we're going to try to...
+Zoom in on...
+on this, so if you recall, we're going to right click
+population density, which is the table we're looking at.
+selection, and then zoom to select.
+I had a feeling it wasn't gonna work because
+It's too close, so that's fine.
+If it was a larger area, you'd be able to see it.
+So.
+Sorry if I've misled you, but now we're
+going to zoom to full extent.
+and we are going to clear the selection.
+So if you recall, we're going to press this button right here.
+clear the selection and
+And then I believe...
+we can close.
+this attribute table now.
+So actually let's the syntafol extend again.
+So now we're going to turn off population density.
+And we're going to turn on municipalities.
+So now we have the cities on.
+of the municipalities and we're going to open the attribute
+table for municipalities. So right click.
+attribute table.
+And now we have this.
+And we're going to click the menu button on the
+attribute table which is these three lines.
+And we're going to go to feet.
+Okay, of course it's like...
+This one, so we're going to click on Field's View.
+And here you can see
+that we are able to kind of change around.
+different variables. There's a
+names which we honestly probably
+probably don't want to touch ever unless it's actually your date.
+The alias is kind of just like a lazy.
+that we're using for each of these so it gives the user a
+a little bit more context of what these variable names
+are actually alluding to.
+So we can.
+Look to that as well.
+And let's say we want to...
+move around some of our variables.
+So, one variable that we might want to make.
+ground is the MTFCC variable.
+which is right here. So if we want
+to move it above the state.
+variable. We're going to highlight it.
+And we're going to just click this little square
+right here and drag it with our mouse.
+and we want to move it above the state FP variable.
+So we can just make sure it's aligned above and drop it.
+there.
+And we need to actually save these changes.
+Otherwise, if we look back here...
+we're not going to see that the attribute table change at all.
+not going to see that MTF CC variable that
+we moved, it's not in front of the state FP variable.
+because we haven't saving it. So I've got
+back here and we have to press this save button at
+the top under the fields page in
+the Manage edits, so we'll save that.
+And now you'll see it.
+that the MTFCC variable is listed.
+ahead of that state of p variable. So now our
+Our changes are saved and we can see it.
+We can also delete attributes if we want.
+So again, please make sure.
+sure you are very sure and it's your data and make sure you want
+to delete the attribute before you actually do it.
+but I'll show you how to do it if you choose to.
+So one variable that we can do is we can do this.
+can delete here is state F.P.
+because it's not super helpful. It doesn't really...
+tell us very much because we know this is
+all part of the same county so every single one
+One of these municipalities has the exact same value.
+for state FP. They're all going to be in
+Pennsylvania, we don't need that information.
+It doesn't really do anything.
+give us anything. So we're going
+going to hide.
+light state FP we're gonna right click this little square
+rectangle thing right next to it and we're going
+to delete the field.
+So you'll see that before we...
+But, um, before-
+Before we actually permanently delete it, it'll do this straight.
+through before we make our before we save our change.
+So you can triple-click.
+check. Are you sure? Do you want to delete this field?
+And I'll have this little strike through first.
+And we can also turn off visibility.
+for different fields.
+So if we wanted to--
+turn off the visibility for all three.
+except for G-I-D and name.
+we can just check these boxes and actually I think it's easiest.
+if we...
+should we?
+So if we uncheck all of these...
+and we want to only show GeoID
+a name, we can go.
+G-I-D name.
+So now we have that and
+And we can also change the area.
+alias name which I was sort of alluding to before of.
+if it helps us.
+Invade the reader or the user what
+we're actually looking at here. So here is
+If we want to change the name of the name...
+for our children.
+If you need to alias for name, you can click.
+right here and we can change this to Munnissa.
+the polity.
+So again, remember this is just a leaf.
+It's not we're not changing the variable name or anything
+this is just a label for context.
+So now we can go through and save our
+changes.
+And now...
+For municipalities, it should just have to be.
+like we told it to, only the GI.
+and the municipality name.
+And you'll see here that we have the label that we created.
+It's listed here so it makes it a little bit more useful.
+are friendly. So now...
+Now we can close the door.
+field view. I believe that's the last thing we needed to manipulate.
+here. Okay. And now,
+Now if we want to sort our municipality
+names we can
+either. Remember, we can either right click or right click.
+or double click it. I'm going to double click it because I right clicked last time.
+and I typically like to just double click it because it saves
+a little bit of time. So now we have all of
+of our municipality names sorted in alphabetical order.
+Now we can close the door.
+our attribute table and
+We are going to...
+Go to the streetslayer.
+So here we are going to
+Right click streets.
+And we're going to open the Atro
+table.
+So now...
+Again, we're going to go to the FieldView, so remember we click on this little menu.
+menu icon the three lines.
+and we're gonna go to Fieldsview.
+So now we're going to be doing this.
+going to give full name right here.
+a new alias. So full name is the string.
+name so we're going to change this
+to a more appropriate name.
+So we're gonna click this and we're gonna change it to
+to street name and a street name.
+press enter. And now we've given full name,
+variable a new alias and it's just screening.
+And follow the book.
+book here. Now we're going to keep this
+visibility on only for the full name of the family.
+variable the L from a.
+LTO add FMR. Okay, so let's
+do another uncheck all of these because we're
+We're going to have more invisible than visible.
+So we're going to keep the visibility on for full name.
+We're going to keep the visibility on for
+these four right here.
+So the L from ad are from
+and these RTO and LTO ads.
+L and the R stand for left and right, by the way.
+We're also going to keep the zip L and the zip R on.
+So everything else can be turned off or maybe
+invisible and we're going
+to save these edits.
+And,
+Now we can close the field view.
+Alright, and...
+Let's make sure our attribute table is still over here.
+And so we can see here that the only
+Visible fields are street name and remember we
+change the alias for it so it does say stream name here instead of
+name although it does keep the app
+variable name in the title here. You can see it says
+parentheses full name just in case you forget.
+in those different left and right variables that we--
+kept in there. So we can see that our changes did say
+and the attribute table updated accordingly.
+Okay, let's see what's going on.
+What's next?
+Okay, so now...
+So we can close out of this attribute table.
+We're going to
+to keep the municipalities on and on.
+And we're going to turn on the FQHC clinics.
+So remember that this is up here and we
+see the FQHC clinics in the screen dots.
+on our municipalities.
+So now we're going to--
+So right click.
+attribute table.
+And we are going to...
+sort in a way.
+sending order the name. So it looks like actually
+So we already did that.
+I was--
+ahead of the curve on this one so I already sorted it. We can dump
+check just to make sure so we can double click to make sure it's all in.
+in ascending order.
+And now we're--
+going to select the first six rows.
+So we can just drag to some
+select the first six so you can either highlight
+like this and drag until you get the
+first six rows like that. Another option
+is you can click the first one and then press shift.
+and hit the sixth row and it'll highlight all of the
+them again a personal preference.
+I like to try to save as much time as possible.
+but you don't have to if it's easier for you to work through.
+it the other way. So now you can see here
+The colors are kind of close, so I'm sorry if it's not super easy.
+But the selected clinics that we chose.
+are now shown in the same blue color that the
+selection highlight is. And so the green one.
+are the ones that are not selected and then the blue ones.
+ones are the ones we have selected.
+We can clear that selection.
+Now.
+And we can also...
+Um, so.
+See?
+See?
+See?
+(humming)
+So another option we can
+employee.
+is if we want to select different
+features on the map and we don't want to look at it.
+in drawing order, especially if--
+If you work on projects in the future, there's a chance
+And even now, there are a lot of different features here that
+that we can select from.
+So you might be scrolling a lot.
+It might be hard to--
+Find certain features that you want to add as layers on your map.
+So right now we have it in drawing.
+order we can also learn
+List by selection, so let's see.
+So up here we have different options.
+So here it says list by drawing order.
+List by data source, list by selection.
+List by editing.
+list by snapping, labeling, and
+and then perspective imagery.
+So you can choose any of these.
+We are going to choose list by selection here.
+And so you can see that it's a lot easier.
+to kind of click through which things you want to add to the meds.
+We want to only select...
+Urgent Care and FQHC Order.
+or if FQHC clinics so we can
+deselect all of these?
+So now we only have the urgent characteristics.
+clinics and the FQHC clinics selected.
+here in our list by selection.
+So now we can go back to our
+list by drawing order.
+And when I see.
+Just a little bit.
+So go to...
+the map tab.
+Select and select.
+then press select.
+And if you hold down the shift key,
+you can create.
+a box and it'll select all of the
+different clinics that you
+highlighted that are included in that box.
+So if we want to start over we can make it a smaller box.
+with just those three, we can make it a larger box.
+with all of them included. And so that's another
+way if you want to select only Linux like in
+in a certain area or
+If you're doing like a state-by-state analysis, only some in a certain...
+state you can do it this way if it's
+Easy enough and it conforms to a square-ish shape.
+So that's a big caveat there.
+But let's see.
+We can press shift and we can
+You can also select individually each one.
+let's press shift and select any.
+of the five FQHCs.
+So let's see if we can click this one.
+This one, three.
+or five. So now.
+Now we have five selected that we kind of manually
+gone through and selected and you'll see that they were selected.
+down here in the attribute table as well.
+And maybe--
+you noticed when I was clicking through and making the square you also
+those different selections being highlighted in the table.
+people. Um,
+We also can if you...
+If it's easier to select those that you don't.
+want to look at. So let's say I'm interested.
+actually in the 14 that I didn't
+select and it was easier for me to select.
+5 than 14 for the selection.
+can select these five and what I can do.
+do is I can press swivel.
+at the top. So this little
+icon right here that has the switch selection.
+Let's press that and now it's selected all.
+All of the FQHC clinics.
+previously were unselected.
+So again, if you're going free.
+and you're like, "I don't want to highlight 20--"
+different ones that I want to select. You can see
+search the ones that are not included in your selection.
+and then switch it so that you can...
+do it more efficiently.
+Um, okay, I think.
+That's all I need to show you in here.
+So let's clear our
+selection so remember this button up here when you clear our
+selection and now we're going to
+calculate summary statistics.
+So if we have
+All these data and we want to
+get things like the minimum, maximum,
+standard deviation, we can either
+Upload it into our preferred statistical software and
+try to get it that way or much easier and much easier.
+quicker we can do it directly in our GIS.
+So let me close out of this as well.
+table I think we're done there for now.
+So, for calculating the summary,
+We're going to turn off the FQHC.
+clinic layer and we're going to turn on the
+layer we want to calculate summary statistics for.
+So in this case, we want to calculate summary statistics.
+for population density. So we're going to turn
+that layer on and
+And to get to the summary statistics, we're going to go in.
+in this analysis tab at the top.
+So click analysis and you'll
+see here that we have a lot of different tools.
+that we can use for analysis. So we're going to actually go to
+the tools icon right here. It's a little tool.
+blocks and we are going
+going to not do the favorites. We're going to go to the
+toolboxes tab at the top of this geo
+processing panel or pain that's popped out.
+So now you can really see how much you can do.
+tools we actually have to analyze our data.
+in GIS. So again, opportunity.
+are limitless, but what we're going to do is
+going to do is go to analysis
+tools right here and we're going to click the arrow next to it to expand.
+So analysis tools from the toolbox.
+Then we're going to go to statistics.
+the last option we're gonna expand that.
+And finally we're gonna go to this summary section.
+statistics right here. It has like a little hammer.
+next to it, so we're going to click on summary statistics.
+So for these...
+input table that's the layer we want
+to actually calculate our summary statistics for and
+Remember, we're looking at population density for this.
+So our input table will be...
+our population density and it'll
+automatically generate the output table for you.
+It'll just be popular.
+population densities of the name of the layer with statistics.
+it. So for our field, our
+statistics field, we want to look at the actual
+population density. So remember the name
+of our variable here is pop density.
+our statistics type. The first one we'll do is
+is our minimum.
+If we're going to--
+to do the minimum, we may as well calculate the maximum as well to get our
+range. So again, we're gonna have to say
+a pop density.
+And that's an important note.
+that you're gonna have to specify the variable name each.
+time it's not going to like remember if you put popular
+density here and then all of them listed right here.
+You need
+to make sure you specify the actual variable named
+for each of these different rows.
+Okay, so pop density and we have
+maximum. And...
+and let's also calculate the material.
+means so we're going to designate pop density again.
+and we're going to calculate the mean.
+And we are going to put pop density.
+one last time and we're going to do the standard D.
+deviation.
+So that all looks good and we can press right.
+Run now?
+And so summary statistics completed and GIS.
+"Hey, s" does this where it have little pop-ups?
+that say either like a little green check mark or it'll
+have a big fat red crop.
+so you'll know that you did something wrong.
+So that's kind of how
+that you can immediately get feedback and know that you need to.
+either go back or you did it right.
+So because it says that it ran or
+it completed its run. We can see that it added that
+standalone table of population density under
+score statistics to our
+So we can...
+So, go right click.
+and then press open so you notice it doesn't
+attribute table because it is already a table so we don't need
+to look at the attributes necessarily, we're just looking at it.
+So we press open from the right click.
+And you can see here we have the minimum.
+population density which is zero.
+Maximum, which is that 29,492.
+point seven that we saw when we sorted in
+descending order, the average or the mean
+population density which is 4,560.
+15 people per square mile and the
+standard deviation for the population density, which is
+huge as you can see it's 4,100
+So we have a lot of variation in our population.
+density here. And...
+I believe that is the last thing we had to do for our
+tutorial here so we can close out of this.
+We are going to save.
+our project.
+and close it.
+And...
+As a reminder, for turning it in, we are going to
+to zip those three different folders or files.
+that we need for our submissions.
+So we are going to
+Let's see if it'll let me do it.
+I was running low last night.
+So the chapter one dot gdb
+index, and then the tutorial three.
+with our last name, remember we want the one that we're actually working on.
+working with. And then once all three of those
+are highlighted. We're going to right click, send to
+and then compress zip folder again as
+warning it might give me that error message again that
+I'm not able to save due to space.
+So
+Let's see what happens.
+Okay.
+I did. And we can keep the tutorial one.
+-3 frozen as the name.
+And I'll
+This zipped folder is what I will submit.
+as my tutorial 1-3 assignment.
+So as a reminder, submit your zip
+folder and I'm gonna say it so many times you're gonna get very enough
+annoyed hearing it, but I want it to be second nature.
+here.

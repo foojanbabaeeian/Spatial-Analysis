@@ -1,0 +1,504 @@
+Okay.
+So now we're going to do tutorial one.
+1-2 and this is where we learn to nap.
+ARK GIS Pro.
+Specifically, we'll use a pop-up window, zoom in.
+Zoom in to Erasture Feature class and search for a feature.
+feature. So I'm starting.
+from the actual student virtual student.
+Virtual Live Desktop again, so to access the tutorials.
+go into this GIS folder.
+as repress GIST for pro.
+Chapter 1 to Tor.
+And now we're going to click on tutorial one dash.
+2.
+And it should remember your login from
+from the last time you logged in from the tutorial 1-1.
+So you shouldn't have to
+re-log in each time. Although if you do, hopefully,
+now you remember how she'll remember as all
+always we are going to exit out of the updates. Do not
+update and the first thing that we'll do like with
+tutorial 1-1 is we will save our
+project as with our last name.
+So we can keep it in this tutorial's
+folder. Now we'll call it tutorial one.
+dash two with our last name.
+mine will be tutorial one dash two.
+Rosen. And again, remember, it's dot a.
+PRX, file type.
+Okay, so now, we're going to go ahead and do this.
+we should see our new name up at the top of the project so that
+tutorial 1-2 with our last name.
+And we are going to...
+Go on.
+the map tab which hopefully it is on already.
+And we're going to...
+Go to this navigate little area.
+area and we're going to click this globe right here.
+which is the full extent globe, or zoom in.
+So it zooms to the full extent of the data in the field.
+So if you do this, like we saw with
+the Allegheny County bookmark. It only
+zoomed in a tiny little bit but this is a nice way to reset your
+your map in case you get lost, you can always click.
+this zoom to full extent little globe up here.
+and it'll recenter you, which is really nice.
+Okay, so now we're going to...
+explore different features. So if you
+you see up here, we have this explore button under our
+map tab still. So we're going to press X.
+explore and we're going to click on the northern
+most urgent care clinic in Alganee County.
+So remember the urgent care clinics are
+shown in this rusty red color brown.
+And the northernmost clinic would be this
+one up here. So we're just going to click that clinic.
+and this pop-up should
+and expand it a little bit.
+This pop up.
+should come up with different information.
+about that specific urgent care clinic.
+So right here it has the name, so express.
+care at Wexford Health and Wellness Pavilion.
+It has the address which was geocoded which is how we...
+we can see it. And it also has a website that we can
+click on. So if we click on this website...
+We can see that...
+It pops up with just the basic...
+websites so we can see things like their hours.
+different types of conditions that they treat.
+there. And that can be very...
+useful if you're trying to make sure that all of your plotted points
+actually are serving the...
+what you think they are.
+So if you're trying to...
+plot like primary care for the...
+facilities for example and you realize that they don't actually do that and make
+only to emergencies, that would be a bad one.
+to actually map for you, so you would take it off.
+So, you can click around and explore with that if you would like.
+But for right now we are going to
+I'm going to minimize this a little bit and move it off.
+to the side so that is not in our map.
+Oh, let's move like that.
+And now we are going to
+Um, while we still have the pop-up, uh...
+we're gonna click this little magnifying glass in the bottom.
+right hand corner of the pop-up window.
+and it'll zoom into our
+specific urgent care clinic
+that we've selected. So you can see here the express care of
+expert health and wellness pavilion. It's zoomed in
+here. We can even zoom in a little bit more.
+if you would like to. And now we can see the actual
+streets that are surrounding it. Something I want to do.
+want to point out here is that maybe
+you'll notice that because we zoomed in
+so much. Now we can see the street names, but
+but we no longer see the buffers.
+So you can see...
+here that the FQHC buffers and the urging
+care clinics buffers are still technically
+turned on for our map. So there's
+still technically layers on her map, but we can no longer see.
+them. And like we saw...
+kind of the opposite direction where if we are to zoom down.
+and try to have our street names on, we won't be able to see them because it's not.
+helpful. Same thing with our
+buffers because all of this would be
+yellow because the entire thing is included in
+that buffer so it's no longer useful to show and it makes the
+the map busier so ArcGIS just omid.
+it from our map. However, if we zoom
+back out. We can see that the street names disappear and
+now our buffer is back.
+So it's gonna be kind of a...
+trade-off of what you can see at any given time based on
+how close or zoomed out you actually.
+actually are. So now we
+are going to I believe we can move.
+this pop-up window now. So now...
+To recenter, remember we're going to go to the
+under the map tab in the Navigate area.
+We're going to click on this little globe that's soon to
+full extent again so we're back to our recentered
+map that we started with.
+And it
+If you want to move the map in any way, I kind of...
+alluded to this in the first tutorial, you can
+either use the arrow keys so if I
+I just press the right arrow key, left.
+You know up down I can move it that way or
+Or you can just kind of drag it like that.
+So if you hold down your left...
+left mouse button and just move.
+move it, you can do it like that. And that works if you're
+zoomed in as well. Suff we zoom in here.
+So we see the string names.
+Now we can.
+drag it like that so we can move the map that way.
+or again we can move it with our arrow cheese.
+So that's to show you that.
+We're able to do that in case you're like, I don't know how to
+move my map around.
+After that we will again zoom to full extent.
+So we're gonna click the globe again to recenter our map.
+And now we are...
+going to see what the book
+says. Oh actually let me know.
+point out something. So I want to point out that
+On our map right now, all we have
+is vector data. So we have
+some point data, some line data with the
+rivers and the streets and we also
+have different polygon features like
+the poverty risk area.
+So the only new one is the only new one.
+non-vector data we actually have on
+The contents pane is powerful.
+density which is a raster feature.
+So, for this...
+we are going to only
+keep on the following layers.
+So we're gonna have poverty risk areas.
+is gonna stay on Pittsburgh is gonna stay on
+on the Allegheny County is going to
+stay on. Rivers are going to stay
+on returning off the buffers.
+So both buffers for the FQHCs and the
+urgent care clinics.
+we are going to keep the streets layer on.
+turn off population density.
+And we are going to turn
+on the poverty density raster layer.
+So here you can see the raster of the raster.
+of this and remember it kind of looks like...
+a heat map and with the darker
+orange and red colors indicating higher levels.
+levels of poverty density and hopefully you can see
+see right here that it corresponds very well with
+with our poverty risk area, which hopefully is very--
+intuitive for you, the higher the poverty risk, the higher the
+poverty density. So if we
+want, we can zoom in to kind of look at
+what these look like. They're different raster.
+pixels. So remember each
+different piece of the grid is
+a different pixel that's being colored independently.
+kind of at least so you can see these little squares right here.
+Each one of them is a grid.
+pixel or cell. So you can see that they're differently
+colored and it's not adhering to
+the like administrative boundaries of sensitive.
+tracks or the municipality.
+or anything. It's completely independent from that which
+is faster.
+data, right? So here...
+we are going to
+Let's see.
+We're going to...
+zoom to full extent again.
+And we're going to turn on all of
+the layers except for municipalities and poverty density.
+So we're going to turn poverty density up, the raster layer.
+So, turn. Urging care clinics back on.
+FQHC is back on.
+It's upset for municipalities.
+and poverty density.
+So buffer, buffer.
+and...
+population density.
+So now we're going to...
+Zoom into the poverty areas.
+So to do that we're gonna go, we're gonna stay on this map.
+tab and we're going to stay on the navigate section.
+We're gonna go to bookmarks.
+And we're going to click.
+poverty areas right here, which is the second one.
+So you can see it zoomed into
+the poverty areas which are circled
+in the red color, so we have right now.
+Right here we have kind of the Pittsburgh area.
+And then we have one down here in the
+right hand corner. So...
+We're going to
+Zoom in on this little red circle.
+right here.
+which is one of the poverty areas until
+So we can see the streets.
+Actually, let me zoom out.
+tiny bit, I wonder how close I have to be to get to see the street.
+Okay. And we're going to...
+to save this as a new bookmark so we can return to.
+with. So what we're gonna do is still
+Again, we're in this map tab and we're in the navigate tab.
+action still. And we're going to...
+going to click bookmarks.
+And we're going to click New Bookmark.
+And we are going to name it
+Let me double check with the book.
+McKeese.
+Ort. Poverty.
+area.
+again I'm following the books directions here. So my keys,
+poverty area and we're going to click OK.
+to save that. And so now
+we're going to go to our...
+Algini County.
+bookmark again or you can do the zoomed up full extension.
+with the little globe if that's easier for you.
+Either way,
+we're back zoomed out to our whole county.
+here. And now we're gonna go to a
+our new bookmark that we just made with the poverty area.
+So we're going to
+going to go bookmarks and you should see the new one.
+we just made the McKee's Fork property area.
+Click that and now we are
+brought back to our view that we had.
+It was kind of like...
+a screenshot that we took that we're returning to.
+So creating bookmarks for these different
+views is very helpful so we don't have to zoom in.
+each time and try to keep track of it.
+easy just to jump right back to that bookmark.
+Okay, so...
+So now we're going to alphabetize
+our healthcare clinics.
+And so we're going to bookmark
+marks, we're going to manage
+bookmarks right here.
+And we're going to alphabetize our healthcare clinics here.
+and they are almost
+right? The only difference we need is the McKee's point.
+poverty area needs to move above.
+the... *laughs*
+So we're going to click it and we're going to click it.
+just going to drag it until it's under here.
+And then the Pittsburgh East End actually also.
+has to move on top of the pot ears.
+And now we're going to be making a video.
+We have alphabetized our healthcare clinics.
+And we can...
+close out of that bookmarks tab and again
+Again, we're going to click this little globe in the map.
+which is the full extent zoom, which will bring you to the top of the screen.
+us back to our starting map.
+So now we're going to see how to
+to search for a feature and we
+can essentially use SQL for query.
+We're getting tabular data and we can search for
+locations based on attribute attributes.
+So in the contents pane,
+we're going to clear the population
+density layer and click on the municipality.
+layer and we're going to
+Right-click the municipality's layer.
+and go to this attribute table right here.
+So here we can see all the
+of the municipalities that are contained within all games.
+County. So again just ordering your
+little bit we see the different types of shapes and they're
+are all polygon features because they're actual cities.
+We have a state...
+Variable, County variable.
+We have G-O-I-D, which is...
+essentially like federal information.
+processing standards or FIPS code for
+each of the different census tracts. So every or
+I'm sorry, I'm one of the municipalities.
+So every single admin...
+administrative unit whether it's a state, county,
+census tract, census block group, any of those, all of
+them are going to have a unique geo ID that we can.
+use to pluck them on the maps or join different
+data or whatever you would like to do.
+We also see the name for each of the municipalities here.
+and the area.
+of the land, area of the water.
+and the shape length and shape area, which is...
+really just used for GIS's information. You're not
+going to manipulate that in any sort of way.
+Okay, and then I should point out that.
+As a reminder, all vector data will have a
+corresponding attribute table regardless of
+if it's a point, line, or polygon feature.
+So all of the point data that are out there.
+here they will have attribute tables the poly
+they'll have attribute tables, the river, which is a
+line will also have an attribute table so you can
+and open these for any of them except for the raster.
+data. Okay.
+So in the map to...
+tab, we're still here. We're going to
+Click on Select by Attributes.
+right here and that should bring
+up this little pop-up box that has the select by Apple.
+be its options. So far are
+input rows, that's where we're actually selecting.
+from, which is municipalities, which is
+What we want, we want to select from the actual list of me.
+municipalities. For selection type it's
+should be new selection.
+And--
+And this is when we start actually creating a new design.
+for the different...
+attributes that we want to look for. So for this
+where section we're going to do
+name because that's where the names of
+the different municipalities are.
+That's going to change.
+So if you're doing.
+a query for a variable.
+that might not have as instinctive of a name.
+Please make sure you go back and check to see
+what the variable names actually correspond to before you just assume.
+because there are many times people code data.
+differently and they will name it something that's, you know,
+You don't think is intuitive, but in some way they had a--
+rhyme or reason of naming it that.
+So this
+This one was easy because we know its name, but in
+In a general sense, please double check.
+For this, we're going to keep it to is
+equal to and for
+For our actual name, we're going to look for
+McKee's rock so we're gonna scroll down
+It is an alphabetical order, which is easier for us.
+So we're gonna go to the M's.
+And we're going to find McKee's Rock here.
+So I'm going to click that and apply.
+Okay.
+So here you can see that there's a little
+blue line right here. That's our selected mu-
+municipality of McKees Rock so you can either
+see it here on the map or you
+can go down and you'll see here that it's
+highlighted in blue, and the same blue that it is on the map.
+So we see that this McKee's Rock is highlighted
+because--
+it is a selected record.
+And at the bottom left of the
+attribute table. You can choose all
+selected records.
+now it's showing all records we can click this blue
+blue little, how many, three lines.
+icon that says "Show Selected Records."
+and it will only show the selected record that you choose.
+shows, you know, for this one since we only have one, it's
+not super helpful, but if you're choosing...
+various records from across the
+different geographic area. This is very very helpful to all of us.
+see the selected records.
+And from here we can...
+Let's see if I want to show you anything else.
+Oh yeah. So here we can also zoom.
+to this selected record so if you go to the municipality
+because that's what we're looking, that's where we made our
+selection from. We can write
+click on this we can go
+selection and then zoom to selection.
+and it will show us the actual municipality that we
+selected which is the McKee's Rock. And so we can
+can see that very, very clearly, which is
+Nice. So now we're going to
+clear our selection. So,
+see if I remember wishing.
+one it is obviously I do not.
+You can also zoom to selection from here.
+Alright here, this little all white button we're gonna
+press this which is clear selection.
+And you can see now that it's no longer highlighted in that blue color.
+and we don't have any records in our selection.
+features section because we don't have anything selected.
+anymore.
+Okay, so now we could close this attribute table.
+and we're going to
+to uncheck the municipality.
+and check population.
+density again. We're also going to let's
+soon to full extent so that we can actually see what we're doing.
+So now...
+we're going to search for a specific federal
+qualified health center, which is the Birmingham
+him free clinic and we're going to zoom to that clinic.
+So again, remember we are going to
+right click the FQHC.
+clinic layer. We are going...
+going to... Oh.
+Go to the attribute table.
+And we're going to select by attributes.
+again.
+So we have this all right. We have the...
+FQHC clinics, new selection.
+So our winner.
+where is going to be name again.
+Again, this one's easier because they're more intuitive names.
+So the name is equal to
+and we're looking for the Birmingham Free Club.
+clinic, which is right here at the top, this Birmingham free clinic.
+and click on that and we're gonna press OK.
+Okay.
+So now it's
+if we want to zoom directly to it
+and not try to look through here.
+They're only 19, so it's pretty easy to find it here.
+We can press this, the FQA.
+clinic right click it press selection
+And then Zoom to select.
+right here and you can see that it doesn't get us.
+too too close to it but we do see that it's in
+into a little bit. You can also
+press Zoom to selection from the actual
+Table panel as well.
+So whichever one is more intuitive for you, that's fine.
+You don't need to--
+to do it one way or another, whatever gets you there.
+Okay, so we are going to...
+Umm... Ugh...
+So let's show selected rows again.
+like we did before and again we're only seeing the Birmingham for
+free clinic, which is selected in this blue color.
+and shown in blue on the map.
+And we are going to...
+clear the selection. So remember we go to
+Here, we're going to press clear selection and it is
+no longer blue and it's no longer in our
+selected area.
+And from here, I believe that is
+our last task that we need to cover for tutorial
+one dash two. Let me double check.
+Okay.
+So now we're going to save our project.
+So remember,
+to save and luckily if you
+forget to save and you try to close. Our GIS is very
+good about prompting you again to like are you sure you don't want to save because you
+do a lot of work. Okay, so now
+we can close our project because we
+saved it and like we did
+with tutorial one dash one. Remember we need to come
+buying our geo database index file and
+our actual tutorial project file.
+So we're going to do chapter one dot gd.
+We're going to select index.
+And we're going to select this tutorial 1-2 with our
+last name because that was the one we just worked in.
+And then once all three of those are selected, we're going to write.
+Click, Send to Compress.
+or zipped folder.
+We'll make the back to compress.
+Oh no, I don't have space.
+Let me see.
+Okay, sorry.
+Sorry about that. I had to do a little moving around.
+things to make sure I had space. But all I did
+was compressed. Remember the chapter one.
+dot gdb index.
+and then tutorial 1-2 with my...
+last name and I compressed all of those and I created the
+this new tutorial 1-2-Rosen file.
+is that zip the zip folder and this
+This sip folder right here is what you will submit to camera.
+for tutorial 1-2.

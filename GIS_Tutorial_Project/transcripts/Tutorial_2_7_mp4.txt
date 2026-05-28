@@ -1,0 +1,92 @@
+Okay, second to last to the next.
+tutorial for chapter two we have two seven
+which is creating dot density maps.
+So we will start by saving the project.
+as...
+tutorial 27.
+with our last name.
+.aprx.
+So, see it up at the top that we changed the
+name and we're going to symbolize
+persons receiving food stamps using dot
+density maps. So we're going to right click.
+the persons receiving food stamps.
+and go to center.
+and you'll see that it was already open to it.
+when I right clicked, but we'll just assume.
+And then that it doesn't for you and so I can tell you how to get there.
+there anyway. And for...
+primary symbology we're going to choose.
+dot density, since it's a little bit lower.
+Okay.
+So, we're here.
+Okay.
+And for the --
+fields we are going to choose.
+U18.
+food.
+And oh, six.
+food. Oh, 60 underscore food.
+So we want to show both of them at this time.
+at the same time. For the.
+label for this one, we're going to change.
+it to pop.
+Ulation under.
+18 and
+for this one, the O6D underscore.
+food we're gonna change it to population.
+over.
+60.
+So you can see them update on in the contents pane over here, the
+pocket.
+population under 18 and population over 60.
+So for our dot size, we're going to keep
+Keep it at 2 and for our dot value.
+we're going to change it to 50.
+And so we're going to see what happens when we change it to 50.
+And you'll see that there are now a lot more dots.
+And hopefully that's intuitive to you because.
+'cause what the dot value is really telling us is...
+is how many people each dot represents.
+So.
+if you remember from the lecture slides.
+And now I can't remember what it was actually plotting.
+Maybe lead poisoning cases?
+to hold me to that. We saw that each dot represented
+10 people or 10 cases.
+So he
+Each dot is representing 50 people.
+under 18 or people population over six.
+60 who are receiving food stamps.
+So we're going to change.
+Change this to 100 and...
+Before I do it, I want you to think in your head what you think.
+think is going to happen to the map.
+So think on that first section.
+And if you're not interested in this, please subscribe.
+If you said there would be a lot fewer dots, you would be right.
+In fact,
+there are now half the dots because now each
+represents 100 people rather than 50.
+So it makes it a little bit easier to see.
+you can increase this as much as is necessary.
+there are a lot of dots on this map.
+So.
+So it might be beneficial to even go on.
+a little bit but we'll keep it at 100 just for some pleasant.
+And this is a very short tutorial that was actually
+actually all we had to do for this.
+So we'll go to project.
+saved project you can also just control S but my
+my command S because I'm on my Mac is not
+cooperating and then we can close
+Because...
+And again, we will combine our--
+chapter 2.GDB, our index.
+and then our tutorial to
+seven with our last name and once all three are high
+We will right click, send to your website.
+compressed zipped folder and again
+we are going to upload the entire zip folder.
+under the tutorial 27 submission.
+link. And that's all you have to do for this one.

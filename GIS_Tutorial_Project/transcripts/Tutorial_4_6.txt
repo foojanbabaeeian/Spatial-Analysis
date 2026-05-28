@@ -1,0 +1,138 @@
+Hey everyone, welcome to tutorial four.
+4-6 which is the last tutorial for Chup.
+form and in this tutorial we'll be creating a
+new table for a one to many join.
+and I am going to actually remember to say
+project as with my last name first.
+So let's do tutorial 4-6.
+with Rosen.
+And the first thing we'll do is we'll actually create...
+the table, so we are going to go to
+analysis.
+And then in tools.
+We are going to search for "creepy"
+Create table.
+So for our...
+table name we're going to name it
+you see our higher argument.
+code.
+And then...
+and we're going to run.
+Thank you.
+So now we see that the table is over here in our
+content's pain, so we're going to...
+Open our table.
+I'm going to move this over to the next one.
+just a bit. And we're gonna go to
+to Fieldsview?
+And we're going to add two new features.
+fields we are going to add.
+hierarchy.
+And that's
+going to be a short.
+data tape.
+Okay.
+Okay.
+And then we're going to add.
+Rime touch.
+Type.
+which is going to be text.
+data type.
+with a length of...
+25.
+And we'll make sure to save it up here.
+here.
+So now we are going to open
+the table again. So we'll see our two new variables here.
+and we're going to manually create
+different rows here so we have to create
+for...
+rose, I believe. So we'll click to add in
+row here. For hierarchy we'll type
+three or crime type we will talk about.
+type robbery.
+And then we will add
+you'll also notice that the object ID was
+Just automatically created by GIS here.
+For four, we will do it.
+type aggravated.
+A soul?
+or...
+five. We will type.
+burglary.
+And for six, we will type.
+larceny theft.
+And...
+on the end.
+Let it tab.
+We will make sure to press save up here.
+Save.
+And then...
+Now we're going to do the actual one to many.
+join. So let's close that up here. So now we've created.
+our table and we're going to join it.
+so that the new code table will inflate.
+form our maps crime layer to make the crime type easier.
+understand. So rather than just getting like a three, four,
+or five or six. We'll have the actual name of
+the crime type for each. So we're
+going to right click this Pittsburgh series.
+crimes and click join
+and add.
+adjoin.
+And for input field, we are
+going to put high
+hierarchy and should automatically fill in the
+join field that's hierarchy here and our join table.
+is UCR hierarchy.
+And again, since it's the only table that we actually have in our context.
+that'll be easy to understand.
+that's gonna be the right one.
+And let's make sure we don't have to do anything else.
+So let's first we can validate the join.
+You don't have to. You can technically just press OK.
+Okay, but it will stop you from having a
+to remove the joint in case there's any type of mistake.
+So it was valid. Join.
+And so now if we open the atom.
+table for Pittsburgh serious crimes.
+We'll see.
+that we actually have the crime type instead.
+of just the number would
+we is hard to understand.
+So now we can see what each type of--
+crime actually is.
+And this is totally optional.
+I guess I'll-
+this is technically optional, but we can also symbolize
+the Pittsburgh series crimes summer 25th.
+with unique values and crime type as the
+value field. So let's write
+Right click this and press symbology.
+And...
+And for this, we are going to...
+Choose unique values.
+And for our field one...
+We are going to choose
+crime tape.
+So now you can see that all of the...
+different crime types that we created in our table.
+are now here and if we want we
+can click this show all other values.
+use so that it's just our aggravated assault burglary.
+large knee theft and robbery. You'll notice that nothing was actually removed.
+from the map because that's the only types of cranes that we're
+we're in our data to begin with.
+But if we are only interested in these, we can.
+and just make sure to show those.
+If you--
+want to practice. I'm not going to.
+But if you want to practice you can also try similar
+and crimes by giving each other a chance.
+crime a different symbol. So going through this and changing the symbols to
+anything that makes sense to you. But that is the end of
+up tutorial four dash six so we will.
+Save our project.
+And again, there's no submission for this.
+But I do suggest that you save it just so you can go back to it.
+if you want to.

@@ -1,0 +1,445 @@
+Welcome to 2020.
+for a 4-3 and this is
+carrying out attribute queries and for
+For this one, we are actually seeing
+starting from a tutorial file that was provided.
+in our GIST for a pro file.
+So.
+I will have you take a second to get there.
+And as--
+always and we'll save the project as with my last name.
+Again, I know it's not.
+necessarily required here.
+since we're not going to be turning it in.
+but I will do it anyway.
+So let's go to JST Pro, chapter 4.
+tutorials, tutorials.
+four dash three.
+And I love my last name.
+Okay, so in after you query select
+attribute data rows and spatial features based on
+attribute values which we've done a little bit.
+if you were just doing tutorial
+4-2. We did that when we selected.
+the um...
+The attributes that were greater than 0 so that we didn't divide.
+by zero when we are creating that percent pop youth.
+under 20 and here we're looking at crying.
+offenses in Pittsburgh and we're looking at it by
+crime type and we are going to
+going to first and view
+the crime incidents. You can see that all of them are plotted a little bit busy.
+here we're going to right click crime
+offenses and we are going to click symbol.
+and
+And in the symbology pane here, we're going to--
+to click more up in this right hand corner.
+And we're gonna press show count.
+So it'll show us how many of each they're actually.
+are so like for this one we'll mainly be
+be looking at or maybe only looking at burglary and robbery.
+So for burglary we have 846
+in total and for robbery.
+We have...
+I'm gonna go down too far, I don't know how far this is.
+I went too far.
+Here, robbery 412.
+So we can close the symbology pin here.
+And the...
+First thing we'll do is create a date range selection query.
+So we're going to query for event location.
+location and that's almost always done.
+for event locations where we want to speak.
+specify specific dates that these events
+happen within. So if we're looking at 911 calls for
+example, we might only want to look during a suit search.
+or a certain year or maybe even a certain week.
+So a lot of times you'll see this done.
+And on the map...
+which I'm already on. I don't, I'm not sure.
+you will be. We're going to under selection.
+here we're going to select by attributes again.
+And we're going to create the expression.
+so it's already there and then we're going to choose date.
+occur?
+And we're going to do is on or after.
+right here and we're gonna go to
+7/1/2015.
+here and it has no.
+Midnight as the time, you don't have to worry about that.
+It's not actually tied.
+to anything so we're just gonna do the 7/1/25.
+and we...
+first we'll click the very
+button right here in this top left corner.
+corner this little green check button.
+And it says our expression is valid.
+So I warn you that this verify button checks for C.
+Intax errors not logic errors, so it'll just
+tell you whether it's written out correctly, not necessarily whether you did.
+it correctly based on what you think you're doing.
+So,
+This is just a preliminary check here.
+So now we're going to add clause right here.
+And for this, we're gonna keep it as and.
+And for date occur...
+Again, we're going to say is
+on or before.
+And we're going to choose.
+731 2015.
+So we want to only look at
+crimes that are occurring in the month of July.
+Also timely since I am doing this on July
+31st here.
+And then we can click apply.
+Mm.
+And...
+Over here.
+I just know this is a little bit.
+So you can see that now all of the crimes that occur.
+in the month of July are selected or in this
+blue color, but we're still seeing all of the
+crimes still it's just the points for July 25th.
+15 are displayed and they're different.
+in some way. Okay.
+So in the Select by Attributes pane...
+Under expression right here, we're going to choose.
+save and...
+and I already have it, but I'll write it out again.
+so that we're all on the same page.
+We're going to choose.
+Select or type q-r-y.
+date, range,
+And it should be .ex.
+P and it should be in the chapter four data.
+and I'll just say yes I want
+to overwrite it.
+And...
+See, now we're going to...
+to right click the crime offenses.
+layer and go to the attribute table.
+So you should see that 3,900
+and 24 crimes are selected.
+I'm going to do something with my hair.
+want to see selected only. These are the
+3,924 crimes that occurred.
+in the month of July of 2015.
+Oh.
+Okay, so now we can...
+close.
+the attribute table and
+clear our selection.
+So now, we're going to take a look at the next slide.
+everything is showing again.
+Let's see.
+We are going to learn how to reuse a safe query to create.
+a definition query. So in the contents pane,
+we're going to right click crime offenses click.
+properties and unknowns.
+under definition query right here.
+We're going to go to where it says new definition.
+where you don't click that yet though, press this little down arrow.
+and then add definition queries from 5.
+And it should hopefully pop up soon.
+to the chapter four data that we just saved our
+date range query in, but if not that's
+where you need to be, we will press that.
+and press OK.
+And then...
+Or some K-H-R-I-N.
+And now we will open.
+Open the Crime Offenses attribute table again.
+And you have to press load all.
+In the bottom down here, load all records for the table.
+So now you'll see that it's only the three...
+3,924 select.
+that we chose, remember that matches the July 2015.
+crime. So now we're only looking at those.
+3,924.
+Okay, we can close this for now.
+So we can also query a subset of crime.
+types using OR connectors and parentheses.
+So we want to only look at burglaries and
+robberies as I mentioned. So we're going to.
+Right click crime offenses click property
+and in the definition query right here.
+we're going to press edit.
+And we are going to...
+Add clause here.
+And we are going to add the clause.
+And so it should be and still.
+Crime is equal to...
+keep that and then we'll choose.
+burglary and then
+we're going to add another clause and this time instead of
+and we are going to choose OR.
+And we are going to choose crime.
+is equal to...
+robbery.
+Now, if we...
+Just press apply or okay right now.
+We're not actually going to get what we're doing.
+we think we're gonna get.
+So we're gonna get
+But all the burglaries that happen...
+within the month of July.
+However,
+We are also going to get some of these
+robberies that happen outside of our window because it's just
+reading it as and an or.
+So what we're going to do is we're going to press this SQL.
+We're going to.
+toggle it on right here and what we need to do.
+is kind of join that
+crime statement into one.
+So what we're going to do is right before
+prime right here, the first crime.
+We're gonna open it up.
+and then we're going to close parenthesis.
+at the end. So now it's saying
+that the crimes have to occur in
+the month of July and the crime has to be
+either burglary or robbery. So press
+and then we'll just apply there.
+Let's press OK. So now we have all the things that we have.
+only our burglaries and robberies that happened in the
+of July 2015.
+Um, and let's see...
+Let's symbolize robbery with a dark red
+color so we are going to.
+Oh, second.
+Right click crime offenses press C
+symbology, and then for
+where I forgot which one it says. Um, robbery with...
+dark red color. So we're going to click on the little
+little similar here. I'm going to right click and I'll make it a
+dark red color so you can see it a little bit better.
+See you next time.
+Notice that the robberies are very much clear.
+in certain areas whereas the burglaries are
+kind of more evenly dispersed.
+So we...
+We tend to see that with violent crimes versus like property crimes.
+is that the violent crimes cluster a lot more than
+property crimes. Okay.
+Okay, so I think I can exit.
+out of the symbology pane for now.
+So now we're going to open the definition query for crime offenses.
+again so we're going to right click properties.
+and it should automatically take
+you to that definition query because we were just working in that.
+section and you're going to clean
+click the green checkmark
+to clear the active query. So this little check mark right here where
+We're going to press that so that it's gone.
+And we will press OK.
+And so now you'll notice that all of the crimes are back again.
+So...
+Now, we're going to...
+to query the day of week range.
+So we're going to build a selection query for burglaries.
+during the weekend and obtain the number of
+weekend burglaries in August, so we're not looking at July anymore.
+we're looking at August and then we'll switch the
+selection and obtain the number of weekday burglars.
+and finally we'll obtain the average number.
+or burglaries per day on a weekday versus a weekend.
+day. Okay. So we
+We are going to go to...
+prime offenses.
+Actually, no.
+We're going to select by attributes here.
+So we want
+The date occurred to be on
+or after 8-1 now.
+We're looking at.
+I guess.
+one and is honored before
+we'll double check that's still correct but it should be.
+is on or before a
+831.
+all of them that happened in August.
+And then we're going to add.
+add a clause here. We want
+the crown.
+time to be equal to the same.
+to...or glories.
+press.
+Okay.
+and we can open the attribute table to see how many we have.
+And it says there are two.
+273 burglaries that happened.
+in August specifically of 2015.
+And what I'm going to do, you don't have to do it.
+with this way. It's not the way it's done in the tutorial, but it's the way I
+can.
+typically do this when I'm working in G.
+us what you can do and we'll just show you another
+future here is if we want to create a new
+layer with just these 273.
+that we have selected.
+What you can do is you can go over here to crime infection.
+right click it, go see.
+selection and then you
+can make layer from selected.
+features right here.
+And now you'll see it says Crime Offenses Selection.
+So let's--
+open that attribute table and you'll notice we
+We only have the 273.
+So in this one...
+We have 273 selected of the
+and the crime offense is so much more than that.
+election, we're only looking at those 270.
+So I find it a little bit easier to
+kind of narrow down from there. Personal preference
+if you want to follow the way the tutorials did it that's totally fine.
+This is the way I like to do it.
+OK.
+So from here, we are going to...
+figure out how many burglaries happened on
+on a weekend day first.
+So for where we're going to choose.
+Day of Week is easy.
+equal to...
+Saturday. We'll add a clause here.
+and we'll say or because we want it to be
+either of those of these days will do or
+day of week is equal to
+Sunday.
+And now let's apply that.
+So we'll see.
+see that 84 of the 273 burglary.
+occurred on a weekend day.
+And if we press the switch...
+selection right up here in this top panel or
+top layer field.
+I'm getting all my words mixed up.
+In the top corner, in the top...
+middle, we'll press switch selection to see how many.
+happened on a week day and
+see that 189 happened on a weekday versus
+versus 84 that happened on the other side.
+on a weekend day.
+So if we...
+Defide here.
+I believe I should have paid more attention to the tutorial.
+book. I think it's there were 10 weekends.
+10 days and 21 week days.
+So we're
+will do 84 divided by 84.
+by 10. So on the weekends there was an average of 8.
+0.4 burglaries per day.
+And for weekdays we have a hundred
+and we have
+nine so they were slightly more
+burglaries that happened on weekdays on average.
+in August of 2015 versus week.
+and you will see that.
+frequently in a general sense when you're looking at problems.
+because typically they currently have a lot of money.
+when people are away from their home because they don't actually
+want to encounter any people and that
+is when they're at work during the weekday.
+So.
+That is typically when you'll see higher numbers of drawers.
+burglary. So we see that that tracks and
+our data here. Okay.
+So we're going to...
+Clear the solution.
+If you did it the way that you did it.
+the tutorial book does it but if you're working for
+the crime offensive selection you can stay here.
+Okay, so now we want to create a new video.
+person attributes. So let's say
+The burglary was committed by a male in his
+30s who lives on Warrington Ave.
+and we want to search whether a person with those characteristics
+has been arrested for burglary before in the month of August.
+So let's start.
+a new Select by Attributes query for.
+crime offenses. So now we don't
+care about days of the week so we can get rid of
+those. So...
+First and foremost, we're going to look for...
+crimes that resulted in arrests.
+And so what we're going to do is we're going to add the clause here.
+So we're going to go where arrest
+name. So this is a rest last name.
+And if there is, if there was a...
+an arrest during the event it was.
+will have an actual name and if there wasn't a
+arrest it'll say no. So what we want to change this to
+is is not not.
+because we want to know which ones actually
+resulted in a rest. So we want to make sure there's an actual value there.
+we do not want it to be null.
+Let's apply that.
+So now we see that 40 of them are selected.
+So we have 40 of them.
+arrest that were made for burglaries in August of 2015.
+So we're narrowing it down and we know
+that the suspect was male so we're going to
+added clause here and we are
+going to do. For field we're going to do.
+arrest sex is equal to
+male. So what's
+apply that. And we can see now that it's at
+34. So we're getting closer and
+And we know that they are between the other two.
+ages of 30 and 39. We know they're in
+of 30s so we're going to add yet another clog.
+and it'll still say and
+for a rest age.
+And here we're going to say...
+is greater than or equal to a.
+too because we want to include 30 in there.
+and you can either type it or I will trick.
+Click it from the drop down menu and
+rest age so we will be able to do that.
+go to our rest age again.
+is less than...
+40.
+Remember, we want it between 30 and 39.
+So let's--
+let's apply that.
+So now we're down to nine.
+We're getting very very close to figuring out who our suspect
+is we're doing a little detective work here.
+And we want to be sure who it is.
+We don't want to try to--
+from nine people. So we're going to add the clause for
+because we have their street name as well.
+So we're going to add one more clause.
+And we are going to do...
+Arrest residents?
+And for this, we're going to do contains the text.
+because what it has is actual ad hoc.
+dresses and we just want the street so it's going to be contains the
+text.
+text. And for this, we're going to have to manually type out
+Warrington in all cases.
+caps because the SQL is going to be a little bit more complicated than the other one.
+case sensitive and that's how it's written in
+the actual attribute table so we need to have Warrington in all
+caps to make sure we actually get our
+get a successful result from our query.
+So now let's apply that and look at the
+that we have one selected now.
+So we are going to check who.
+the culprit is. And you'll know
+Notice here that it still says,
+rest. Last name, Noel. This happened to me earlier.
+So what you're going to do is select by attributes.
+and you're going to just re-click, this is not null.
+and apply.
+I don't know why it does that.
+Another quirk from GIS.
+you're welcome. And now we have our culprit who is
+John Bond so
+that is how we did some detective work.
+through ArcGIS and that was the last
+thing for tutorial 4-3. So if you
+If you're choosing to save your project, this is where we would save.
+And since we're not submitting,
+you can end there.

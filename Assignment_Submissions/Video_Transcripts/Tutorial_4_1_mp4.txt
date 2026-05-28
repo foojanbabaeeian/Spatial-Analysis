@@ -1,0 +1,321 @@
+All right everyone welcome to the
+chapter four tutorials.
+for these tutorials for this chapter.
+I posted an announcement about it as well.
+but please remember that you don't have to submit these.
+for credit. This is purely meant as a
+practice for you but for 4-9.
+one if you're choosing to play along.
+It's importing data into a new ArcGIS.
+Pro project. So in this tutorial we're not
+not going to start with an actual pre-made mask.
+from RGIST for Pro 5.
+folder. We're actually going to
+go here in N2.
+Alrighty, I'm sorry, but we're going to open our gym.
+pro directly?
+And...
+And under this new project right here,
+we're gonna click on.
+map and...
+And for the name, we are going to be
+to name it youth population.
+I believe.
+And then for our
+location we are going to...
+put it in our GIS
+for pro as repress.
+And chapter four.
+And then I think we just save it right now.
+into chapter four here and press okay.
+All right, so now you can see we just have a generic.
+map of the... really of...
+North America. So...
+So under the project tab over here,
+we're going to click options.
+And you can see here that when we...
+we created this new map and named it youth population.
+It has our location home folder.
+It also creates
+a geo database and toolbox for
+our new Geo database that we're working with.
+that's called youth population.
+So we have all of--
+that and it's going to be in the chapter four slide.
+youth population folder. So every
+new feature class table or file
+that we create is going to be saved by default to this.
+new projects file geo database.
+Okay, so I'm going to go back to the next slide. So, I'm going to go back to the next slide.
+Under the project tab, this part I guess
+is not necessarily required since your
+not going to submit it but if you
+want to just stay consistent and have this at least.
+so that you can reopen it whenever.
+Okay. So...
+Let's save it under this tooth.
+population what we're going to name it.
+tutorial for one
+with our last name still.
+and save.
+Alright, so now we're still working that way.
+youth population database but now it has the
+tutorial 4-1. Rosen up here.
+She's inconsistent with what we've done previously.
+in the semester. Okay.
+So now we're going to set up a folder connection.
+So...
+it is sometimes useful to connect another folder.
+for easy access. So we're going to
+connect to the Maricopa County.
+And I'm going to get rid of some biology here.
+So we're going to open the catalog pane if yours isn't open.
+We're going to expand folders.
+And we're going to click.
+the add folder connection. We're going to write it.
+Right click, folders here.
+Add folder connection.
+action.
+More.
+We are going to, it may already open for you here.
+We're going to go to that JST for pro chapter four.
+data and we're going to click
+like Maricopa County so that it appears
+right here and then just press OK.
+So don't--
+If you want to open anything in Maricopa County, just click the folder itself.
+press OK.
+And you should see that it--
+appears here now under our folders.
+Let's expand.
+our Maricopa County folder. So now we have all the
+we have Maricopa County shape folders.
+municipalities, tracks, pop youth.
+And then if you want to see what's in here, we just have
+have our youth population GDP that we created.
+Okay. So now we're going to
+Convert a shape file to a feature class.
+And a shape file is just a
+spatial data format for a single.
+layer on the map, so point, line, or polygon.
+And you're going to notice if you don't...
+Download files from like the Census Bureau.
+Like for the tiger files that we talked about and during the lecture
+they're probably going to be in shape by
+format so it's still very commonly used but be
+because they don't support more advice.
+advanced capabilities and there you have to add a little bit more.
+context on the back end to have them actually be usable.
+really we should be
+converting to a feature class and storing it as a geo.
+database so then we can just read in the entire geo database.
+and we can start from there.
+So it kind of saves us a few steps on the back.
+back in. So on the end.
+analysis tab. And...
+in the geo process.
+So right over here, we're going to click.
+tools and we are going
+to search for...
+the x-ray.
+Export features.
+if I can spell.
+going to click on export features here.
+And we're going to convert our shape file to a feature class.
+as I mentioned, so for input features.
+We're gonna click the browse button.
+We're going to expand folders over here on the left side.
+we're going to click Maricopa County.
+And we're...
+are going to click municipality.
+and our output feature class.
+Last we're going to name it...
+cities?
+And
+then run the tool.
+So now we have our...
+Our cities was shapefile, but now it's just a
+feature class so it's more permanent, we can store it in our geodata.
+base. We are also going to do this for
+tracks.
+I believe.
+I might be leading you astray. I'm gonna do it because try
+Okay. So...
+up here. We're going to go back here for input features.
+we're going to put tracks.s.s.
+and one.
+name this one "Tracks".
+And then we'll run that.
+Okay, so now I have cities and tracks on our map.
+Okay.
+And I'll show you that it should be...
+saved in our youth population GDP.
+So yep, we have now cities and tracks in our
+youth population geo database.
+Okay.
+We're also going to import a table into our file.
+geodatabase. So we're going to import a data table.
+from the American Community Survey or ACS.
+which is in CSV format.
+And so remember for these data,
+tables, the vertical columns have the attribute names in each order.
+horizontal rope represents a census tract.
+So we're going to go to...
+tools again and we're going to search for
+export table. So instead of features, we're going to
+to export. Table,
+And our input table is going to be...
+and pop youth from the community.
+the Maricopa County folder so that should already be open.
+but if it's not, it's the Maricopa County under chapter four.
+more data, and we'll press OK there.
+and our output table name should just be.
+be pop use.
+And so let's run that tool.
+Now you can see the size of the tree.
+that it's on the contents pane and if we want to be
+really sure we can see.
+See?
+pop youth right there. So it's also in our gym.
+database.
+Okay, so we can all...
+Also
+Use database utilities in the catalog.
+So we can create, copy, rename, and delete.
+file, geo databases, and anything else.
+in the catalog pane. So if you want
+want to make a copy of your data as a backup or if you
+want to share your geodatabase.
+You'll--
+Create a new file geo database.
+copy spatial data to it and rename the feature classes.
+and table, and we can also delete a future class in the file.
+to your database.
+So I'm going to show all of the things I just said.
+at you really fast. So in the catalog
+pane, we're going to right click databases.
+and click new file geodeo.com.
+database for the name
+we are going to type.
+Caracopa Choo Choo.
+traps and...
+Click Save.
+So now we see americopo tracks dot gdb.
+And in the database
+folder we're going to expand the youth population.
+So right here, the number we have cities.
+tracks and then that pop youth table.
+and we're going to right click the cities feature.
+class and we are going to
+click copy and then we're going to
+click on our Maricopa tracks.gdb.
+Right click it and then paste.
+So now we see that the cities is in our
+new Maricopa Tracks Geo database that we've created.
+So if you want to share...
+kind of pieces of your geo database with someone,
+but not just the other one.
+the entire thing, this is kind of how you would go about it.
+We will do the same with the part of the video.
+top use table, so we're going to right click the pop use.
+and copy.
+And then we'll click on Maricopa Tracks G.
+database and press paste again.
+Great.
+And this didn't come up as an issue.
+for mine right here, but sometimes you'll notice that
+once you add things to your geo database,
+and this is another.
+quirk form GIS sometimes it
+won't pop up right away so what you can do if
+that happens is you can right click the track that you just made changes.
+to or the geo database that you just made changes to and
+press this refresh button.
+So ours already
+in there, but if you ran the command and it didn't
+do anything, press the refresh and it should show up.
+Okay.
+So in the Maricopa Tracks Geo Data B-
+And so, I'm going to click on the database.
+Now I'm going to right click pop youth.
+and click rename.
+And we are going to read.
+name it your true.
+Racks pop youth.
+And you'll notice that it changed the name down here in our
+CopaTrex Geo database, but not in our original user.
+population, geo database, which is important.
+Okay.
+So now let's say we don't want to.
+include our Tracks Future class.
+So we can just--
+deleted from the Maricopa Tracks Geo database.
+So let's say again I'm preparing a geo-
+database to be sent to someone for their use.
+but I decide actually they don't need access to this.
+one table or this one layer.
+So what you can just do is, we have to.
+which one I was supposed to be deleting, so let me...
+Double check that. Okay, tracks.
+Mmm.
+It's around.
+Right click this and then we're just gonna press.
+And...
+That's kind of a scary warning.
+It says, are you sure you want to permanently delete it?
+They just mean from that geo database.
+So you'll notice that.
+It didn't disappear from our youth population.
+geodatabase it just was deleted from our merit coefficient.
+So don't get scared if it says, are you sure you want to?
+permanently delete it. It just means from that specific.
+geodatabase. Okay.
+And now let's suppose...
+that actually we want
+to delete the entire Maricopa tracks geodata.
+we decide that we don't want to send it to any people.
+We're fine with just having our youth population geo database.
+So what we can do is we can right click.
+the Geo database link directly.
+and press
+Delete.
+And it'll ask us for sure.
+We'll say yes.
+And so now that entire Geo database and everything
+in it is gone.
+Again, it's not gone from our original GOD.
+base just this new one we've created.
+Something...
+important to mention though because I'm saying how non-p--
+permanent is if we delete it from our original
+youth population geodatabase, like if I were to decide to
+delete this tracks feature class.
+From our Geo database, it is gone permanently.
+So if I remove things from the map
+for example, like if I decide to remove track...
+I'm not going to because I need it later. But if I decide to
+to press remove here.
+So if I appear in pressure remove.
+It doesn't delete it from my geodatabase.
+It just removes it from the map.
+So I can at any point.
+We added to the map from my Geo database.
+But remember that do not delete things from your original.
+original geo database unless you're sure you don't.
+need them anymore. Otherwise you have to
+Re-download them and re-add it in the whole thing.
+Um, okay. And I think this is actually it for tutorial 4-
+one so we can save our price.
+object here.
+And unlike the other one...
+ones, do not close it from here because we're going to pick
+right back up from this map for our tutorial.
+dash two and remember that you
+don't need to do the compressed zip folder.
+because we're not actually uploading in.
+If you...
+Really want me to double check if it's right, you can send me.
+to me directly, but you don't need to.
+if you are just doing this for practice, don't worry about it.
+But this is the
+end of 4-1.

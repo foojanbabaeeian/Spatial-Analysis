@@ -1,0 +1,219 @@
+Alright, so welcome to our lecture.
+Last chapter two tutorial, so it's two.
+eight setting visibility ranges.
+And we will start by saving
+project as tutorials.
+2.8 with.
+our last name.
+And you'll see that the
+Project opens up all of the layers without any time.
+of labeling and we can actually see
+set the visibility scale to automatically turn.
+turn off labels when zooming either.
+below a selected scale or beyond a select scale.
+and
+An example of when this would be useful if you were to use a machine.
+in the previous chapter two tutorial.
+I'm not sure. I don't remember which one it was, but we had the-
+Manhattan streets when we were zoomed in.
+out and we had all of them in Hatton Street names actually
+showing. It made the map really busy.
+and hard to follow so we can actually.
+turn off labeling or even features.
+when we zoom in and out just just
+to keep the map as simple as possible.
+So we are going to...
+Start by going to the West Village.
+bookmark. So if you're not already on the map tab.
+Go to the map tab, bookmarks.
+West Village.
+And we can set the visibility range.
+for the land use label so that they don't display
+when we're zoomed out beyond the current system.
+scale here. So in the contents pane here, we're
+We're going to click on the zoning land use.
+And we're gonna go to labeling.
+And...
+on the left side here we are going
+to click label. So...
+If you recall from our previous tutorial, this just happened.
+the land use parcel labels on all of these.
+And if you remember from that tutorial when we zoom in.
+out all of the labels remained on the map.
+and when we're zoomed out it looks again very
+cluttered and busy and hard to follow. So we want to say
+it so that if we zoom out beyond this exact
+range or closer.
+they won't show. So what we're going to do here.
+is in the visibility range.
+right here this tab we are going
+to set it so that for the
+minimum scale?
+we go to current. And this is
+This might be more intuitive for you. It was not as
+intuitive for me is actually very counterintuitive when I was learning
+this in GIS for the minimum scale.
+if you said it to current, that means that the label
+will only show up if you are at least
+zoomed in this much. So it's basically the minimum
+amount that you need to be zoomed in for the labor.
+to show. I can't.
+guess I can't tell you why, but I really truly thought it should have been the
+opposite when I was learning it. So minimum scale is it has to be
+this zoomed in or closer maximum skin.
+is it has to be this zoomed in or further away.
+Okay. Someone off of--
+a little bit there but it's okay.
+We are okay, so I think I said
+And then to show you, I zoom out a little bit.
+bit, the labels disappear in.
+if I go a little closer, there they are again.
+So.
+you can just confirm that you did it correctly that way.
+and...
+We can also set the visibility rate.
+ranges for different feature layers.
+layers. So let's go to
+Maps again and then go to the...
+lower Manhattan bookmark.
+So you see that the labels are gone.
+again and we're gonna
+try to make it so that for the square.
+when we are Zoomers.
+out we don't see all of these little schools.
+point data.
+Okay, so we are going to
+I'm going to go back.
+schools here.
+And...
+Be...
+[ Silence ]
+going to go to feature layer instead of layer.
+labeling. So recall now that we want these.
+schools to turn on and off basically when we're zooming.
+and now not the labels themselves. We don't want to label
+each every single one of these schools because that would be very overwhelming.
+So we're going to go to feature layer instead of laser.
+and
+for the minimum scale.
+Remember we want it to only show up if we are at
+at least zoomed in this much so it can show.
+they can show up if we're zoomed in a little closer.
+But if we're zoomed further out, we don't want to see the square.
+features because it distracts and de-
+tracks from the map. So for minimum scale,
+we're going to choose current.
+So you can see that they're showing here and if I zoom in.
+out a little bit, they're no longer showing. So that's how you
+turn feature layers on and off.
+And I'll see you in a little bit so you can see the screen.
+again.
+So now...
+Now we're going to turn the-- or we're going to change the--
+label features, people settings.
+sorry for the burrows. So now...
+Now we're going to click on the burrows here.
+And in the Labeling tab, we're not going to features again, we're going to
+labeling we're going to.
+turn on those labels first so that you can see the man has
+Queen's Brooklyn right here and in the
+visibility range tab, we're going to
+to set it so that
+The maximum scale now.
+Instead of the minimum scale, we want the maximum scale.
+to be current.
+So now we should only see the names of...
+of these different burrows when we are
+zoomed out further so now you can see Brooklyn
+Queens Manhattan Bronx. And if we zoom.
+And if it'll let me without assuming.
+on the entire project.
+Now they're gone.
+Okay.
+All right.
+So now we are going to
+Zoom to the lower Manhattan bookmark.
+So, mad.
+books, bookmark, lower Manhattan.
+kind of re-sign ourselves. So again, we still see the name.
+of the different burrows here.
+And we're gonna set the visibility range
+so that the neighborhood...
+and water features turn off when we're
+zoomed in beyond the lower Manhattan bookmark.
+So we're going to make it so that we have
+have to be at least that zoomed out to see them.
+So let's see.
+Let's see.
+Am I already in the lower Manhattan?
+forget. Alright, so we're gonna go to neighborhood
+we're going to go to the
+labeling at the top.
+We are going to...
+label. So we see the labels here now for each of these.
+neighborhoods and for the
+current or sorry for the visibility range.
+We are going to set the maximum scale.
+to current. So now
+if we zoom in, they disappear.
+And if we zoom out further, there they go.
+are. So we're going to do that for the
+water as well so let's click on water.
+and it should already be on labeling since we were just there.
+We're going to press label.
+And then for the maximum scale,
+Remember, we only want to see the names of the...
+the bodies of water when we're zoomed out.
+We're gonna set the
+the maximum scale to current.
+So now if we zoom in, they're gone.
+We zoom out that air.
+Okay.
+So...
+You can play around with this too if you want to get more
+comfortable with GIS if you want to change a little bit for the two
+make sure you end at the same place that we do.
+did, but let's go map and
+Let's go to the Lower Manhattan Bookmark
+just to center ourselves.
+again. And...
+And let's see.
+So something we're going to do is just do something.
+can do is we can also change it so that the
+water labels only turn on when we're
+zoomed in a little closer. So for water...
+Let's go to the labeling tab again.
+And let's see.
+Let me see.
+For the maximum scale, let's change it to...
+None. And for the minimum,
+scale. Let's set it to
+to current.
+And now you'll see that the water labels just
+appear when we're zoomed out now and instead.
+when we are zoomed more in there they are
+And that is where...
+Oh my god, if I can zoom out without...
+send me out on everything else. And
+After you've done that you can turn off
+the neighborhoods.
+and water features.
+So, um...
+You can also turn off the world like gray canvas.
+So now the only checked layer should be.
+the burrows and zoning land use.
+The schools can be checked on or they can be checked off.
+It's not going to really matter.
+based on the viewer at.
+then we can save the product.
+project.
+and close it.
+So now again...
+we will combine chapter 2.GDB.
+index and...
+tutorial 28 with our last name.
+Right click, send to...
+compressed zipped folder and then you will submit
+that entire zip folder.
+as your tutorial to a submission.
+or credit.

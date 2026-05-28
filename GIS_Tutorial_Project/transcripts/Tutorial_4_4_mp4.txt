@@ -1,0 +1,81 @@
+Everyone, welcome to tutorial four.
+dash four. In this tutorial we
+We will aggregate data with spatial joins, which
+you will use very, very frequently if you go on to use
+GIS in your work.
+The first thing we'll do is we'll build the spatial join and this one's a pretty
+short tutorial actually. So we're going to search
+for and open the spatial join tool.
+under analysis up here.
+We're going to go to tools.
+And you can either search for it or it's right here because it's a very...
+frequently used of mine, so let's do spatial
+Join!
+For target features,
+we are going to choose neighborhoods.
+or join features.
+we are going to go crime offenses so in this case
+we are trying to join these
+specific crime offenses to each of the neighborhoods.
+And I believe we are.
+looking at burglaries. Yes.
+So we're joining each of the...
+burglaries to each of the neighborhoods, so give us a count.
+of each of the burglaries within each of the neighborhoods.
+For output feature class, we are
+going to name it August 20th.
+2015 for Lori.
+Bye.
+Thank you.
+Sorry.
+And then we will join one.
+one and press run.
+Okay, so now we have this.
+new layer on our map called the August 20th.
+15 burglaries by neighborhood. So if we
+Open this attribute table.
+School stuff.
+a little bit. You'll notice that there's this new
+variable that's called join count and
+This is the actual count of burglaries within each other.
+of our census tracts or our neighborhoods.
+And so you will use this frequently to
+look at different number of...
+or number of physical features within a specific.
+neighborhood or other geographic size area.
+And I think we can exit this.
+And we will then create a query.
+Corebless map using graduate colors with the join counter.
+and 5 quantiles.
+So we are going to...
+Oops.
+Let's go right-click, "symbology."
+Oh, and it already rose.
+So for
+For this primary symbology we are going to use grey.
+graduated colors, and a purple color.
+believe we're allowed to use any color scheme we want.
+So we'll make sure that field we are joining on joining.
+account normalization none.
+method we want quantiles.
+and we want five of them so that can stay the same.
+And for my color scheme, I usually...
+Here, two.
+This one right here.
+here. Again, you can choose whatever
+colors you think are pretty, that's not part of this.
+And I realized I forgot to save project as well.
+do that at the end. But again remember since we're not submitting it.
+don't have to save the project, you can just go through this and look.
+Look to see how we do it.
+So now we'll turn off the crime offenses layer and I'm going
+right click this and press zoom to
+layer so we get the whole view. So now
+we can see that burglaries are kind of concentrated.
+in this area and sort of around the...
+outskirts of Pittsburgh, which we saw on
+the other map as well. So let me...
+Save my project as...
+And I know it's bad practice to do this at the end.
+Add my last name.
+And that is it for tutorial four dash four.

@@ -1,0 +1,216 @@
+Alright everyone, welcome back to...
+tutorial 2.1. Visit chapter 2.1.
+tutorials. So, chapter 2. So, chapter 3.
+one we focus more on just getting comfortable with.
+GIS so now we're gonna play around with it a little bit more and
+in terms of like symbolizing maps.
+And I started sharing the screen.
+after my project had already loaded because I'm on my Mac.
+today and it takes a really long time for to load on my Mac.
+But to get here, remember we just go to our...
+GIS folder, and then we go to chapter
+tutorials and you can just click to open
+open it and as a heads up
+you might have to sign back into your
+ArcGIS. So remember that for that.
+you'll go to the online organization.
+Organization URL and you'll just type in C.
+and it'll take you to your single sign.
+on pop up window and you can just sign on through
+there. So once you have
+the project open, we are going to
+start by saving the project as with our
+last name. So remember we'll go here, say
+project as and then we can keep
+Keep it in the same tutorials folder like we did last time.
+So I'll just do tutorial 2-
+one and then add your last name here.
+So, @mylin, my last name, and then...
+and make sure it's .aprx as the folder.
+or as the file type and then you just press.
+safe. All right.
+All right, so once we're here and we've saved,
+We're going to
+First, actually let me orient.
+this map first. So this is the New York City Zone.
+and land use map and you might recognize
+is at least the format of it from our lecture.
+slides. So the different layers that we have
+for the map. We have neighborhoods, the zoning land use itself.
+and then the world like gray canvas base.
+So the first thing we're going to do is zoom.
+to the lower Manhattan bookmark.
+Remember for that we go up here under the map tab.
+press both marks and then we'll just click lower men.
+So it'll zoom us in a little bit closer.
+The next thing...
+we are going to do is we're gonna show
+Change the neighborhood symbol to be transparent.
+So it provides the outline of the name.
+neighborhoods, but not necessarily these big blocks of white.
+that are all over our map.
+So to do that, we're going to
+to click on the little neighborhoods box right here.
+so that we get to symbology.
+And then we are going to click on it.
+properties. For color we're going to
+choose no color and then
+for our outline color instead of black we're going to do
+grey 60% which should be right.
+Cheer.
+Here.
+Okay.
+Okay, gray 60 and then press up
+So now you can see we still have the outline of
+of those different neighborhoods,
+but now we can see what's going on under--
+need them. So we can
+Now close the symbology pane.
+The next thing we're gonna do is give the water.
+in actual blue color so that it's made
+make sense for us and provides more context.
+So first,
+Next we have to turn on our water layer.
+And now we're going to give it a blue color so we can...
+can click on the water again to get to that symbology pane.
+for color.
+We can.
+Actually, we can go to the gallery because they have a
+color for water already. So go down and you'll see the
+this water area, so you can just click on that.
+And it'll turn the water blue for us easy peasy
+and so it can close out of the symbology now.
+So the last.
+thing we're gonna do, this is a short tutorial,
+and actually I meant it.
+mentioned that in the beginning you'll notice
+Notice that there are eight tutorials for chapter two, which says,
+sounds really intimidating, but I want to assure you that they're much shorter.
+order than the chapter one tutorials. So they take
+about half the time if that so it won't be
+a lot more work to get through these tutorials. So if you're getting nervous...
+I promise it's not going to be like a huge heavy lift.
+Okay. So the next thing we're going to do is we're going to do a little bit of this.
+is display polygons using the unique value set.
+symbol. So first we have to turn on
+the zoning land use layers which turned that on.
+and we're going to write
+Click the Zoning Land Use.
+and press on or click on
+symbology.
+So
+For once we're at this primary symbology paint.
+we are going to under pressure.
+your symbology will click on unique value.
+values here and for our
+field, we want to click land you
+use two. So make sure you do land use two.
+It's a collapsed version of land use one.
+So there are fewer--
+categories. So click land use to.
+And you'll see that the categories that pop up are
+the same categories we saw in the lecture slides. So come
+commercial manufacturing, park residential,
+residential LT-MFG and then waterfront.
+So what we want to do here is
+here is we want to change
+these colors to match what we saw in the lecture slides.
+So the first thing we're going to do is
+going to do is you're going to go to this top right corner where it says
+more and you are
+going to press on format all symbols.
+walls.
+So once we're here...
+We are going to go to properties.
+And we're going to change the outline color to gray.
+20%. So this outline
+color right here. We're gonna do gray 20.
+Here, and then press.
+apply. So now we can actually see
+a little bit more of what's happening in the...
+map itself we can see the actual lines that are
+distinguishing each area.
+So now we can...
+go back to the pain with all of these siblings.
+here, the primary symbology pane.
+And we are going to change the colors of each
+of these different categories of land you
+Remember, in the lecture I specifically talked about the lecture.
+about when colors are too bright. It kind of...
+hurts our eyes. So you can get a little bit of a sense here.
+It's not super super bright, but it is still kind of a...
+pain to look at. So we are going to
+change these two more pastel colors.
+So the first one we'll do is commercially.
+and we're going to change it to rose
+courts, which is the first row second column.
+So you can do this two different ways.
+So the first way is you can actually click on the symbol
+itself and it'll bring you to this
+this other symbology paint.
+and click here and we said first row
+second column so it should be this one.
+Click Rose Quartz and apply.
+And then we press back to get back to the paint.
+So you can.
+Either do it that way, which is a little bit longer.
+longer or you can just write
+click it from the actual symbol.
+So if you hover over here and write.
+it'll just pop up so you don't have to keep going back.
+So I typically prefer to do this one.
+So for manufacturing, we're going to change it to a lilac color.
+So it's first row 11th column.
+So first row, two, three, four.
+5 6 7 8 9 10 11
+effect.
+For park we are going to change it to
+Apple Dust. So that's seventh.
+row six columns. So let's go here.
+One, two, three, four.
+five six seven and then to play around here.
+Okay perfect right here, Apple Dust.
+Let's see which one's next.
+residential, we're going to change it to yellow. So that's
+first row fifth column.
+First comb.
+So here.
+Yuka Yellow, perfect.
+Let's see, for residential LTP.
+MFG were doing soapstone dust.
+So that's seventh row, third column.
+One, two, three, four, five, six.
+So much.
+just don't check perfect and then for
+The last one, we will do waterfront in
+Atlantic Blue, which is 9th row 9th column.
+So, let me see. We're in two.
+three four five six seven
+So it's probably around here.
+Atlantic blue. So now we have all of
+of our different land use.
+parcels colored appropriately so you'll see that it
+looks like what it did in the lecture.
+And this is actually all we have to do for tutorial two one.
+So what we're going to do is we are going to save our
+our project and we can close.
+Is it? Yep. Good thing. Yes.
+Let's save it.
+So now, remember that we knew that.
+to make a zipped file to sub...
+for our tutorial for credit.
+three different files that we need to have.
+or the chapter 2.gdb and the
+then press, oops, press.
+control to add index.
+And then we're going to add the last five.
+is that tutorial 2-1 with your last name.
+And then you'll right click.
+send to compressed.
+zip folder and I actually don't know if I'm going to have storage.
+to do this. So as a heads up, I might get an error message, but
+Let's see if it'll let me.
+Perfect, it did.
+We can save it tutorial 21 with our last name.
+And then this zip folder is all you need to submit.
+for tutorial 2-1.

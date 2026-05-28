@@ -1,0 +1,9 @@
+Map 1: Going Beyond the University Art Museum: The Spatiality and Significance of CSULB Artwork
+URL: https://www.arcgis.com/home/item.html?id=241e1c428e324b3daa6d3cabea07b49d
+
+This map shows outdoor artwork across the California State University, Long Beach campus, including sculptures, murals, statues, memorials, and dedication pieces. I found it interesting because it treats campus art as spatial information and shows how artwork helps create a sense of place for students, staff, and visitors. The map uses point locations and pop-up information so the viewer can connect each artwork to its name, type, artist, date, and significance. What surprised me was that features people may pass every day can become easier to understand when they are organized as a map instead of only as a list or photo collection.
+
+Map 2: Public Spaces at CSULB and Recorded Instances of Passive Interaction
+URL: https://www.arcgis.com/home/item.html?id=2098b465810b4d21bc7a1dcd80bd4e2a
+
+This map identifies public spaces on the CSULB campus and records places where students use space for what the map calls passive interaction. I found it engaging because it connects a human geography idea to real campus locations, showing how students may seek social presence without direct conversation. The map visually presents data with campus layers, green space, buildings, roads, and colored point symbols for different levels of relevance. The surprising part was that a map can represent subtle social behavior, not just physical features like streets or buildings.

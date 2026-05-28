@@ -1,0 +1,268 @@
+Alright everyone, welcome to
+tutorial 2-2. So this is label.
+features and pop-ups and add
+As always, before we do anything to our map here.
+we're going to save project as with our last
+name so we are going to do to
+tutorial 2-2.
+and just add our last name.
+And then as always make sure it's dot.
+a PRX for the file type and
+and save. And so we should see the new
+name up here the tutorial 2-2 with your last name.
+Okay, so the first thing we need to do...
+for this tutorial is zoom into the West Village bookmark.
+So up here if you're not already on the map
+Go to the map tab and then bookmark.
+and we're going to zoom into
+West Village here.
+Okay.
+Okay.
+So, we're going to go ahead and do this.
+So now in the contents...
+pain, we're gonna click on zoning land use.
+and don't double click or right click or anything.
+literally just click it once over here.
+And you'll see that three different options pop up at the
+top. You'll see feature layer, labeling,
+and data. And so for this,
+we're going to click on the labeling tab.
+and under field on the left side here.
+on the label class tab or panel.
+We are going to click.
+Oh, no. Oh, God.
+We're gonna click on the zone.
+Okay, here we go.
+So for the field, we're gonna put zone.
+and to see.
+See the zone names included on our map.
+We're gonna press.
+this label button to the far left it's really easy to forget to
+to do this and wonder why your labels aren't showing up.
+So make sure you click that label button.
+And...
+So we see now we have all of our labels and we're going to
+change them just a little.
+But these are the kind of default settings.
+for the labels and we're going to customize them a little bit.
+So, to customize we're going to go to the
+this text symbol area right here.
+And we're going to change the font size to a.
+And we're going to change.
+Change the color to gray 50%.
+sense. I'm sorry. Here.
+Great, 50%. So now there's...
+still there they're just a little smaller and a little bit more muted.
+so that we can still see what's going on underneath them.
+And I think that's all we need to change for
+those labels. So now we're going to
+to zoom to the lower Manhattan bookmarks.
+So we're going to zoom in.
+zoom out just a little bit. So from here, remember,
+go to the map tab at the top.
+bookmarks, and then lowermen half.
+All right.
+So we're also going to be going to be going to be going to be going to be going to be
+to label the neighborhood's layer.
+So remember we click on the neighborhoods.
+And we go up to this labeling section after this.
+at the top again, which will bring up all of
+of these different options.
+So for label,
+class we are going to
+And it keeps the field as name.
+we can press the label button here just to
+have them added and
+for the annual notice. There's a lot of people who are interested in this.
+a lag, so I apologize. But in my pop-up
+faster for you. So we're
+We're going to change the font type to aerial.
+and we're then we're gonna bold it and
+You'll see that there's no like bold option right here.
+So what we're going to do is just if you click
+this bottom right symbol, this text symbol, we can expand
+it so we have a lot more options.
+here now. So we're going to change it to
+to Ariel.
+Oh, it's a big burger.
+me. It's an authentic order. So it shouldn't be too.
+hard to find them. So we're going to change it to Ariel.
+We're going to change it to bold.
+I think we have to change the font sizes well to.
+11 so we're going to make it a little bit bigger here.
+And then we're going to put a white here.
+low on it. So to do this if you scroll
+down a little bit which is another reason I've been.
+did the expanded text symbol option because--
+because we had to go there anyway.
+So if you see--
+here, there's this halo option, so we're going to expand that.
+And for Halo symbol, we're going to be going to be going to be going to be going to be
+going to add a weight.
+And let me see if we need to change anything else.
+else we should not do. So now we can.
+compress apply and apply.
+And if your computer's like mine, it might lag just at
+tiny bit but eventually we will see our changes.
+There you go.
+So now you can see that all of the--
+text for the names is a lot more clear because
+it has that halo so it's not just black.
+It's actually, I think I said it has it's on the
+little background in the lecture and I stand by that wording.
+So, that's all we had to do for the new...
+neighborhood labels. Let's see.
+Oh shit.
+Okay, D.
+So I think...
+But last thing we have to do for the Navy.
+neighborhood late.
+Label place. Oh change the placement
+for the neighborhood level.
+So for--
+To change the label placement, we're going to go up at the top.
+here where we see label placement style and just click on the
+that. And for this tutorial,
+we want it to be land parcel so it's just the
+top right.
+And then I think we are good for
+for neighborhood labels.
+So you can see now.
+that they've moved a little bit.
+Okay, so let's see, we're going to label it.
+the water next. So we're going
+click water and it shows
+already be open to the labeling tab but if it's not
+make sure you go to the labeling tab and
+And for the label field, we're going to keep it as landing.
+We're going to change the name.
+the else versus click label first.
+We're going to change the font size.
+to times new Roman.
+Go.
+We're going to change the font.
+size to 12.
+And the color we're going to change it to at Lanting.
+blue. So I believe that was down here. We did that
+for our last tutorial. Yeah. So down here at the bar.
+bottom this Atlantic blue.
+and slowly but surely.
+Now...
+Now we have our labels for our different bodies and water here.
+So you can see it.
+that sometimes it
+I will repeat the different layers.
+names for some of these.
+So if we right click watch
+water and go to labeling.
+properties?
+Thanks.
+Okay.
+Okay, sorry, I'm recording from home right now.
+and I have to pause the recording every time I can see that my cat
+are about to start fighting. So I lost my train of thought a little bit.
+But we are labeling the class for water so...
+Remember right click water to bring up this pain right here.
+And for the label,
+properties we're gonna go check.
+position right here.
+And we are going...
+to click conflict resolution symbol which is
+is that the far right top.
+So right here this button right here, we're going to place conflict.
+resolution and you notice that mine doesn't actually show
+repetitive names here, but the last time
+I worked through this tutorial it did so you'll notice.
+Notice that GIS is just a little silly.
+sometimes in the way that things were
+or don't work from time to time, we still love it.
+but we do it has its quirks. So I'm going to
+to show you how to do it in case yours has repeated repetitive lately.
+here. Okay. So...
+for the remove duplicate layer.
+labels here, we're going to remove
+move all?
+And then if yours happens...
+had repetitive features, it should no longer have repetitive features.
+features and it should just be one label name for each body of water.
+Okay, so we think
+we can close out of this now.
+So another--
+Cool thing we can do is kind of manage our
+pop-ups. So sometimes you turn off pop-ups.
+for layers that aren't the subject of
+interests like the zoning land use and the
+water. And we can also consider
+figure pop-ups for different layers like the neighborhoods.
+so that these pop-ups will essentially
+help to display specific data that
+we wanted to show. So for this
+we're going to right click on zoning land use.
+and we're going to go to
+disable pop-ups here and then
+we're going to do the same for water. So right click water.
+disable pop-ups.
+And for neighborhoods instead of decisions.
+the pop-ups we're going to configure our pop-ups.
+So we're going to right click on neighborhoods.
+and press this "configure pop-ups".
+So, once that passes, you can see the difference between the two sides. So, once that passes,
+pops up, you'll see this field's 37 right here.
+So if you hover over it, you'll see this little
+pencil and so click on that little pencil.
+And it'll bring you to this configuring.
+pop-ups editing page.
+So if we uncheck this only use
+visible fields button.
+We will uncheck the data.
+display for all of them here.
+So now we only want to display a few different things.
+here. We want to display the
+Broname, so right here, Broname.
+Pop so I think that's down.
+here.
+And we want pop, pop.
+which is right under it.
+pop 18 and under so also
+right under it and then pop, pop, a
+18 under that one. So those four are all together.
+Let's see.
+I think we should be able to close the camera.
+can figure tab now, it should save all of our...
+choices. So now you'll see that is
+It says fields five instead of fields 37.
+And if we click anywhere...
+Here in the West Village we can see our pop-up to see.
+see if it worked. So now you can see here.
+It's only showing us the boroname.
+the population, the population with.
+that counts as impoverished, population that's 18 and
+under and then the population 18 under that's impoverished.
+as well. So we can manage that anyway we
+want to so if you want to show certain things.
+For certain layers, this is how you go about it.
+And this is helpful if you're sharing an entire
+project with someone and they want to see the breakdown by...
+different neighborhood in this example or to
+different county or census tract or state or whatever it is.
+you're looking at. So these pop-ups can be very helpful.
+and they're really overwhelming if you keep
+every single thing in them, so it's nice to be able to cut
+customize it a little bit.
+That is the last thing we had to do for tutorial two two.
+So we are going to save our project.
+I feel like it's saving.
+Okay, well, if I close, it'll ask.
+me if I want to see it anyway. So I'll say yes.
+And then...
+And remember for the submission file.
+for the tutorial 2-2.
+You're going to combine the chapter two dot gdb.
+press control at the index.
+and then add the tutorial to
+to with your last name file. And then you're going
+to send to compress SIP folder.
+and we can keep the same name so tutorial to.
+with our last name and you're going to submit this zip for
+as your submission for two-twos.
+2.

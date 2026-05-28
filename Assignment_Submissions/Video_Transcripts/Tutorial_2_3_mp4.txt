@@ -1,0 +1,261 @@
+Okay, so now we're going to
+start on tutorial two three.
+So this is filtering with definition queries.
+So we are going to save the
+project as with our last name.
+So tutorial.
+two three.
+And then we're going to add our last thing.
+.aprx. Save.
+Alright, so now we...
+at the top that our name is our file name is safe.
+So we are going to
+focus on New York City food pantries and
+soup kitchens like we saw in the lecture slides.
+now. So for...
+This we are going to first create a
+subset of the data to only show
+the um...
+the facilities that we want to see.
+the soup kitchens, food pantries, and the joint ones.
+So for here we're going to right click facilities.
+and go to properties here at the bottom.
+And then if you see...
+down here the definition query. We're going to click on that.
+And it should bring you up to this page right here.
+and you're going to press new definition query.
+So, for the "where",
+We are going to choose...
+facility T, facility underscore T.
+is equal to, we can keep that the same.
+And then we're going to, you can either.
+select it from the drop down menu or you can just type in.
+I'm gonna do that because we're in with 4,000s here.
+So the first one is 4901.
+And then we are going to add a clique.
+So don't click apply just yet.
+We're going to add a--
+clause and instead.
+Instead of and here, we're going to change.
+change it to or.
+So we
+want to show facilities that meet
+any of the conditions that we're going to specify.
+We don't--
+want to say that they have to satisfy every single condition because
+we won't have that because every single facility only has one.
+code. So here we're going to keep
+it as facility_t.
+And then we can keep that is equal to
+And the next one we're going to do is 490.
+arrow to and then...
+We are going to add one more clause.
+And again, it's going to be or instead of and.
+Which...
+under score t is equal to
+4903.
+Okay, so again apply.
+Bye!
+And press OK.
+So now you can see that the number of facilities
+went way down because we're only seeing facilities.
+that meet one of those three conditions. So if it's
+a 4901, 4902, or 4903.
+So this is what we call a subset.
+So now we're showing just about
+600 of the original 20,000.
+plus facilities that there were.
+And if you want to--
+verify this to make sure your query went through.
+and you didn't miss any of these things, we can very...
+Verify it through the attribute table for facilities.
+So remember to get to the attribute table we write.
+click on Facilities and then go to Atro
+table up here.
+So now you can see that we have 630.
+one facilities in our
+subset of data so if we go over to
+year wherever the facility underscored.
+T is. You'll see now that all of them have
+the 49012 or 3 here.
+so we can confirm that we typed it right, we have all of our
+facilities and so now we confirmed.
+we did our subset correctly so we can close out of the attribute.
+table there.
+And we can highlight these all over.
+little bit better. So let's first zoom to the
+the Manhattan bookmark.
+the map tab, it should already be there, but if not, go to the map tab.
+bookmarks and click on the link.
+on the Manhattan bookmark.
+And we are going to
+to click on facilities so that
+And it comes up like this so we can rename it.
+And we're going to rename it to just.
+food facilities to provide.
+a little bit more clarity here.
+Alright.
+And for our primary system,
+symbology it may have popped up already for you.
+or you can right click and it'll show up as well.
+So for primary symbology, we are
+going to go to
+Unique values.
+And for our field one, it's
+It should be facility two.
+type 1, which is at the bottom here, this fact type.
+So now you can see food pantry.
+joint soup kitchen soup kitchen.
+And we want this...
+kitchen to be at the top.
+So we can click this.
+Bye.
+You can click this and you can click the name.
+and just drag it up here to the top here.
+We want food pantry.
+to be second so that's already met and then
+and we want the joint soup kitchen food pantry to be last year.
+And we're going to change the symbology for each other.
+of these facilities.
+For soup kitchens, we can click on
+our little symbol here and we want it
+Let's see what we want.
+So we want square three, so that's right here.
+And it's in red. We do not want
+red we actually know we do want it red I'm alive.
+But we want to change the font size.
+So go to properties here.
+Here.
+And.
+And.
+Let's see. And we want it.
+size 8. So let's move this to
+size 8 here and click
+apply so make them a little tiny bit smaller.
+So for food pantry we will
+want it to be circle three.
+So go to gallery first.
+And we will.
+I wanted to be circle three and go to the
+But not the circle 340 percent, do the circle 3.
+normal and we will
+food pantries to be blue.
+Blue.
+And it can be any blue.
+Let's see. I'll go to this bright blue.
+And we want it.
+to be size 8 as well.
+I think I'll apply there.
+And then for our child.
+joint, soup kitchen, and food pantry.
+We want it to be cross three.
+So go to gallery and you can either scroll
+down or if you want you can type
+here to search cross.
+And it's downhill.
+cross three.
+And for properties, we will
+wanted to be a yellow color.
+yellow color.
+And again, this can be any yellow color that is speaking to you.
+to solar yellow and we want to keep
+this one at size 10.
+Alright, so in the...
+symbology pain. We...
+can click more.
+And we're going to click off this show all of...
+other values. It shouldn't have any
+other values because we already subset the data, but just in case...
+This is kind of helpful if you're not sure if you don't know.
+it correctly and there's still
+events or facilities that aren't meeting your definition.
+and they're still on the map, that will get rid of them.
+for you. So that's another kind of fail.
+safe there. Okay.
+So let's imagine
+that you are a policy maker and you want to know.
+know the streets where the food facilities are.
+are actually located, but you don't necessarily
+want all of the details of the base
+map. So let's turn off
+the world light layer, which helps us focus in a little bit.
+on the actual Manhattan area.
+And now that we've done that, we want to add in the action.
+streets so that we can see where these people are.
+facilities are located. So again remember we're policymakers.
+We want to identify exactly where these are.
+facilities are located so we can identify whether there are
+areas that aren't having their needs met.
+So, let's see, we're going to...
+First, turn on our Manhattan's house.
+streets layer and we're
+We're going to change the symbology of the streets.
+So remember from the lecture that we typically want.
+these ground features, which is what streets are usually.
+to be a light gray or brown color to not be.
+draw attention away from our field features.
+So for this...
+We want to make it
+sick
+Let's do a group.
+20%. So is that you?
+Great 20% and 30% percent.
+For the line width, we're gonna do...
+0.5.
+So...
+Let's apply that. So now...
+we're seeing that they're much more they're still there.
+But now you can't see them quite as much when we're zoomed
+out which is good because we don't want all of that detail.
+So, it's not a problem.
+If we do want to see the exact straightenings,
+remember we do have to--
+label them. So let's go man.
+and streets and we're gonna go the labeling tab.
+and for the feet.
+We're going to click.
+We're going to change this from object ID to street.
+And then we're going to press the lead.
+button.
+And you can see that when we're zoomed out,
+out like this.
+When resumed out like this.
+It's impossible to see what we're actually...
+looking at. So if we want, we can zoom in.
+And I'm zooming in on a try.
+trackpad, which is a lot harder than a mouse.
+give me a second. It might do something.
+crazy but we're gonna get there.
+Okay, it's vagging a lot here.
+but you're going to get the idea anyway.
+So, it's a little more if we can.
+can without it going crazy.
+So now you can see we can actually see the difference.
+street names and we can locate where they are.
+where each of these food facility types are on the map.
+which is very helpful again if we're trying to identify areas.
+that either have kind of an over concentration of...
+these food facilities or areas that have
+not enough to meet the demand. So that's
+how you would do that. Let's prove this.
+Oh my god, I zoomed out on the thing.
+Okay, there we go. Back to normal.
+All right.
+And so this is the end of tutorial two, three.
+I told you that these were short.
+So now we can just...
+Save Our Project.
+I'll save my project the right way. I'll save my project.
+and then close.
+And then remember, we're going to make our zip folder.
+So.
+chapter 2.GDB, press control.
+to add index and then the tutorial
+two dash three with our last name right click.
+Send to and then compress it folder.
+And then I'm not going to create that because I'm running out of storage.
+as I keep mentioning, so just know that I you've
+should press this compressive folder and you just name it the tutorial.
+2-3 with your last name and submit the entire
+zip folder four points for the tutorial to dot.
+3.

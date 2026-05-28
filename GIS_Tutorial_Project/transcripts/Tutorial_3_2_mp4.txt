@@ -1,0 +1,426 @@
+All right, welcome to tutorial three.
+3-2 and in this tutorial we're
+We'll be working with sharing maps online.
+So we'll be learning a little bit more about ArcGIS on
+line. So as usual.
+We will save our project and...
+tutorial 3 dash
+to with our last name.ap.
+rx.
+And we have two maps here. We have arts employment and
+and then a cost of living index map.
+And we're going to start in the arts and entertainment map.
+We're gonna zoom in a little bit so we can see
+the Metropolitan Employment Feature Layer.
+So if we zoom in a little, you can see
+that this feature layer now becomes visible so that
+This is the Employment Arts for the Metropolitan Area.
+So you'll notice that when we zoom out, we can only
+I'll never see them, so remember we learned about that in chapter.
+two tutorials and...
+And so that's just to show you that they are there.
+They're just not showing.
+So we're going to go back to full extent, so remember under the map.
+tab, little globe, we're gonna go full extent.
+And we are going to right click on the link.
+and we are going to be doing some of the arts employment.
+going to select properties.
+Now, before we want to...
+share anything on our JS on the channel.
+or story maps or anything. We want to make
+sure that the
+This right here is checked.
+This allow assignment of uni--
+America D's for sharing web layers. We want to make
+sure that's checked. So we're going to go here. It's already
+checked.
+check so we can just press OK, but we're also going to
+check for the cost of living index.
+So...
+We're going to right click cost of living index, go proper.
+And we can see that that allow us to
+assignment of unique numerical D's is our
+checked so we are good there as well.
+So, you're...
+Share or publish the maps you've created.
+created an ArcGIS Pro to ArcGIS on
+line. So you have two maps to share now the
+arts employment map and the cost of living index map.
+I know tech.
+you do not make them, but we are going to take credit for it.
+So you can live with that.
+And to activate the R-
+and start some employment map.
+We'll first go back to that tab.
+And you'll see that there's a share tab on
+top up here. So we'll click that and under
+the share as sub tab.
+right here, this share as, we're going to click.
+web map.
+Right, so this will pop up over here.
+And for the name, we're going to keep our
+employment, but then we're going to add our last name or our
+names are. So first and last name.
+And then to get this summary and tags.
+we are going to
+Take those from the
+Map sharing.
+PDF so we're going to minimize
+this.
+And if you're already in the chapter
+three tutorials folder you're going to go to this region.
+resources folder and this map shows
+sharing PDF right here, the third one down,
+we're gonna click that.
+And so this PDF should open.
+with summary and tags for both the art
+employment map and the cost of living index map.
+So for this, we're just going to copy and paste them in their
+respective areas. So for summary one dash one that's what we're looking for.
+because we're at the arts and play map. We're just gonna come.
+copy that and paste it in the summary section.
+And we'll do the same for tags.
+[ Silence ]
+Copy, paste, and we're going to be doing this.
+Once you click away from it, you should notice that they actually turn it.
+into like these clickable.
+tags and let's see.
+And then we will...
+we'll make sure we scroll down.
+And under the Share with tab,
+right here we want to make sure
+we click everyone. So make sure that
+That is actually clicked, so that's what I mentioned in the lecture.
+We want to make sure.
+everyone can actually see our work.
+And I'm going to bring this up with full size again.
+for now. And before we actually
+share it we are going to press this analyze button.
+to make sure there are no errors that we need to address.
+Thanks for watching!
+Okay, and you can add.
+actually I know this is going to be confusing.
+You can ignore this.
+feature layer has displayed warning error.
+And then we can press share.
+Bye!
+[ Silence ]
+might take a while.
+All right, and we'll see you down here.
+this web map shared successfully.
+And so--
+We're going to do the same thing for the cost of living.
+index map. So we're
+going to go back to this
+maps.
+Actually, let's exit out of here.
+Let's read.
+Open it.
+Share web.
+map. And.
+and then we minimize this again.
+So we're gonna do the same.
+thing for this cost of living index. So right here this
+Summary 2-1.
+We're going.
+to copy all of the summary here.
+And then for the tags.
+We will copy.
+And paste that as well.
+Okay.
+It doesn't want me to get that as.
+And again, it should turn into these like individuals.
+And like we did last time, we'll make a
+Make sure it's set to share with everyone.
+And then we will press analyze again.
+So we still have that little warning right here.
+Again, you can ignore this warning specifically.
+And then we're going to press share.
+Alright, so again we see this web map.
+shared successfully. Little check mark down here.
+Oh, you know what?
+You forgot to change the...
+the name. Okay.
+I'm going to do this again.
+Sorry.
+if you follow directions better than me make sure you add your
+your full name to the name of the map that causes
+living index with your first and last name.
+So,
+I'm going to pause the recording here so you don't have to watch me analyze.
+and shared again but just know that I did that stuff so please make sure you
+Make sure you add your name to it.
+Okay, now I've shared the map with
+my correct naming and I apologize if
+If you made the same mistake as me and you had to sit through that analyzing and showing
+twice, but that means you are now double.
+as good at that process.
+Okay, so now we're gonna transition to ArcGIS.
+online so we can save everything here.
+We're done with...
+ArcGIS Pro for now.
+And we can close that.
+And we can close this as well.
+So now we're going to go in our...
+up here in our browser.
+And we're gonna go, I think it's a little bit easier if you just...
+search RJS online.
+And it'll bring you right here.
+Yeah, press.
+Sign in.
+And it's...
+It's going to be the same sign in method credential.
+all that as we use for ArcGIS Pro so for our
+all of you, you're going to go to your GIS organizations, your
+and type CSULB here and press continue and then
+you'll sign in that way. I am going to sign in
+through this ArcGIS login because I have a personal account.
+So I'm gonna sign in here.
+All right. So now we are on...
+our ArcGIS online account and we're
+to go up here to the top where it says content.
+and press that.
+And then...
+then it should automatically go to this My Content.
+And hopefully you'll see your
+two new maps here.
+And let me second.
+So we have the cut.
+of Living Index with my first and last name right here and we're going to look at
+the web map and then we have the arts and places.
+Again with my first and last name are here with the
+web map. So for this,
+Depending on how expanded your browser is right now,
+Mine's not showing right now, but next to this preview button.
+there's these three dots or it might just say it directly.
+We're going to choose open in map viewer. So actually
+So let's do arts and planet first.
+So let's go. Arts and Play-Man.
+we will open and map your.
+So once it loads,
+We're going to click on expand.
+which is in the left hand bottom corner.
+So let me see.
+Okay.
+The miner is actually already expanded, so if you
+Yours is not expanded.
+You'll have an option, but mine is up.
+expanded right here. And
+Um, we can...
+Notice here that the layers is highlighted.
+And it lists the same layers we saw in GIS process.
+State wages, metropolitan employment, state employment,
+all of them.
+those are still there and we can symbolize
+those layers in the Matthew just like you can.
+in ArcGIS Pro.
+So first we'll--
+change the color of a layer to get a quick look.
+at kind of the symbology of map viewer.
+So when the layer pane is selected, you're going to
+Click on state wages.
+[ Silence ]
+and the paint should open on the right side.
+See you.
+Okay.
+Nope.
+Yeah.
+And we're going to...
+Pick a style of me, minimum.
+a little bit, you can see.
+Then go up here where the symbology tab is.
+and it says edit layer style, we're going to click on that.
+And it should bring up the styles.
+additional pain. So we're gonna go
+Go to the...
+Let's see.
+for the
+Pick a style down.
+here we're gonna click on counts in a
+amount
+size.
+And then we're going to click on the rectangle on the rectangle.
+under the symbol stuff, this little purple symbol.
+right here and we're going to change that color to a more.
+or like orangey color.
+So it'll pop up right here.
+and you can change this color.
+Let's do like this.
+It doesn't have to be a specific or just some type of orange shape.
+So that was done there.
+exit out that and you can see that we've changed the symbology on
+the mat.
+And then once that's...
+John, let's see.
+Press done here and...
+we should be able to close out of this window now.
+And we can also configure pop-ups.
+in map viewer just like we did in ArcGIS Pro.
+So first we'll zoom in.
+and pan to Southern California including L.O.
+Okay.
+So.
+So.
+little more. Uh, it's not a little.
+Okay, that's good.
+So zoom in enough so that you
+You can see these little metropolitan employments.
+Point data. Remember we have to be a little zoomed in.
+for that. And in the settings pane,
+Instead of...
+styles.
+Click on Metropolitan Employment.
+instead of the styles tab ready.
+here, which is the second one. We're going to go down to the
+pop-ups icon. So it's like kind of in the middle.
+right here. This pop-ups looks like a conversation.
+bubble.
+And before we do anything, we want to make sure we enable.
+pop up so just make sure we toggle that on.
+Once that's enabled you'll go to the
+field list right here and click that.
+and under.
+select fields, select fields.
+We are going to first select all.
+and then we're going to deselect all.
+So we can manually select the fields that we want.
+only. So we are going to select
+which employment are.
+arts, and wages are the same.
+only. And then...
+We can click done here.
+And we can click the pop-ups icon.
+again to close it to get it out of the way here. And now we can
+click on these little buttons and it'll
+up with the information. So we see we've clicked on the
+Los Angeles Long Beach Anaheim.
+Metropolitan Center, and we see
+that the employment's arts is 167 million and
+and wages arts is about 78.
+Oh, sorry, 166.
+and then 78,000. Can't read. And then 78,000.
+So we can see that the wind is going to be a little bit more than a half hour.
+the pop-ups are now enabled and we can zoom in on that.
+But again, close this.
+And let's see.
+We can also create pop-up layers for state employees.
+employment layers. So if the.
+layers pane still open, make sure it is.
+We're gonna go to state and play.
+- Boi Minh.
+And then...
+We are going to, if you're not already in the pop-ups, make sure you're still.
+on the pop-up section. So again, this will like conversation bubble.
+And just like we did last time, we'll first enable pop.
+and we'll go to feet.
+you'll place and just click on that and
+and then select fields.
+So like we did last year.
+time we are going to select all.
+and then deselect all because we want to manually
+choose which things we're actually showing.
+So we want to add population.
+Okay.
+Okay.
+Okay.
+employment arts.
+And let me see.
+And then the wages are, it's an I think that might be.
+beyond your lives. So, let's pause.
+done here and can get the
+side of the way and we're gonna
+go to the default here.
+here. So if you go to this little home icon right here,
+we're going to press default map view so that it zooms out.
+It's kind of like the little globe that we use for the full extent.
+And now we can click on a state.
+I'll click on Texas.
+And now the--
+state employment information pops up.
+So we see those.
+The total population of Texas, the number of people.
+in the arts and the average wage for the
+the arts or Texas as a whole, not just the Metropolitan.
+in centers so you can close that now.
+Let's see.
+So once we've done all that, we can now...
+save our first matter.
+our arts and employment maps. So right here, oops sorry.
+right here, this little folder button.
+You're gonna...
+press it's called Save and Open. We're gonna press it.
+and we're going to just press save.
+So now our art's employee.
+employment with our first and last name is
+Now, fully saved with all of our changes that we need.
+made. And let's see.
+Now we're going to work on our cost of living maps.
+little bit. So again in this save and open
+going to press this and we're going to press open.
+map.
+And so we're going to open our cost of living.
+index with our first and last name here. So we're gonna
+Open Map.
+And we'll create a pop.
+for the cost of living index layer using the
+index field. So click on the state copy.
+of living index layer.
+right here. And then again, we're going to click.
+on that pop-up icon. So again remember this little
+like conversation bubble thing.
+We're gonna click on.
+pop-ups and like always.
+ways we will enable pop-ups first.
+And let's see.
+For the field list, we will press.
+Select fields and.
+like we did last time we'll select all and then deselect.
+to all and then we're going to manual
+select index.
+I think that's what I'm saying.
+So this index layer right here, or index.
+field right here. I'm going to click that on.
+And that's the only one we need to actually click on. So we'll press done.
+And then we can get this pop up.
+another way. And now we can click on a state
+to see its cost of living index.
+So let's do like--
+one really green one and one really red one.
+see the difference. So we'll go Idaho.
+first. So here you see the state
+of living index for Idaho. We only have that.
+cost of living index that's showing. So it's 88.23.
+and we can compare that to California, which
+you know, by personal experience, we probably
+probably know is not the most affordable place.
+And we can see that the index is much higher.
+It's one.
+38.17. And...
+Feel free to play around with this.
+I do think it's interesting to kind of see
+the difference.
+by state and all that, but...
+I believe that is the only thing we need to do.
+for this tutorial, so I will
+cut it there so we will go to the save and we'll press
+safe. So.
+so that we can use those later.
+And then we can.
+See ya.
+Mm-hmm.
+And for the tutorial three dash two.
+submission. We're going to do the same thing that we usually
+do our zip folder for 3.2.
+So, let me click back to my student virtual lab.
+And just to remind you how we do this...
+So, I'm just going to go in here.
+We'll go as we press GIS T pro.
+and chat the three tutorials.
+And we will combine our chapter 3.GDC.
+be our index folder and then.
+our tutorial 3-2 with our last
+name will right click send to
+compressed that folder I'm not going to do it because again
+I keep running out of space. So you will click that and then.
+Then you will submit your zipped folder for credit for tutorial 2.
+2-3.

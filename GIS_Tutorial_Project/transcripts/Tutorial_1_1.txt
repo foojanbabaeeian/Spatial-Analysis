@@ -1,0 +1,487 @@
+Okay, so now that...
+we've gone through and kind of talked about what art do you
+is we're gonna focus a little bit more
+on the actual application of it.
+tutorial 1 1. This is going to be just an
+overview of our GIS Pro.
+So starting here on the
+Student Virtual Lab, we're going to go...
+to the folder that you have hopefully already done.
+downloaded with all the tutorials onto your desktop.
+We'll go to the Esri Press.
+This folder, chapter one.
+tutorials and then this is where all of our
+our chapter one tutorials will be housed.
+So for this one, we'll start on tutorial one dash one.
+And when you're not doing this, you're not doing this.
+click it, it should automatically try to open in
+ArcGIS Pro. When you get on
+on to the or when you first open it, it'll ask.
+you to sign in. So it'll be
+Be open to this right here with the ArcGIS login.
+for all of you assuming that you made your
+your student account, hopefully you did.
+You're gonna...
+actually go to this your ArcGIS or
+organizations URL and
+you're gonna type in CSULB.
+That's all you need to type and press continue.
+And it should prompt you to sign in.
+to your like single sign in information.
+or single sign on information.
+And...
+then it should connect you that way. I am going to
+you not do it this
+way. Oh sorry. I am
+going to sign in the other
+way just because I have an actual account that I use.
+I'm going to use the ArcGIS login, but remember that you're
+you will be using the organization you are else.
+login.
+Let me sign it in here.
+So, once the...
+The project opens.
+It should look something like this.
+this, hopefully exactly like this unless something went awry.
+and if you're gonna see a
+software update available pop-up probably every time
+When you open JS, just close out of it.
+Do not update.
+It updates all the time and they can kind of mess up
+what you're talking about.
+seeing on your end of it. So just always
+say no to updating.
+This is what an ArcGIS Pro project looks like.
+like so the entire file is a project.
+And at the beginning of every single one of your...
+assignments whether it's a tutorial or an actual
+homework assignment. The first thing you're gonna do is
+is save the project with your last name.
+So we'll go here to the top of this project tab.
+Save Project As.
+And you should save it in the same folder as the tutorial.
+here so you should see all the tutorial 1-1.
+one through one dash four here. And what we're going to do is
+we're going to name it tutorial 1-1, which
+your last name. So for mine, we'll add rote.
+in here and make sure it has
+.aprx as the file.
+type because otherwise it won't be saved in the appropriate form.
+So once we have tutorial 1-1 with your
+last name, we'll go ahead and press save there.
+And now you should see at the top the
+the new name. So the tutorial 1-1 with your last name.
+It should show at the top of the project.
+So once you have all of that, now we can add
+actually get into what you're seeing in ArcGet.
+So here we have the contour.
+intense pain, which includes features that we can add as
+map layers. So here we have
+different types of healthcare clinics, so urgent care clinics.
+Federally qualified health centers is what FQHC.
+stands for if you're not familiar clinics.
+Poverty
+risk area, Pittsburgh, Algheny County, Rivers,
+different types of buffers, streets, and what
+what we're actually seeing on the map here is this population.
+density and so it's showing
+the number of people per square mile.
+So you can see that the darker the color
+the higher the population density.
+So if you recall from the lecture, I said it a bunch of different types of things.
+the darker the color, the higher the
+intensity or the number quantification whatever.
+And so we have followed
+that role here. And the...
+The first thing I'll show you in terms of...
+of how to actually do things in GIS.
+is we're going to center the map on what we want to focus on.
+focus in on. So in order to do that, we'll
+go to under the map tab we see this book.
+So click on bookmarks.
+And you're going to click on the Allegheny
+County bookmark. So you'll see it didn't change
+much. It zimmed in a tiny little bit closer into our...
+population density map because this entire
+Map is Allegheny County, but it did so
+center the map a little bit and that's very
+very very helpful if let me show you.
+you actually. So if I am moving
+moving my map, I'm just dragging it here, and I start...
+Like, moving things too much.
+and I'm like, "Where's my map?" I can't find it.
+You're gonna go here and you're gonna click on Alginic.
+count again, boom. There's your map again, so you don't need
+to try to like drag the screen all around to try to
+find it again. It's very very helpful. It's happened to me multiple times.
+especially when I'm looking at like
+a national map and I'm in a completely
+wrong part of the country. It is very helpful.
+So here we're going to
+Add and remove a base map.
+So, base maps if you recall from the
+are frequently used.
+layers that we can add quickly so that
+we don't have to start from scratch every single time.
+And so we're going to, we're still in here.
+this map tab and you'll see this layer area right here.
+here. So this top left is the
+base map option so we'll click on that.
+and we're going to add
+the streets base map to this.
+So you can see that I added it in the background our pop
+population density layer is on top of
+our street player so we can't really get a lot of
+information from the space map. You know, it might be
+nice to have if this was like see-through or something but we're
+We can't really see what's going on here.
+So it's not necessary.
+useful in this case. So we're going to
+to remove the base map.
+The base map that you've added will be at the bottom here.
+and you'll see this world's street map layer.
+So we're going to right click that and
+and we're going to remove that base map.
+So now we're back to square one here. We don't have any back.
+We just have the map that we started with.
+So here now we're going to be doing a little bit of work.
+going to... let's see.
+We are going...
+to add a different type of bass map.
+here. So again, we'll go to
+the matte tab layer hopefully it didn't move
+you and base map and now
+Now we'll add the light gray canvas base.
+Back to the back.
+Alright, so now we see that that light gray canvas has a
+has been added again behind that population.
+density layer. So again...
+not necessarily adding a ton of information.
+information here so we don't actually need
+this base map either. So we're going to
+going to, just like we did last time.
+Go back to this contents pane all the way to the
+bottom we see the light gray base right click it
+remove it.
+And I will do it one more time just so you are--
+ultra comfortable with it.
+we are going to now go to our base map again under the map.
+in layer and we're going to add
+the National Geographic style map.
+Alright, so now we have our National
+geographic style map added to our current
+map in the background and
+Just like the last few times, it's not really adding
+very much information here. We're not gaining very much information.
+much context or anything by having this map here.
+So we're going to remove it.
+The National Geographic Style Map and there are a few more like
+this that you might use in the future.
+You'll notice that it's not just one layer, it's actually
+three different layers that were being added to the map
+as part of that base map. So to remove
+that we have to remove all three of these different
+base map pieces. So here...
+Nope. Okay. We'll go down here.
+Right click the first National Geographic study.
+style and remove it.
+And then you'll see that layer is gone from our map now.
+the National Geographic style base.
+Right click, remove.
+And so that one's gone now, so now all we have left is our world.
+hillshade layer, so right click that.
+and then we're going to remove it. So you can
+And see you are back to our starting map here.
+And the next...
+kind of topic I want to cover is
+the drawing order. So you can see here.
+in the contents pane we have drawing order.
+So,
+So this is essentially the order that it's going to show.
+on the map, hopefully that's intuitive.
+And as a general rule,
+you're always going to want.
+point features to be on top of Polygon.
+features and I'll show you why now.
+So first I'm going to click
+on the visibility for the earth.
+urgent care clinics and the federally qualified.
+health care clinics so you can see
+here the urgent care clinic.
+are now mapped and they're in this
+like rust red brownish color.
+And the FQHC clinics are
+now mapped in this green color.
+We will also click on the poverty risk.
+area layer and so you can see
+here is where the
+map creators have identified as the
+poverty risk area and you can
+See here that the FQHC clinics
+are kind of clustered a little bit in this poverty resolution.
+area and if you're not familiar with
+QHCs that makes sense just because we're
+looking at FQHC.
+which typically serve low-end.
+income population so it makes sense that they correspond.
+with one another. Okay, so as promised,
+show you what happens if we move our
+polygon feature or population density above.
+our point data. So here we have the
+part.
+population density you're gonna click,
+and you're just gonna drag it.
+So we drag and we drag it all the way to the top.
+top. So here you can see that
+We're now seeing only the population density.
+layer again. So even though
+our urgent care clinics and our FQHC clinics.
+in our poverty risk area are all technically
+layers on the map. We can't...
+can't see them anymore because the population density is
+a polygon feature and it's now covered art.
+two different point features in our smaller polymers.
+on feature the poverty risk area.
+And so you can kind of think of...
+this as kind of like a f--
+a funnel, I guess, would be the appropriate choice.
+so we want the smallest units on top.
+And then as we get larger in kind of the surface,
+the take in the units we want them lower
+in the drawing order. So here I'm going to move the
+the population density back down to where it was.
+So I believe that was right.
+I'm a four poverty.
+density. And so now again,
+we can see our urgent care clinics and our FQA.
+clinics back on the map as well as our property risk area.
+So next we're going to
+to click on our.
+I'm gaining county layer.
+Double check which other things.
+rivers and streets.
+So, now you can see
+the big difference being that we can actually see the
+River that goes through Allegheny County here marked in this
+board.
+blue color and
+I believe I mentioned this in the lecture. You'll notice that
+while the streets feature is clicked on.
+Then we can't actually see the...
+streets or the street names because
+because it would look very, very busy.
+and hard to interpret if all of the street names
+were displayed in this kind of zoomed out
+view of it. So if you want to see
+the streetslayer what we can do is we
+and zoom in.
+Let me take a second for us to actually make sure that we're not going to be able to do that.
+load it. So here are the
+actual streets and if he's in my
+a little bit more street names. So you can see that this
+Street names were actually being displayed on the map.
+We just couldn't see them again because if we try
+to fit all of this text into that zoomed out method.
+It would look
+So, or it'll just be so hard to read.
+Okay.
+So...
+Now I'm going to...
+Zoom back out.
+So let's see, we're going to go around.
+our bookmarks and let's go Alganee County again.
+so that we're back to kind of that starting view that we're back to.
+we had.
+I also want to point out because I'm not sure I did actually.
+The catalog pane on the right side here.
+is contains all of the...
+the features that we could include on maps.
+It will, it should be always on the right side, but
+If you accidentally click X like that and you're like, "Oh no."
+cannot find my catalog painting.
+more what you're going to do is go to
+view and then
+you are going to go.
+Two, count.
+log and then it'll come back. So if you're
+You're ever panicking because you're like,
+I don't know where the catalog.
+panel went or the pain.
+You're just going to go to view and then this Windows section.
+right here and it's the top left button.
+So you don't have to go to the top left button.
+just press that and it'll come back.
+Okay, so in the catalog pane, what we're
+going to do is click the arrows for maps.
+to expand those and we're going.
+going to expand layouts.
+So we're going to
+Double click this FQHC and
+urgent care clinics from the layouts.
+And you'll see.
+see here that it made us expand this a little bit.
+It's a fourth.
+made us this nice little map with different
+labels for everything so it named it the poverty
+areas and population density by census tract in alligator.
+County, Pennsylvania. It has just a nice little
+screenshot essentially of the map that we were working on.
+with includes our legend of every
+single layer that's included on this map particularly.
+notice it doesn't show the features that we weren't
+including on the map. So we have the urging care clinics.
+FQHC clinics, poverty risk area.
+Pittsburgh, Alganey County, the rivers, and then it
+It also has the population density with the actual density.
+meaning of each of the different colors here.
+When you're in the layout tab, I don't know.
+include this the skin.
+So it'll help people come.
+kind of understand how large of an area you are actually
+looking at. And...
+Um, let's see.
+And we're going to be able to get the right answer.
+When we're looking at the catalog pane,
+we can also see
+kind of auto hide the catalog pane so that we can
+see this in a larger scale. So if you want
+to do that this little pin in the upper right hand corner.
+corner, the auto hide, we can press that and you can see
+that's moved out of the way so that this can be larger.
+And if you want to bring it back, we just press that camera.
+log on the side and then press the auto height.
+button again and it'll come back into our
+standard view. So,
+Now we're going to export this map and
+you can export it in kind of multiple different
+ways depending on what you're comfortable with.
+But I am going to show you the way to...
+that I typically do it, so.
+So from here we're going to go...
+to this share tab right here.
+And we're going to...
+Export layout.
+So here it should be a little bit more difficult to get to the end of the video.
+bring you to the export layout pane.
+So far--
+file type it defaults to PDF.
+But what we're gonna do is save it as a P and D.
+G and we're going to save
+it on our desktop. So here we're going to
+and click browse and we're going to go to
+thispc.com.
+Actually, let me go back.
+This PC, death.
+top and then we can save it.
+just right here or we can go and we can
+save it in our actual chapter
+one tutorials section.
+So, the way we're gonna save it...
+is we're going to use no spaces and we're going to
+capitalize every single first letter here.
+FQHC and and then we're going to
+going to delete the spaces in between.
+Thanks.
+So now that we've saved it to our
+our desktop. You can also also change
+this resolution here. So for this,
+We're going to change it to 150 dpi.
+I'll see if we want to make any.
+other changes too. So don't think so. I think I'm
+Everything else looks good.
+So now we can press this export button.
+And now we can...
+And then you can see our exported file.
+file from our desktop.
+So let's minimize this.
+Go to our GIS folder.
+Chapter 1 tutorials and...
+And there it is.
+So you can see now.
+now that we have.
+Our map that we've now created.
+So this was your first map that you've made.
+Congrats.
+And we can see that it's saved into our files.
+Let me make sure I exit out the right one.
+Okay.
+So now...
+going back here.
+We can exit.
+out of this export layout so we're back on the
+catalog pane here. So now
+Now we're going to, if you see under the maps section,
+here for catalog we're going to double click on the healthcare.
+So you'll see now.
+We've brought back, we've been brought back to our, our
+again you can also you can notice
+probably here. If you just want to click back and forth,
+it goes layout and then the map format.
+But I'll show you
+how we get there from the catalog pane again just in case you can.
+lost and you don't remember that.
+And so now that we're back here,
+we're going to go to our website.
+our contents pane and we are going to turn on
+on our FQHC buffer.
+and our urgent care clinics buff.
+So for the FQHC buffer, we're looking at
+a one mile radius from each of the different f-c.
+QHC centers and for the urging
+care clinics. We're looking at a five mile radius.
+from each of the different plotted urgent care.
+clinics and the reason for that
+being urgent cares typically have a larger catchment.
+area so people who are traveling a little bit to actually go
+go to these urgent care centers, especially in these
+very population.
+or population not.
+We're going to be traveling a little bit further to get.
+to urgent care clinics, which is why we're looking at different buffers.
+sizes here.
+So we are going to now switch back to the next video.
+to our layout tab here and you can
+see that now the buffers have been added to the
+to our map. So now we have that same map that we have.
+had before, plus the different buffers that we just
+added and this is the last thing for tutorial.
+one dash one so what we can do
+is now save this.
+So I'm just gonna press Ctrl S here.
+now it's saved and we can close out of it.
+So...
+Now we go to our
+our desktop folder again as we
+press GIS chapter one.
+tutorials.
+Now, when we want to submit...
+"Mit our tutorials or your assignments."
+or whatever. Remember that you need to
+include all of the information, all of your
+geodatabase information for me to be able to open the
+the map. So what we're going to do is create
+a compressed or zipped folder.
+and you're going to submit that zipped folder.
+for your tutorial 1-1, 1-1.
+one dash three one dash four. All of those and your homeworks.
+So what you're going to do is you're going to select the...
+at chapter1.gdb.
+you're going to select this index and
+and you're going to select the new
+project file that you created with your last name.
+You're going to right click once all three of those are
+selected, send to...
+compressed or zipped folder right here.
+And then...
+We will just keep the same name of tutorial
+one dash one slash or tutorial one dash one rosen
+and then you're going to submit this zip for
+to canvas for you.
+for your tutorial one dash one.
+And you're gonna do that.
+Again, I'll repeat it a thousand times for every single one.
+single tutorial and assignment and I'll show you
+at the end of each tutorial to remind you that we needed.
+do it this way. But if you submit this
+zip folder I'll be able to open it and see
+that you followed the tutorial correctly.

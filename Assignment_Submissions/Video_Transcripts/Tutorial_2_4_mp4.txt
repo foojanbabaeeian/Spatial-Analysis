@@ -1,0 +1,221 @@
+Okay, so now...
+Now we're going to do tutorial 24.
+Remus is focused on crazy.
+creating core pleth maps for quantitative attributes.
+So we'll first start once you have
+the project open, we'll save the project with our last name.
+[inaudible]
+tutorial.
+two or...
+All right. And.
+If it pops up for you that this name
+neighborhood's layer right near right here has this red X
+point. That means that ArcGIS
+Pro doesn't have a link to the file.
+in the Geo database to reference. So we're going to
+have to fix that before we can do anything else and you might.
+run into this problem. It doesn't happen
+to me that frequently, but...
+It can be very, very annoying if you don't know.
+how to fix that. So...
+First, we're going to right click the neighborhoods that has the red X.
+point we're going to go to proper
+And then on the left.
+left side here you'll see source and then we're going to
+say set data source so that we can give it something
+to link to, sorry, let me go back to, I was working.
+Good. So it should open.
+to this page for you.
+we're going to set the data source to the actual data source.
+reference file in our Geo database that
+it should have linked to automatically. So we're going to click.
+databases chapter two dot gd
+And then we're going to click neighborhoods.
+So we're going to--
+match the names, so it should be pulling information from
+this neighborhood's data source.
+And let's see.
+press okay and now you'll see that we have
+have the layer it figured out what the information it was supposed to be.
+to grab from is. So again,
+You know, it doesn't happen too, too often, but now...
+if it ever happens to you know how to fix it or how to fix it.
+How to troubleshoot here.
+Okay.
+first thing we're going to do now that we have our neighborhoods layer in
+here is we're going to change it the name of it.
+two...
+over.
+age 60.
+First.
+Seaving food stamps.
+Okay.
+And now we want to change the symbology.
+for this layer. So we're going to right click.
+Go to symbology.
+And in primary symbology, we're going to
+click Graduated Colors.
+So right here, graduated colors.
+And for the field, we do it.
+We don't want our object ID because that's not really telling us anything that's...
+just telling us like these areas are going to be clumped.
+together. For our field, we want
+Let's see.
+Oh, 60.
+underscore food here. For.
+For our method, we're going to choose...
+quantiles?
+And we are going to keep this at classes 5.
+So we're seeing quintiles and.
+We want to change the color scheme.
+to green blue with five classes.
+So for our color scheme, we can click the
+this down arrow here.
+And because we don't know which one they're actually.
+referencing here, we can click this show names.
+so that we actually know what we're looking at.
+So let's see, we need...
+I think I just saw it.
+and I just overpassed it.
+Oh God, now I don't know where I am.
+Sorry.
+my scrolling thing is a little bit.
+off so hopefully this isn't nearly as much of a pain.
+Okay, here we go.
+Blue, green, five, green.
+classes here.
+And then we can.
+That's very green to me.
+And then let's see.
+We can choose this histogram tab.
+up here and now we can see the distribution.
+of our data here so we can see
+how many of the values actually follow.
+within each of our intervals here. So we have
+zero.
+to 83831 to 1620.
+1621 to 2,972 and so on.
+one. So now...
+Now we're going to change the volume.
+the break method for this core plath map.
+From quantiles to geometric intervals.
+So for method here.
+We're going to change it to geometric.
+interval.
+And we want our
+Or we see that our break points become a little bit more difficult.
+a little bit larger.
+So remember that--
+Previously it was zero to 8.30 and then 8.31.
+So now it's 0 to 881 so our
+our buckets, our intervals are a little bit.
+larger. So we can also change
+Change this to grayscale.
+So, that's at the bottom.
+I don't know which grayscale we want.
+Okay, that's making it too complicated.
+try and make it pretty but we'll go by the box.
+So let's do the gray fiber.
+classes here.
+And we want to see how it changes.
+changes when we try the internal.
+method and we do def...
+find intervals.
+So, you know.
+There you go.
+So for our method, we're going to change the method.
+it from geometric interval to define
+interval right here in for our
+interval size we're going to make it
+2500. So, it's...
+changing it from that 2319.
+to 2500.
+And then...
+You can see that it changes a little bit.
+So now we're seeing...
+a lot less of those dark colors.
+So we can really truly see where the...
+like exorbitantly high numbers actually.
+are focused like we see right here.
+In this area we're seeing a lot more darker colors as well as the
+top corner right here.
+Um, and now we are going to-
+change it back to quantiles.
+else. So.
+Alright, cheer.
+Keep changing.
+it on you.
+Quantile.
+And we're gonna try something a little bit more.
+different. We're gonna learn a little bit more about those.
+3D models. We did it a little bit in.
+the chapter one tutorials, but now we'll look at it a little bit more with
+These data as well.
+So let's see on
+the few tab.
+Let me go here.
+And we are going to...
+Click on "Convert"
+And...
+And on the convert tab, we're going to show you a new version of the convert tab.
+Choose to local scene.
+So here a 3D map opens with
+categories for 2D and 3D layers.
+And in the contents pane, we're going to try.
+the over age 60 receiving foods.
+We're going to drag that layer right.
+below the 3D Layers tab.
+So as you can see here
+here.
+And now we press.
+be.
+See.
+Sorry, I skipped a step.
+So make sure that...
+Over age 60 layer is selected.
+over here and then we're going to go to
+feature layer right here and
+And we are going to...
+Go to...
+extrusion.
+right here, so we're going to click on extrusion.
+And support.
+Type. We're going to click.
+Base height.
+And here, and here.
+for the field, we are going to
+click the 060_food.com.
+variable here.
+And now you can see we have
+the 3D map here.
+So remember to--
+So remember to tilt and look at 3D maps.
+we click the V button so I hold down V.
+while we rotate or drag it.
+So now we can see
+Our 3D view of our
+Over age 60 receiving food stamps.
+So this is just another way to look at it.
+Honestly, it's gonna be a personal preference for you and/or.
+or your map viewers of what's easier.
+to look at whether it's just the colors or if it's
+the height of each of these things which makes it a little bit easier for you.
+you to process the differences.
+It truly kind of dealers choice here.
+And we can collect.
+select each area if we want and remember
+we can look at the pop up for it so that we can actually see the
+numbers and the breakdowns.
+is all we had to do for tutorial 2.4 or actually.
+So now we can save our project.
+project.
+and close it.
+And then remember, we're going to have a good day.
+to create the zip folder we do we combine
+chapter 2.GDB index.
+and then our new tutorial to
+for file with our last.
+name, right click, send to
+compressed zip folder and once that's created
+submit that entire zip folder.
+for tutorial 2.4.

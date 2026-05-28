@@ -1,0 +1,613 @@
+Okay, so welcome to the next video.
+tutorial 3-3 and then
+This is all about creating a story in ArcGIS story map.
+and remember that...
+These story maps allow you to use like maps.
+tables, pictures, whatever your
+you want to tell your story to present your date.
+And this tutorial is essentially a conclusion.
+continuation of tutorial 3-2.
+So first we're going to go to the internet browser.
+out of your choice so let's go Google.
+from here. And then you're going to go to Ark
+GIS online again.
+So GIS.
+online I'm just gonna google it so it's to make it easier for you
+and again we will go.
+ArcGIS online.
+And we'll sign in.
+And if you're not signed in, remember you will go through this.
+the organization's URL, I will go through the ArcGIS.
+login here.
+[SOUND]
+Alright, so once you're signed in you'll go to the con-
+content tab again.
+And then...
+Then you're going to click the Create app.
+button right here. So the top left.
+hand cornering press create app and we're going to show
+our GIS story maps.
+And this will create a template.
+for us to use later so let's move the browser
+to the side.
+I think it's bigger enough that it won't do that.
+Let's see how big your shit could be.
+Oh my goodness.
+Can I get any smaller?
+All right, it's a little...
+needy. So we'll keep that size and move it to the side here.
+and...
+We're going to go to the folder where the two are.
+tutorials are located.
+We're gonna go to chapter three.
+Okay.
+tutorials and we're going to go to the resource
+this folder again. So right here.
+Then we're going to go to the story.
+map manuscript right here, this PDF.
+and open it.
+And so now--
+Now we are going to do a lot of coffee.
+and pasting for the future.
+the next 20 or so minutes.
+But we're going to use this to create our
+story map. So using this browser that we open.
+and we're going to first copy and paste the text.
+title in the browser and add in your
+name to the title placeholder. So right here, this title one dash
+one. We're going to copy this.
+And paste it.
+Oops.
+Or maybe not.
+Oh.
+because I am in.
+a browser. So I had to do control instead of command. Okay.
+And right here where it says your name.
+you're going to put your first and last name again.
+and then.
+And now we're going to take the subtitle that's it.
+in here, the subtitle 1-2 and put it on
+under our title. So the employment levels, average wages,
+and cost of living index, we are going to control C.
+and control vehicle.
+Thank you.
+Thank you.
+Thank you.
+Okay.
+Once you have that we're gonna scroll up a little bit and you
+And you'll see an ad cover image.
+or video. So you're going to
+click that and
+And we are going to upload the
+this that pexels engine file that's in the region.
+resources folder. So we're going to browse our files.
+And...
+we are going to.
+Go to desktop!
+GIST Pro as we press GIST
+as to Pro again. Chapter 3.
+tutorials, resource, and resources.
+Hopefully yours was still open unlike mine.
+And this right here, this...
+JPEG image, you can either click it or click it.
+to upload it or you can just drag it right here.
+here, and then it'll upload.
+of course it's gonna.
+And then we can press.
+add.
+And now we've created a cover photo for
+are storing that.
+And next up here, we're going to click.
+design and under this
+cover section right here.
+We're gonna click full, which I believe is this.
+Sorry, click "fall."
+And then you can close this design panel.
+So,
+Now you're going to click the...
+settings button which is at the top this little
+gear. Please.
+like that.
+and an image options window.
+should open and under display.
+at the top so up here, you're going to go to where it's
+says attribution.
+And you can either copy and paste the link from the book.
+or you can manually type in
+And I'm going to maino a type because mine's I'm using the.
+virtual lab. So www.
+dot pixels.
+.com/
+photo slash.
+light down.
+Red.
+I think I'm really dash art dash.
+"lue -"
+6 1 3.
+796.
+three. But that in the attribute
+and then you'll press save.
+And once we...
+Go back to the option of the image options window.
+We're going to go to the accessibility
+tab up here and you'll see that there's
+There's a box for our alternative text.
+And we're going to copy and paste that from
+the PDF also. You'll see alternative to
+text 1-3, we are going to...
+copy that.
+and paste it here.
+And then we can save that.
+Next, we're going to add blocks and...
+There are kind of different elements in the story
+we're trying to tell. So each block is like
+like headings, paragraphs, both.
+bolded list images and so on.
+So each time you add content of a different type,
+you're gonna need to open a new block.
+So, with that in mind, they do
+go in a specific order so let's scroll down.
+And you'll see this like tell your story
+You're gonna click the button.
+this plus sign next to.
+and actually yeah no okay we'll click this but
+and you'll see that you can add in a bunch of different
+types of blocks like text.
+different images or maps or whatever.
+We are going to add in a text block right here.
+And we're going to take this head.
+Heading 2-1, so Arts Employment.
+And we are.
+I'm going to paste that there.
+And we are going to...
+We are going to highlight the next slide.
+this text and you'll see that this pop-up should show up.
+And right here where it says paragraph, we're going to click the
+down arrow and we're going to make it a
+heading one so that it makes it an actual time.
+title here.
+And then...
+we're going to add another block below that.
+And for this one, we're gonna do a subheading.
+So I'm going to copy and paste this first actually.
+So I don't have to toggle back and forth and lose that little.
+block. So copy this subheading to
+dash two and right.
+here, we're going to add text.
+again. We're going to paste.
+that. And
+And for this instead of paragraph, we're going to make it headless.
+So that's how we make our subheadings is heading through.
+too. Do you see it's a little bit
+smaller than our first heading here.
+Next.
+Next one we're going to add is paragraph two dash three.
+So it's gonna be another text block. So this is what I would make.
+about a lot of copying and pasting so I hope you're comfortable.
+here. So this paragraph 2.0.
+three we're going to copy
+Happy that.
+and then we are going to add a two.
+text and for this.
+we can keep it as paragraph actually because we're just going to...
+going to make it a paragraph font.
+And you can see--
+that it copied and pasted but it got
+What rid of the breaks in the paper?
+paragraphs from the original text.
+So we're gonna
+need to actually manually create the break.
+in the text so that it looks the same as our initial paragraph.
+So let's see, the breaks are before you.
+for of importance, certain word here, and just press N.
+and then to help.
+help you explore. So right here, we're going to
+create another, we're just gonna press enter
+and it'll be,
+create break so that it looks the same as it did when we...
+Actually copied the paragraphs from over here.
+So now look we've got a good amount of stuff
+on now. We have, we're in full
+swing of making a real story map.
+Okay, so next they will...
+I want us to select the last sentence of the sentence.
+paragraph. So the one that's
+starts with you might be better off with a good sort of.
+going to select that.
+And you can either press control I like you would in.
+word or you can just press this italic button. We'll just do that.
+and we made that a tally.
+size now.
+And now I'm just gonna be repetitive.
+We're gonna add another two.
+to exploit below these paragraphs.
+And we're going to copy and paste.
+paste the disclaimer as heading to.
+So, one, E.
+You can either type this or copy it.
+I'll just copy it.
+I'm going to press this.
+text, we're going to change this paragraph.
+you heading to.
+and put disclaimer.
+Not the teacher.
+change it. So let's make sure that's heading too.
+There we go.
+And we're going to copy and paste the--
+paragraph two dash five under the disclaimer.
+block also adds text so let's
+go here and this little
+paragraph two dash five we will copy that.
+And we're going to add another two.
+text block and we can keep it as paragraph.
+Oh.
+I didn't copy it right.
+Warms?
+second. Goodbye, here.
+Yeah.
+Copy this.
+There we go.
+And we can keep that one as paragraph.
+Okay, so now we're going to go to the next slide.
+Next, we're gonna add a sidecar block with the map.
+And it's kind of like a docked panel.
+of media here so it's very useful for
+a lot of narratives in this.
+And so we are going to add in
+content lock and this time instead of text we're going to
+Scroll down.
+And I'm not gonna go.
+See ya!
+Immersive down here.
+And we're going to press side car.
+And then we're going to click.
+So that's the first one right here.
+And then save.
+So once that docked panel is done,
+there, we're going to click the Add button right here at the top.
+top, and then we're going to select.
+map.
+And once you do that, you should see the maps that we created.
+and save to our ArcGIS online accounts.
+from the previous tutorials here.
+and you're going to click on your arts employment map.
+So remember,
+Remember, the one that has your last name, so our employment with your name.
+name.
+And we're going to make sure that our
+map looks correct does seem to be
+correct and once you confirm that you can click.
+save and now it'll show
+in the doc panel and my screen is really zoomed in so
+It looks a little wonky right there, but if we zoomed out, it would look normally prominent.
+And you can also choose
+the functionality of various features on your
+so you can like zoom in.
+Oh.
+maybe
+You can zoom in here.
+All of that we can make sure that
+that it actually works and people can manipulate the map.
+different ways that they might want to.
+And now...
+Now you're going to click on the maps.
+setting button here.
+So...
+Right here, the skier at the top.
+And you'll notice that an alternative text.
+Box pops up again and this has
+Then we're going to copy and paste the alternative text to -2.
+six here. So this alternative text.
+two dash slick six.
+We will copy that.
+and paste it here and then we can save that.
+Alright, first we'll paste heading...
+three dash one right here. So we're going to
+to provide some context for our maps.
+some different texts. So for
+heading three dash one. Yeah, our
+employment map, so we'll copy that.
+that and we are going to work
+as continue your story, we'll press.
+text and we will paste.
+that and we're going to
+Make it a heading one.
+rather than paragraphs.
+Then we will add
+subheading 3-2 here at
+a heading to. So remember we will go map use and
+and navigation, control copy.
+We will.
+Press this hook. Add content block.
+text. We will paste that.
+and then we'll change it from paragraph to a
+heading to.
+Room cabin.
+Next, we will paste our bulletin.
+And bulleted list 3-3 here and it will be
+be formatted as bulleted.
+So over here, we'll see.
+Let's see, we see this bolded list, three dash three.
+So we will copy that.
+And then we are going to do this.
+to create a text box.
+Yes.
+Yes.
+Yes.
+And for this, instead of paragraph,
+you'll make it a bolded list.
+So every time there is a end.
+of a sentence or beginning of sentence, we're going to
+Like we did before when we were trying to create the different paragraphs, we're
+just going to press enter so that we actually break these
+things up into bullets.
+Here.
+I believe.
+Every time it says click.
+Basically, let's go together.
+Go ahead.
+I'm kind of winging this because we don't actually have
+a full guide on.
+how they want us to separate it.
+Okay.
+I think that's good.
+All right.
+So next we're going to add an image.
+So for this, we're going to click.
+Add content.
+We're gonna go down to media.
+right here and then we're going to click
+image.
+And we're going to go back to the folder.
+So, nope. It's a test.
+top GST for pro as
+WordPress, DHT for Pro, chapter three.
+three tutorials, and then again, remember.
+Remember we're going to the Resources folder.
+And we're going to add in
+this table one dot png.
+file. So again, you can either double click it or
+you can just drag it, drag it over.
+there. And,
+And check.
+that you can press add.
+So now you'll see that there's an added caption.
+option that comes up underneath it.
+And we are going to...
+to add captions.
+three dash four to that capture.
+So over here, we'll copy that.
+And then you okay.
+to here.
+Okay, let's see our next thing.
+And we're gonna be adding...
+we will add subheading three
+three dash four. So right here, three dash four.
+3-4 patterns on the map.
+We'll copy that.
+add it here as a text.
+And
+change it from paragraph to heading to.
+Okay.
+and we'll add another image.
+So we're gonna add table.
+to hear the same way we did with table one.
+So, yeah, right.
+I'm going to press this.
+And remember, like we did before, we'll do media image.
+and then we will browse.
+files and again we will get
+to our desktop.
+folder that has all of our tutorial materials. We're going to
+the tutorials and then go resources
+folder and then we are going to drag
+Table 2 right here.
+Okay, next I got this and add.
+out it.
+And like we did with the table one, we're going to...
+to put a caption here as well.
+also caption 3-5 right here.
+We will copy.
+that.
+And right here we will paste it.
+Okay. See our new.
+Next thing we're gonna be adding is heading links
+to the top of the screen.
+page to help make navigation on our
+story map a little bit easier. So click out.
+So we'll scroll up to the top.
+here and...
+Actually, I'm just going to press design.
+And then...
+Then we're going to make sure both the navigation
+and credits are toggled on.
+So these optional stories.
+selections. We're going to make sure we toggle on navigation.
+education.
+and then we can
+So I'll get on there.
+Okay, so we need to do this.
+I believe so.
+So now we can exit up the design panel.
+So now--
+up here you see that we have arts employment and arts employment.
+map so we can click to these different
+different headings. Remember we made heading ones.
+And it'll take us to those individual companies.
+of sections of our story so we can press arts and play
+the map.
+and it will jump us down to the actual map and the time.
+text about it, which makes things really easy.
+because if you explored that story maps
+that we went over.
+in lecture one, I believe.
+There you can make a story map with a ton of...
+of different sections and so it's very
+easy to get lost in it. So this is good to kind of help you.
+get oriented and click back and forth on different pieces.
+that are of interest for you.
+Okay. So now...
+Now we're going to scroll to the bottom of our story.
+and we're going to add credits.
+down here where it says add a credit setting and all of those.
+So for this heading,
+We're just gonna type out credits.
+And then underneath where it's at.
+as added credits description optional.
+We are going to paste the...
+credit text underneath so we are going to
+Paste.
+all of this. If it'll let me go down.
+Okay, we're going to...
+to copy all of that.
+and we're going to put it here.
+And you'll...
+You'll notice that like before when we copy and paste.
+It doesn't actually paste it the way it works.
+we want it to look. So we're going
+to add in the different breaks.
+So let's see, we're popular.
+data, that's a new one.
+And let's see, for this.
+Stay, I'm gone.
+[no audio]
+And...
+Thanks, Ian.
+I actually think this cost of living needs to be an...
+extra one too. So now you can see that there are
+separated out appropriately so that we can see
+Each of them separately.
+and they're separated out like the paragraphs.
+Sorry, I just had separated so many.
+times in that sentence, but you can see that it's now
+formatted correctly.
+And you can do it this way, you can also add it.
+with the credits and attributions.
+side by side like this.
+So.
+For this, for example, we got
+could do. Let's see.
+Okay.
+Thank you.
+Yeah.
+this.
+copy and for content.
+it will just paste that there.
+And for the attribution--
+That's going to be the link that's available at.
+Oh good.
+Oh no.
+Okay. You know what?
+We're just gonna copy and paste all of this for ease.
+Don't wanna watch you.
+And I wanna have you watch me struggle forever.
+So you can do it that way as well where you kind of
+separate them outside by side.
+And you can just press the button.
+this add button right here to include all of this.
+of the credits and attribution. So we can do it this.
+way as well.
+Helping.
+I actually think I was supposed to find out.
+format this way anyway.
+first once formatted a little bit incorrectly.
+Thank you.
+Copy.
+So like...
+that. So this actually should go on the other side.
+All fixes that were.
+Right.
+And then we can just keep going through like that.
+So we can...
+and I'll add in all of them, so we feel complete.
+Copy that.
+ist.
+Happy
+attribution and then we only have four.
+more I believe.
+Coffee.
+based.
+Okay.
+Thank you.
+be taste.
+Alright, so now you can see it both ways.
+whichever one it's honestly mostly a stylist.
+of whether you want to just list them out kind of.
+in blocks like this or if you want to separate it out.
+Let's see.
+We need to do anything.
+anything else here.
+No, I don't think so.
+So next we can
+actually preview the story you just made?
+So you can see how it would appear on someone's--
+like computer or phone or tablet or whatever they're actually
+viewing it on. So on the menu...
+up here we're gonna click this preview button.
+And we'll just press yes.
+continue.
+And so this isn't full screen, we can also see
+what it would look like on a desktop.
+Let's see.
+what it would look like if someone opens it on their computer.
+You know, the side car panel, that's cool.
+cool. We can look at what it would look like on a
+tablet and you're going to notice they look pretty similar depending on
+on how basically their scale was.
+size they actually are and then we can look at it.
+it on a phone as well.
+Or...
+My internet's out. Question mark. Okay.
+Well, typically we would be able to see what it looks like.
+Sorry, I think.
+internet may have gone out or is just being
+stubborn right now. Hopefully on your end you can still
+see what it would look like. At least we got through a couple of them. We're gonna
+exit out of that preview right here.
+and see.
+Once you're finished with that, we can actually clean.
+publish. So we're going to press publish.
+and for the share.
+section right here. Remember we're going to change it from private.
+to everyone public.
+And then we are going to
+Click publish.
+And it'll check for issues.
+And don't feel like you're serious.
+story is permanent once you
+publish it, you can actually like always go back.
+and edit it right here. So don't think that we're
+once it's published, you can't make any changes. I assure you that's
+out the case and this isn't required for the tutorial.
+But if you want, you can...
+can also go through and add
+in the content from your cost of living map and everything.
+everything. So down here you'll see this cost of
+living index map. And again, it's optional. You don't need to turn
+it in, but if you want more practice, please
+feel free to work through and add all of these things in like we did with
+the first map and
+And if you want to submit the comments, please subscribe.
+that so I can confirm or deny you didn't.
+correctly. That's totally fine.
+For submission of this tutorial, we're going to do things
+a little bit differently. We are going...
+Instead of submitting is it full?
+you're going to just submit a Word document with a link.
+link to your newly published story map for credit.
+So.
+So we're going to go view our published story here.
+And you're just going.
+to copy.
+and paste this URL right here.
+into a Word document so that I can just...
+Boom.
+Check to see if...
+you actually included everything and that it looks like
+gets formatted correctly. So I will put that
+in the notes for the submission as well, but there's no actual
+like GIS, matte folder, anything that
+you need to submit for this one, just the link. So I'll say
+it again. Just the link for your newly published stories.
+and again I will put that on canvas as well so you remember.
+number.

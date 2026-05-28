@@ -1,0 +1,171 @@
+Okay, so one.
+Once you have tutorial 25 open.
+This is displaying data using Gradual.
+and proportional point symbols.
+So we are going to start by saving projects.
+as we're going to go.
+tutorial two five
+And we're going to add our last name.
+.aprx.
+Okay, so the first one.
+we're going to do is in the first neighborhoods.
+you'll notice there's two of them.
+In the first neighborhood's layup.
+We're gonna rename that to number of food banks
+slash soup kitchens. So click here.
+I'm going to highlight this.
+of food bangs.
+Super kitchen.
+And, ah.
+Okay. If you can.
+do it without typos, unlike me.
+Perfect.
+All right, so now we're going to highlight the new new.
+variable and we're gonna go to
+to the feature layer up here.
+And we're going to go to symbolic.
+and we're gonna go to...
+to graduated.
+symbols. So we're here.
+And for our field
+Remember we don't want to do object ID that doesn't really give us any information.
+information ever. So as a general point, you never want to
+this to be object ID.
+So for field, we're going to change it to food.
+underscore FASIL, food facility.
+For method, we are going to
+to choose quantile.
+And we can play around with it a little bit if you want.
+go ahead and change this to different.
+find interval just to see how things change.
+Um, Ellen.
+Let's see, let's go to the...
+template symbol.
+right here.
+We're going to choose circle three.
+And then for colors, we don't want to
+to be red we want it to be yellow and so we're going to change it
+to solar yellow. Keep clicking on that one.
+And I believe that's one of these two.
+Okay, yeah, so this third
+row right here, solar yellow.
+And I don't think we have to change the size or anything.
+anything so let's change this.
+Okay.
+So now we're going to hit the back button to get back on this.
+symbology pain.
+And we're going to rename the second.
+neighborhood's layer to under 18.
+receiving food stamps. So this second neighborhood
+layer right here. We're going to
+rename that to
+under 18.
+We're receiving.
+stamps.
+So now you'll see we have an over age 60 receiving foods.
+and in under 18 receiving food stamps.
+And we're going to go to the
+feature layer for this and we're gonna go to symbology.
+it seems like it's already on there, but we'll go there anyway.
+And we're going to use proportional.
+symbols.
+And that's outrageous looking.
+So we're going to fix this.
+that obviously. So the
+field here is not going to be
+be object ID, remember, it's gonna be
+U18_food right here.
+And
+And for our minimum size right here,
+we're gonna do
+two.
+And let's see.
+For our Maximsize, we're going to check this on.
+And for our maximum size, we are going to...
+to change this to 20.
+That looks much better.
+Okay.
+Let's see for our...
+And we're going to change the
+color for our
+little symbols to
+purple. So it looks a little weird right here but you see this
+template right here. I don't know if it'll look like that for you. But...
+It's like in the background text right now.
+So once it's blue and highlighted, you can click on that.
+for color we're gonna make it any color.
+Any purple we is that speaking us. I like this.
+slightly darker purple the dark and
+with this.
+and we make sure I don't need to change anything else.
+So press apply here.
+And now we have purple dots with yellow.
+So remember,
+Remember our contrasting color rule that we learned about
+in lecture we're using colors on the opposite side of
+the color wheel to show a little contrast here.
+So now we're going to show, or we're going to study.
+the relationship of food banks and soup kitchens.
+and persons over 16 under 18 receiving from the hospital.
+food stamps in one map. And so we're going to do that by
+looking at the Bronx and Brooklyn, but
+So to get to, we'll start with the bra.
+Make sure you go up to this top map tab.
+Bookmarks, and a little bit.
+start with the Bronx. So here you can see
+the relationship between those who are un-
+under 18 receiving food stamps in the purple color.
+the purple circles. So the bigger the circle,
+the higher proportion or the higher number of people.
+We can see the over age 60 receiving
+food stamps by the color of the
+the actual polygons in the background.
+So.
+The dark blue colors are...
+higher numbers of people who are over age of 60 receiving
+food stamps and then the yellow
+Hello, circles are telling us how many food facilities
+are in each of these areas.
+So again,
+bigger the circle, the higher the number of food.
+facilities and so you can see that they
+You correspond pretty well, at least in the Bronx.
+here so we're seeing that the larger yellow circles
+in the larger purple circles are corresponding with.
+the darker blue color so the higher
+the number of people who are receiving food stamps, either you.
+or those who are over the age of 60.
+That's where we've been focusing our food facilities.
+which is what we want to see, right?
+The higher the demand,
+higher the number should be.
+can look at that in Brooklyn as well.
+Well, make sure you got a bookmarks.
+and go to Brooklyn and we
+We can see that we're still seeing a pretty bit out there.
+At least qualitatively, we're not actually assessing anything.
+We're not--
+measuring associations in a statistical way.
+right now we're just kind of looking at it and eyeballing it.
+But we...
+We can see that the circle's size is...
+and the colors correspond relatively well.
+with one another, which is what we would hope to see.
+Okay, so there we go.
+are going to zoom to full extent. So remember, that's this
+little globe button right here.
+And consumer.
+tiny little bit I guess just so we can see that.
+circles a little better. And then that
+That is the end of 2.5 tutorials, so now we are going to
+save our project.
+Close it.
+And then we're going to combine our five.
+like always. So chapter two.
+dot gdb index.
+and then tutorial 2-5 with our last name.
+name, right click, send to
+compress, zipped folder, and then you're going to submit.
+that zip folder for the tutorial to...
+or two five submission for.
+credit.

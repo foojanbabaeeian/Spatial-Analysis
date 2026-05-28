@@ -1,0 +1,323 @@
+So for our last one.
+Last tutorial for chapter one, we're going to be
+looking at symbolizing maps.
+So symbolizing different feature classes.
+classes, labeling feature classes, adding in
+removing these classes and viewing and navigating a third.
+3D scene. So you remember from our lecture we talked.
+about how sometimes it's helpful to look at
+things in 3D to get a little bit more.
+context for it. So I'm going to
+start by opening tutorial 1-4. So remember
+we're gonna go to our folder on our desktop.
+And we're going to go to chapter one, two, two, three.
+tutorials. I'm going to go to tutorial one.
+dash four.
+Nice.
+that we're going to exit out of the updates.
+And remember we're going to first save the
+project with our name. So to
+tutorial 1-4.
+And we're gonna put our last name here, so put
+It should be the .apr.
+x file.
+And as always we will do it.
+Double check that the name updated up here at the top of the page.
+our project. So now we're going to jump right in.
+symbology. So we're going to
+right click FQHC clinic.
+and we're going to go to the
+symbology button.
+So right here you'll see it takes us to...
+the primary symbology pain.
+paint, sorry about that. And if we
+Click the symbol right here.
+It'll open this kind of gallery of different...
+symbols that we can use to represent our FQA.
+So we're going to
+Circle 4 right here.
+And we'll see that it's now in red.
+So it changes the color automatically to the...
+kind of standard format.
+And so now we're going to go to properties at the--
+top here and we're going to change our color.
+back to green. So...
+To change the color we're going to click on the
+right here the color and
+You know, I typically like to keep my maps
+more colorblind friendly as much as possible.
+So I like to stick to shades of orange and blue.
+But I believe that the book does want to agree
+here so we're going to listen to directions but that is just
+a piece of knowledge or advice.
+that I have for making maps in a general sense.
+is that making them as
+friendly to the general public as possible.
+But that's a whole tangent. Let's go to the group.
+here and we are going to...
+I'm gonna make it...
+What color grade am I gonna do? I kind of like
+this one. Quetzal green.
+So I'll choose the green.
+we are going to change the size to eight points.
+So right now it's at 10 point and we're going to make it
+eight and we are going to click
+apply. So you can see here that all the F
+QHC symbols have now changed to our
+green color with and their size 8.
+So we are now going to
+to change our poverty risk area.
+So we're going to poverty risk area.
+And we're going to go symbology again.
+And if you notice, it kind of already opened.
+up to it because I had the symbology paint open but we're
+going to retrace our steps here and we're going to change
+the outline with to
+So here we're going to
+make our outline with.
+two and we're going to change the
+outline color to the second color.
+for the column for throw. This is according to the book.
+So second column, fourth column, fourth column.
+row it's gonna be point set up
+red. And so
+Now we've changed our color here.
+Let me see if I need to make any other changes to...
+it. No, it doesn't look so. So we're not.
+apply those changes and you'll see it didn't change very
+much, it darkened by just a hair and a doubt.
+line with changed a little bit but for the most part.
+It looks very similar.
+And let's see.
+Now we are going to label
+a feature class using one of these attributes.
+So in the contents pane, we are going to
+Turn off, and close out of the symbology right now.
+In the contents pane, we're going to turn on the
+off density. Sorry.
+turn off the population density.
+and buffers.
+And we're gonna turn on Munice and the other side.
+palities.
+I think that's all the changes.
+we need to make. Okay, so now if we want
+I want to label the feature class using one of the features.
+of these attributes. What you're going to do is you're going to click
+municipalities and just once you're not going to double click it.
+and you're not going to try to change the name.
+You're gonna go to up here in the top.
+panel or...
+pain? I don't know, keep using the minute changeably. Sorry to-
+computer people if I'm using them incorrectly. So we're going to go
+Go to the top here where it says labeling.
+And we are...
+are going to stay in the labor.
+class section right here which is the first one.
+And you'll see that the label automatically does not work.
+defaults to name and
+And so we are going to
+Keep that. Let's just double check that's highlighted.
+And we're gonna change the font size to...
+seven and we are going to
+going to make it a dark gray.
+color. So let's see, let's change this.
+to a dark gray color.
+Let's go.
+Re six.
+60%.
+And then we're going to, if you see this
+little button right here by the tech symbol we're gonna go
+go. We're gonna click that.
+And...
+over and we're gonna
+shoes different.
+things for the labeling class.
+So first we're gonna scroll down a little bit.
+and we're going to expand this halo option.
+click there and for
+For our halo symbol, we're going to
+to choose a white square. So,
+right here, the white fill and our
+outline color we're going to change this to
+to know color.
+our outline with, we're going to make it
+0.75
+And I believe that is the only thing.
+for changing. So let's apply those.
+And you'll notice that nothing is on the map yet.
+That was very purposeful. I like to change my...
+different formatting things before I do.
+change label. So here now if you press
+In the top left corner, this label button.
+Now you'll see all of the labels.
+have been filled in for the names of the municipal
+with our new settings. So no
+outline color are white fill 0.75 outline.
+with all of that has now been a
+applied and our change in our--
+color and font size. So you can see
+All of those are now filled in.
+So let's zoom in a little bit.
+So let's assume to the western part of the county are ready.
+the center. Sorry.
+Here, so now...
+you can see all of the names a little bit more.
+easily and if we really wanted to see.
+and like see all of them and you're
+We won't go into it today because it's
+a little bit time consuming, but many times
+you're going to want to only include
+some of these names and I believe we get into that.
+point but you'll notice that it's kind of busy with all of these names.
+shown so just know that if you're interested.
+I can show you how to show just a few of the new ones.
+but that's not the point of this tutorial.
+so I won't go into it for a time's sake.
+Okay, so now we're going to turn our municipality.
+these off and you'll notice that our labels are now gone as well.
+Well,
+No.
+And we're going to zoom to the full length.
+extent again. So we're gonna go map.
+Then remember this little globe right here full extension.
+We're going to zoom to full extent so it shows us the whole map.
+with the entire county.
+So now we're going to expand
+in the catalog pane so if you don't have the catalog pane
+brought up make sure you bring that up and we're
+going to expand this databases option.
+So press a little arrow next to databases.
+And we...
+We are going to expand the chapter one.
+and you'll see here
+that we have a parks feature that's not included.
+it on our map currently. So if we want to add
+it to the map, what we can do is click it.
+and then just drag it onto our map and it'll automatically
+automatically add it, you know, where it needs to be on the
+map. So we have the
+map. Or we have the parks here and...
+Let me see where it added.
+Okay, perfect.
+If the parks did not add...
+Above the population density for you, make sure it's
+is shown ahead of the population down
+density here.
+Remember, if it's actually...
+If it popped up...
+like down here, what you're going to do.
+is drag that parks up
+up here.
+That's all that I mean by that.
+So now we're going to click or now we're going to
+change the color of the parks because right now they're in
+pink which isn't very intuitive as parks for a
+So what you're going to do is you're going to directly click.
+this little pink square right here.
+So you'll see the symbology pops up immediately.
+so we don't have to do the right clicking.
+And what we're going to do is we're going to go to get...
+Gallery and we're going to go.
+If you scroll down a little bit, there's this green that's specifically meant.
+for parks so it's kind of...
+you know universally recognized as a park center.
+So you can see that it's changed it now to green instead of
+pink which is much more intuitive for a park.
+So now that we have our pink
+change to green here. We can close out of that symbol.
+symbology for right now and we're going
+to go to our bookmarks here.
+And we're going to zoom to...
+Pittsburgh East End bookmark.
+So here we can see...
+that is zimed in a little bit on the east.
+and we're going to assume a little bit
+more until you can see street names.
+Oh, one good back one.
+You can see street names, you can see where these parks are.
+actually are and a little bit more.
+context and detail of how big they are like this is a
+a very large park. It's more of a stretch of green.
+whereas this is a little bit larger.
+So, and this is very large.
+So you can see...
+kind of where it actually is and this is very helpful if you
+you're looking at an area that's
+that you are very familiar with, so you can actually say like, oh yeah.
+I know a part that is and I know
+like where to find it. So the street names are very helpful.
+for that if you're more familiar with it. I can admit I'm
+I am not very familiar with Allegheny County.
+Have not been there.
+there. So this doesn't mean very much to me.
+But if you do need that context, you can do it this way.
+Okay, so now we
+We can zoom back to the full extent.
+So remember we're gonna go back.
+up here and click this little globe for the full experience.
+and now...
+we can remove our parks. We just wanted to see them.
+them on the map for a second. We don't need them on our map.
+or the final tutorial. So remember to
+To remove a feature, we're going to right click.
+and just press remove and it's gone.
+And you'll see that it's still over here in case we're not.
+change your mind and want to quickly add it back.
+So we're going to save our project here.
+here.
+And another thing I want to do is
+to show you is the 3D maps that we talked about.
+or the 3D versions. So we're going to do a 3D version.
+of population density.
+So to do that, we're gonna go make sure you're in your community.
+catalog pane so if you still have this
+and bulgy open make sure you close.
+that. So in the catalog pane,
+We're going to expand maps and we're going to
+We're going to double click the healthcare clinics 3D.
+[ Silence ]
+So...
+So now we have a 3D
+and visualization of our population density.
+and it doesn't really look very expensive.
+when it's like this and remember we can drag it around.
+to move and manipulate the three
+So, we have a 3D data.
+in ArcGIS, what you're gonna do is you're gonna hold down
+And you're going to
+scroll that way so you can zoom in and now
+Now you can see the actual population density measured through this.
+it kind of looks like buildings and you can...
+far. And you can see the actual
+population density is highest in the middle, which we are
+from the map but it's it can be easier for
+some people depending on how they process.
+maps, it can be easier for them to see it this way.
+So remember, we're holding down V.
+And we can move it that way.
+and get like an aerial view.
+I can center it.
+Ariel, if you have that's easier for you.
+So you can manipulate this in a lot of different ways.
+It's...
+I mean, again, it's cool. This personally is not
+the way I like to visualize data for myself, but it can't
+be very very useful so I'm gonna you know put that caveat out
+there. It's at least, if nothing else.
+cool looking. So I think...
+that is the last thing we need to do for our tutorials. So again,
+we're going to save it.
+We can close it.
+And as promised, I'll show you
+you again how you should submit the tutorial material.
+So remember we're going to highlight the chapter.
+one dot gdb index.
+and then our tutorial 1-4 with our
+last name. So once all three of those are selected
+you're going to right click send to and then come
+zipped folder.
+And I'll keep the same name. So still
+the tutorial 1-4-Rosen.
+and I will submit this SIP folder to camera.
+for tutorial 1-4 for credit.
+And that is the last tutorial for chapter one.

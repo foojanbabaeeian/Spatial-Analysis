@@ -1,0 +1,178 @@
+{
+	"DocumentType" : "Index",
+	"MajorVersion" : 1,
+	"MinorVersion" : 0,
+	"PatchVersion" : 0,
+	"NumberOfNodes" : 28,
+	"Nodes" :
+	[
+		{
+			"NodeId" : 0,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/34daf6c005c14bd2bbd6d24c1296b27c.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 1,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/3d1d68e73e914292b32928b7f2d2d397.json",
+			"ChildNodeIds" : "15,22"
+		},
+		{
+			"NodeId" : 2,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/alleghenycounty.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 3,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/d68e22380ce54c578e47766981a2498f.json",
+			"ChildNodeIds" : "15,19"
+		},
+		{
+			"NodeId" : 4,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/fqhcclinics.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 5,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/municipalities2020_project.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 6,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/pittsburgh.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 7,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/povertyriskarea.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 8,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/rivers.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 9,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/streets2000prj.json",
+			"ChildNodeIds" : "15,18"
+		},
+		{
+			"NodeId" : 10,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/tracts2020_joined_project.json",
+			"ChildNodeIds" : "15,21"
+		},
+		{
+			"NodeId" : 11,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/urgentcareclinics.json",
+			"ChildNodeIds" : "15"
+		},
+		{
+			"NodeId" : 12,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/census_tracts.json",
+			"ChildNodeIds" : "13"
+		},
+		{
+			"NodeId" : 13,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/ground.json",
+			"ChildNodeIds" : "27"
+		},
+		{
+			"NodeId" : 14,
+			"NodeType" : "Map",
+			"FileName" : "health_care_clinics1/health_care_clinics1.json",
+			"ChildNodeIds" : "20,12,13,23,24"
+		},
+		{
+			"NodeId" : 15,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_facilities/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 16,
+			"NodeType" : "Map",
+			"FileName" : "health_care_facilities/health_care_facilities.xml",
+			"ChildNodeIds" : "20,15,23,24,5,9,10,0,8,11,4,7,6,1,2,3,25,26"
+		},
+		{
+			"NodeId" : 17,
+			"NodeType" : "Layout",
+			"FileName" : "layout/fqhc_and_medexpress_facilities_in_allegheny_county.xml",
+			"ChildNodeIds" : "16,8,1,2,11,4,7,5,6,3,9,10,0"
+		},
+		{
+			"NodeId" : 18,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/01cb7bcda0f44b42d7fbbc5a6971e1c7.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 19,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/0a7825c798e33e73577396491399c7db.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 20,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ab689563ce9d6eb6aa05a15cede47c18.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 21,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/b050dfe0bcd7101a05a9fb151a45b183.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 22,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/e64df3b1373ccb2b6af7bfca8745c8e8.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 23,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/0035cc202b9e97b5c19d646f884d648f.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 24,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/2d8e9f6ba3798c6e72d01f54fe0244ee.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 25,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/370274d9c5cfc7d2c7750447b4b30351.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 26,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/7ed9d85204fdf8f9b228f091cdedc512.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 27,
+			"NodeType" : "Layer",
+			"FileName" : "worldelevation3d_terrain3d.json",
+			"ChildNodeIds" : ""
+		}
+	]
+}

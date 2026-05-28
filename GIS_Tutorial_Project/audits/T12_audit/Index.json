@@ -1,0 +1,238 @@
+{
+	"DocumentType" : "Index",
+	"MajorVersion" : 1,
+	"MinorVersion" : 0,
+	"PatchVersion" : 0,
+	"NumberOfNodes" : 38,
+	"Nodes" :
+	[
+		{
+			"NodeId" : 0,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/34daf6c005c14bd2bbd6d24c1296b27c.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 1,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/3d1d68e73e914292b32928b7f2d2d397.json",
+			"ChildNodeIds" : "26,33"
+		},
+		{
+			"NodeId" : 2,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/alleghenycounty.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 3,
+			"NodeType" : "Layer",
+			"FileName" : "Health_Care_Clinics/d68e22380ce54c578e47766981a2498f.json",
+			"ChildNodeIds" : "26,30"
+		},
+		{
+			"NodeId" : 4,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/fqhcclinics.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 5,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/municipalities2020_project.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 6,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/pittsburgh.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 7,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/povertyriskarea.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 8,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/rivers.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 9,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/streets2000prj.json",
+			"ChildNodeIds" : "26,29"
+		},
+		{
+			"NodeId" : 10,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/tracts2020_joined_project.json",
+			"ChildNodeIds" : "26,32"
+		},
+		{
+			"NodeId" : 11,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics/urgentcareclinics.json",
+			"ChildNodeIds" : "26"
+		},
+		{
+			"NodeId" : 12,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/allegheny_county.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 13,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/census_tracts.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 14,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/fqhc_buffer.json",
+			"ChildNodeIds" : "16,33"
+		},
+		{
+			"NodeId" : 15,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/fqhc_clinics.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 16,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/ground.json",
+			"ChildNodeIds" : "37"
+		},
+		{
+			"NodeId" : 17,
+			"NodeType" : "Map",
+			"FileName" : "health_care_clinics1/health_care_clinics1.json",
+			"ChildNodeIds" : "24,31,22,13,15,21,19,12,14,25,23,18,20,16,34,35"
+		},
+		{
+			"NodeId" : 18,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/municipalities.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 19,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/pittsburgh.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 20,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/poverty_density.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 21,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/poverty_risk_area.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 22,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/rivers.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 23,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/streets.json",
+			"ChildNodeIds" : "29,16"
+		},
+		{
+			"NodeId" : 24,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/urgent_care_clinics.json",
+			"ChildNodeIds" : "16"
+		},
+		{
+			"NodeId" : 25,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_clinics1/urgent_care_clinics_buffer.json",
+			"ChildNodeIds" : "30,16"
+		},
+		{
+			"NodeId" : 26,
+			"NodeType" : "Layer",
+			"FileName" : "health_care_facilities/ground.json",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 27,
+			"NodeType" : "Map",
+			"FileName" : "health_care_facilities/health_care_facilities.xml",
+			"ChildNodeIds" : "31,26,34,35,5,9,10,0,8,11,4,7,6,1,2,3,36"
+		},
+		{
+			"NodeId" : 28,
+			"NodeType" : "Layout",
+			"FileName" : "layout/fqhc_and_medexpress_facilities_in_allegheny_county.xml",
+			"ChildNodeIds" : "27,8,1,2,11,4,7,5,6,3,9,10,0"
+		},
+		{
+			"NodeId" : 29,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/01cb7bcda0f44b42d7fbbc5a6971e1c7.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 30,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/0a7825c798e33e73577396491399c7db.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 31,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/ab689563ce9d6eb6aa05a15cede47c18.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 32,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/b050dfe0bcd7101a05a9fb151a45b183.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 33,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Metadata/e64df3b1373ccb2b6af7bfca8745c8e8.xml",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 34,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/0035cc202b9e97b5c19d646f884d648f.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 35,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/2d8e9f6ba3798c6e72d01f54fe0244ee.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 36,
+			"NodeType" : "BinaryReference",
+			"FileName" : "Thumbnails/370274d9c5cfc7d2c7750447b4b30351.dat",
+			"ChildNodeIds" : ""
+		},
+		{
+			"NodeId" : 37,
+			"NodeType" : "Layer",
+			"FileName" : "worldelevation3d_terrain3d.json",
+			"ChildNodeIds" : ""
+		}
+	]
+}

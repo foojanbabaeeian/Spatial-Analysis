@@ -1,0 +1,586 @@
+Okay, welcome to
+tutorial 4-2 and this tutorial will
+will be modifying attribute tables.
+And as I mentioned in the last tutorial,
+we should be starting with the map.
+that we just created in our tutorial 4-1.
+and we will save the project again.
+you can skip this step if you do not care.
+about looking back at your work.
+I will save it just because...
+and I think I want to take
+in the same folder because I don't feel like looking for the end.
+other ones. So 4-2.
+Thank you. Roseanne.
+name and then we'll save it.
+Okay, so the first thing is...
+What I will do is we'll learn how to delete any
+unneeded columns. So a lot of
+times for future classes you'll have a lot of extra
+or unnecessary attributes that you can delete for some
+and I think that you had to do this on your home
+work too. So this should be more review than anything else.
+But in the contents pane we're going to write
+Right click our tracks layer that we should still have here.
+and we are going to click
+Zoom to Layer and we're...
+We're already there basically.
+And we're--
+going to create a book part. Book
+mark named Maricopa County. So...
+Good maps, bookmarks,
+New bookmark. Maricopa.
+over county.
+Okay. And then we'll see.
+We can also turn off both of the base maps.
+in the contents pane so this world hill shade
+world topographic map we can get rid of
+of those.
+In the content screen we'll right click tracks again.
+and we'll click data design.
+build.
+So, just bring us to the Fields view for...
+the tracks. If you remember we can get there.
+There are a couple different ways.
+This is just to show you another way we can--
+get to the Fieldsview, I'll also show you the way that
+we were doing it in previous tutorials a little bit later on in the
+one. Okay, so...
+Remember that FieldView allows you to...
+Either create or modify fields in our table.
+there are a few exceptions.
+we can't delete the primary key of the table.
+Remember, that's the object ID that's assigned by GIS.
+We can't delete the shape.
+Shape.
+length or shape area field. So they're all
+We need all of those and you'll notice that all of them are grayed out to end.
+that we cannot get rid of them.
+And we are going to
+select all rows, etc.
+except for our grayed out.
+one, so our object ID shape, shape length, and shape.
+area and GLID. So the only
+The only ones we want to keep are other ones.
+object ID, shape, geo ID, shape.
+length and shape area. So we're going to press control and
+And we can get rid of the.
+this shape length and I know that's confusing.
+We wanna keep this gray.
+out this great out shape plane.
+and this geoid, sorry.
+actually did this earlier so it's definitely showing
+updated one. For you, you're gonna see a lot of
+more variables, so make sure the only variable is
+variables that you still have will follow the same process.
+are these five objectivity shaped geo-objectivity.
+shape length and shape area. And once you've highlighted the one
+ones you want to delete, you highlight them.
+right click in this little box over here and press
+delete and you'll notice that they
+get crossed out before they actually get deleted.
+So remember this is
+in the editing field yet or still so we need to
+save our changes before it'll actually delete.
+If we, I'll show you this right here.
+So if I do,
+decide to delete geo
+I realized actually I want to keep GID.
+What you can do is go over to this little green box.
+over here before you press save right click
+it and press this restore button in order to
+I'm going to delete it for you.
+So once we have the action...
+variables that we want deleted, highlighted,
+and deleted, we can press save here.
+And so we see we only have a lot of people.
+have these five very well.
+Okay.
+So now we can close this field's view.
+and open the tracks attribute table.
+So right click after you have a look at the next video.
+table so you'll see that we still only
+have those five variables here.
+We are going to add a field and put a
+popular it using the Calculate Field Tool.
+So with the...
+the tracks attribute table open.
+And this is, as I promised, how you get
+to the field view the other way. So if once we have the attributes open we can
+You can also click these three lines right here if you remember.
+and go up to here and press field view.
+So to bring us to the same exact page we were just...
+on. At the bottom of the field's
+view where it says click here to add a new field where
+going to click there. We are going to create
+a new variable called geo-arrac-
+ID num.
+And we're going to click.
+It's so cool.
+It says double for its data type.
+in the tutorial book.
+I will say that I realized when I was working.
+through this earlier that the
+variable that we're going to be joining it with in pop you.
+Remember, we have to have them in the same data format.
+is actually a big...
+integer number. So
+Let me see if that's an option here.
+If not, we will go.
+double. Okay, it's in.
+it is. So I'm going to change us to big energy.
+I might regret this because it might not be the same as earlier.
+but I'm going to change it to big.
+and to Jer and press save.
+And actually while we're here, let me open this.
+this and we can just check right now to see
+what it is. So we're going
+to show Fieldview and eventually we will be
+merging these tables on this ID variable.
+if you want to see here. This ID is
+It's just the GLID, just it's a different name.
+remember that we can merge tables based on different--
+variable names, but they need to be the same type.
+So we'll check here and ID is in fact a bit.
+big integer so I'm going to keep it
+as a big integer in our tracks here.
+See right here.
+Okay, and I believe I can close up.
+of the field's view.
+for this. Okay, so back on the track.
+You'll see the next one.
+new variable this geoid num is
+Here, but every single value is null, which means
+that the data cells are empty and no data have added.
+actually been added yet. So what we're gonna do is we're gonna
+Right click the G-O-I-D-NUM variable name.
+And we're going to click calculate field.
+So in this calculate field pane...
+We are going to make sure this says GeoID 9.
+It should because we just clicked on it and down here
+It says G i, do num equals.
+We're going to.
+double click this Geo ID.
+And you'll notice that it has an exclamation point.
+before and after the variable name.
+So this.
+This is a syntax from Python.
+programming language, so it requires the attribute name.
+on whatever the right side of the equal sign is.
+to be identified using exclamation point delimiters.
+So that's why they add them.
+You can also manually type this.
+if you want, but we're gonna save some steps here
+and just double click it.
+and so we can press okay.
+And now you'll see that our G.
+The GUIDs are now in this GUID.
+variable and if we looked at.
+Let's go to Fieldview.
+Now it says numeric.
+So we're good there.
+And now he merges.
+Oh, I should also mention for the G.O.I.D. you'll notice
+that they were leading zeros before and we didn't want that either.
+Sorry, side note.
+Okay.
+So now we can...
+Close both of these tables.
+And we're going to join a data table to a feature.
+class so remember in the lecture I talked about
+joining tables to these different future layers are
+very important for adding a new product.
+that additional information or that context so we can actually spatial
+analyze data and not just look at a pretty
+map. So in the contents pane
+we're going to right click tracks. We want to join things to do.
+We want to join the information from the pop youth table.
+to our tracks and we are going
+to click joins and relates and
+and then add join.
+Okay.
+So it should be.
+automatically say input table is tracks because we don't
+only have one table in our contents pane, it will also default.
+to this pop youth. If you have more than one table you do
+want to double check that the join table is correct.
+For our input field, we are going to
+put our new GID num variable that we just
+created and you're gonna see this warning right here.
+about it's not indexed.
+and you can actually ignore that indexing.
+is it speeds the process up a little bit.
+If we--
+We are joining a ton of rows, but we're not joining
+that many in the grand scheme of things so we don't need.
+to do the indexing.
+Um, we are going to Val-
+validate the join.
+So this is just gonna double check that we don't have any problems.
+with our two tables and doesn't look like we're
+getting any warning errors there so now it can present.
+Okay.
+And now we're going to be doing this.
+can open the tracks at your
+table to see that in fact
+In fact, we have a question.
+Now we have all of our population total.
+and our breakdown of population.
+Under the age of 20 in our...
+table and it's joined to all of our tracks.
+So we have all of that in one attribute table.
+now. Okay, so
+Let me show you the
+Fields view here. So you'll
+You'll notice that the
+Field names here all have this pop.
+use prefix so it's pop youth.
+dot object id pop youth dot id.
+And that indicates
+that are featured in the video.
+class, join isn't actually permanent.
+So what we need to do is we need to
+export the feature class to make that join permanent.
+because right now if we exited out,
+we wouldn't have to go.
+keep the join. We would have to redo the join and
+that's a whole other step we don't want to do. So let's exit out.
+of that and then...
+And I think I can close out a tr-
+to maybe not. So let's
+So in the contents pane, we're going to
+right click tracks we are going
+to click data or hover over data and we're going to click
+export features and in the end
+Export Features pane, we're gonna change the output feature class name.
+to Maricopa tracks so we can keep that input feed
+Here we're going to rename it to
+to mirror hope.
+tracks.
+And done.
+We will press OK.
+And so now you see the...
+that it added it as a feature onto
+the contents pane but you'll also notice that
+added it into our geo database over here this marriage.
+copotracts. Not with...
+Let's see.
+Yeah, that could show.
+show you here. Let's open the attribute table for the Maricopa
+tracks and if we go to the
+Fields view again. You'll see now
+that we don't have that pop youth dot object ID.
+popute.id. It's just the names of the variables.
+So that means that our join is now permanent,
+and we don't have to--
+redo it if we open this project again later.
+Okay.
+So now we're going to
+remove the tracks layer from our
+our contents pane because we're just gonna use this Maricopa track.
+we can right click tracks, remove it.
+And as I was saying earlier, notice that.
+that we've removed it from the contents pane,
+but we still have it.
+over here so we haven't deleted it from our geo database just by removing it.
+it from the map. So now we're
+to calculate the sum of fields. So...
+So one reason that we did this job was that we did this job.
+in the first place was that we want to map the
+youth population under the age of 20 in Maricopa.
+County and you'll notice that the
+you. I can show you again.
+the actual variables instead of just one variable called
+youth under 20. It's broken up in
+to under five, five to nine, 10 to 14, 15 to nine.
+So we need to sum up all of these different.
+columns to get a final number that's the
+total number of people under 20.
+So let's see.
+So we're going to...
+Go to the feet.
+and layer here so we're gonna go to Field Field.
+Or Maricopa Trax.
+So we're going to scroll to the bottom and we're going to click here.
+to add a new field. And our new field is going to come
+be called pop use.
+under 20.
+And I don't think it matters what type of thing.
+I did it. So, copy thunder 20. We'll
+save that so that it's in our
+data.
+Now if we go to America with the tracks attribute table, we should have...
+Pop youth under 20 and remember
+just because we added doesn't mean there are enough variables.
+It's all...
+So we need to actually tell GIS what
+to put there. So we are going to
+So right click Pop-U Thunder 20 and we're going to go to calculate.
+field again.
+And in the text box after pop
+under 20 equals, so right here.
+We're going to...
+Two.
+Pop under five, so double click pop under five.
+then click this plus then we're going to
+Add pop 5 to 9 plus.
+And again, you could type all this out manually if you want.
+but we're gonna double click pop 10 to 14.
+plus pop 15 to 19.
+So it should sum up every single one of these variables.
+for each of our rows. So we'll click apply.
+just to make sure nothing happens.
+Nothing bad happens. Let me clarify.
+and bell.
+Now we have the sum of our numbers for our total.
+pop youth under 20 for each of the
+census tracks. Okay.
+And from here, we're gonna keep the
+tracks attribute table open.
+We're going to calculate the percentage of total population.
+under 20 years old.
+Hopefully, I won't say "hopefully."
+Maybe we all know that the way that we would get
+the percent of the population that's under 20%
+20 is we would divide this part.
+population under 20 by the total population.
+population says pop total and then multiply that
+by 100 to get the actual percent.
+So now we're going to go to our Fields view again.
+We're going to click.
+here to add a new field and we're going to name
+this percent power.
+Stop.
+Use.
+under 20.
+And we will press save.
+Remember to press save.
+save after every time you add a new variable.
+or do anything.
+Let's see, let's go back here.
+And now we need to...
+to calculate our percent possible.
+youth under 20. So...
+a kind of detour here that we need.
+to make is that I will show you actually.
+If we go to our pop total here and we
+sort it. You'll notice that there are four
+census tracts that have zero population.
+So what we don't want to do is divide anything.
+by zero because we'll get a no value. So we
+We don't want to include these four values.
+in our actual calculation.
+So what we can do is we can
+under the map tab so we should all
+already be there. We're going to go to this select by Atro.
+and it'll open up
+the attributes pane where we can do an
+SQL and it says where
+We'll do pop total.
+is greater than the other.
+then and you can either type or click zero.
+depending on how lazy you're feeling. I'm feeling lazy.
+And then we will press OK.
+So you can see the--
+that now every other census tract
+minus those four that we don't want to include are
+selected and if we press calculate
+field now, it'll only do the
+the calculation that we're specifying for.
+the selected variables. They're selected census tracts.
+Okay. So...
+So now once those are selected, now we can right click.
+and press calculate field.
+And we are going to, it says percent popular.
+youth under 20. So remember we want to make sure that's the same and it will
+So carry over your last.
+SQL typically, so just delete that.
+and we're going to do
+100.
+times and I'm just typing that out.
+Pop youth under children.
+20 divided by...
+"Pap total"
+And okay.
+Bye.
+And there we go.
+Now we have actual percentages for our
+population youth under 20.
+all of our different census tracts. And so now we can
+clear the selection so this button up here in the top.
+The
+has all blank rows plus clear selection.
+And we can close.
+Both of those tables may be...
+here's the tracks table for now.
+But the next thing we'll do is we will...
+will extract substring fields and connoisseurs.
+catenate string fields. So these are
+more sophisticated techniques.
+for working with text fields.
+So essentially...
+It's extracting parts of texturing.
+and kind of reassembling them and restructuring them in
+into a new text field.
+So we're kind of...
+like Frankenstein-ing and reverse Frankenstein-ing.
+staining, however you want to say that. These days...
+different variables.
+to get what we want here. So, let's see.
+And we'll show you with an example.
+We're going to, we actually do need the Maricopa tracks.
+Adjunct.
+table open so.
+I don't like that.
+Okay. And we're...
+going to sort the Maricopa Tracks attribute table in a
+sending order for GeoID, so we want this.
+smallest one on top and
+The way that we read this G-O-I-D.
+is four is four.
+the state 013.
+is the county and then this zero
+10101 is all part.
+of the census tract component.
+And the way we actually read, and that's based on answers.
+codes if you remember from the lecture. In the way...
+we read census tract components
+is it's generally four digits.
+it's a decimal and then two digits afterwards.
+So this would really be census tract.
+track 0101.01.
+And we want to separate all of them.
+of those out so that we get each piece as its own.
+separate variable or attribute.
+So we are going to
+to the field view again.
+We're spending a lot of time in the field field here.
+And we're--
+going to add three new variables.
+we're going to add, go to the down.
+click here to add a new field we are going to add
+track number.
+And it's going to be...
+a text.
+variable.
+And it's going to be...
+be a length of four.
+or press enter there. And.
+we want to add another one.
+that is tracked.
+suffix?
+And this is also a check.
+I'm going to try to get my next very moment. Overshot it.
+And the length of the circle.
+for this one will be.
+two and then our
+last variable we're adding.
+is tracked.
+Oh, nay.
+And it's going to be the same.
+going to be a text variable as well.
+but this time the length is going to be
+20.
+Okay.
+So we can save those changes with our new
+new variables or new attributes.
+And we're going to calculate the track number field first.
+So it's going to our actual attribute table.
+And remember we will scroll over here.
+to this track number.
+right here. So we are going to
+So right click.
+Calculate field.
+and the track number field, remember let's delete it.
+this. Our track number field
+is going to be the expression.
+So this is telling it what...
+variable or attribute we are taking.
+this information from because we're going to do a subset of the variable.
+and we're going to type bracket.
+bracket five.
+colon nine and then
+close bracket. So what this is telling us is
+what this is telling GIS to do really.
+is that we want to take a subset of GID.
+Starting at the fifth digit in.
+And that's kind of confusing because when we start counting...
+it starts at zero. So we go zero.
+one, two, three, four, five. And then it's going to be
+take all of the numbers to the ninth
+digit place, not including the 9th digit place.
+But that is very confusing to say aloud, so I will show you what I'm doing.
+I mean by that.
+So let's just have this typed out so we can.
+I can.
+show you. Okay.
+So I'll make it back to the action.
+actual G.O.I.D.
+So if we're doing five to nine, so we're going to keep
+count first. Oops, not here.
+not GID number.
+Okay.
+So starting at 0, 0, 1, 2.
+three, four, five. So this is where
+is going to start reading the number from.
+5 6 7 8 9
+but remember it doesn't actually include that last digit so it's gonna go one.
+back so it should.
+If we did this correctly, the track numbers...
+The new track number for this first one should be 0-1.
+So let's go.
+over here and check and it is 010101.
+one. So we did our expression correctly. So that's how you
+figure out what numbers you need to put there.
+We will also do it for track suffix.
+So we're going to right click calculate field.
+And for this, we are going to do...
+So we can keep this and instead of five
+Five to nine, we're gonna do nine.
+2.11.
+Okay. So this is the first one.
+should take the next two numbers after the zero-weight.
+and it was 0101.
+one so that's easy for us to check so we did get it right
+there that we got the next two numbers.
+Now for track name...
+We're going to right click, calculate fee.
+field. And
+Trackname is going to be we're gonna name where
+I have to do some actual typing here.
+So do a print the... a print the...
+is no quotation mark and then write.
+It's census tracked and then make sure.
+put a space before.
+the other quotation mark.
+and then plus and you'll see
+why, but we want to have a space between the
+end of tract and the numbers.
+So it's like a sentence.
+So the part...
+sign and then we will go.
+Track number.
+plus, and then we're gonna do another
+quotation mark. Period.
+Remember, we have a decimal in the way.
+we typically read census tract numbers so we need to have that decimal.
+and then plus sign.
+and then tracked suffix at the end.
+So let's apply that.
+And now you can see that...
+has it written out.
+So it's census tract 0101.
+dot 01 instead of just written out.
+all together so people know exactly where we're
+referring them to. And then we can
+Send it by a sending or sort it by a sending
+by track name, and I don't think that should change anything really.
+And that is all for today.
+tutorial 4-2. So again, remember
+this is totally up to you whether you want to keep it or not.
+I will.
+save it because why not we did all that work I want to
+make sure I have something to show for it. And that is
+all for tutorial 4-2. Remember for the
+a thousand times, you do not have to submit anything for it.
+So that's the end of this tutorial.

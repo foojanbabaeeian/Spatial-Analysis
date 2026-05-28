@@ -1,0 +1,19 @@
+Chapter 3 Online Deliverables - Fozhan Babaeiyan
+
+ArcGIS Online username:
+029701865_CSULB
+
+Hosted feature layer - 311 Debris Overgrowth:
+https://www.arcgis.com/home/item.html?id=7903557a98774e38a529c100179781ce
+
+Hosted feature layer - Pittsburgh Neighborhoods:
+https://www.arcgis.com/home/item.html?id=e5b2ab02af424432940ed2cc3a598ab3
+
+Web map:
+https://www.arcgis.com/home/item.html?id=e445d777266f43f9a21d9597c9549b04
+
+StoryMap:
+https://storymaps.arcgis.com/stories/c8e169c64b844fbc823199ceaf21bbf6
+
+Status:
+All four online items above are public as of May 20, 2026.

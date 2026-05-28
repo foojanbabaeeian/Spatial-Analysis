@@ -1,0 +1,214 @@
+Okay, welcome to tutorial.
+two six. We're going to be normalizing
+population maps with custom scales.
+So we are going to start by saving
+project as...
+two six.
+And we're gonna add our last name.
+.aprx.
+Okay.
+So this map shows New York City's neighborhoods.
+And we want to first symbolize the female head.
+and the headed household receiving food stamps using food stamps.
+these different settings at our disposal. So we're going to
+going to select the feature class for female.
+headed households.
+Um, and you can either do symbol,
+through the top you can just click it and it should you
+show up to the symbology.
+I--
+There are a lot of different ways to get to this pain whichever way.
+works for you is totally fine with me. You can just click it and it shows you.
+pop up with symbology though. So
+for the primary symbology.
+we're going to choose Graduated Colors.
+and for our
+field we are going to change this to your
+U18_
+Oh wait no. U18.
+F-F-H-F-H-A.
+food.
+Okay. And for normalization.
+we are going to choose
+Total households with this TOT are...
+underscore h h.
+For method, we are going to choose quant.
+tiles and we'll keep it at 5
+classes. For our color we're going to choose a
+grade five classes. Remember that we need to show them
+names here so that we know that we're choosing the correct one.
+and...
+Great five classes is closer to the bottom here.
+And this normal.
+Normalization right here is just saying that we want to
+divide the...
+a number of people who are 18 or under.
+who are receiving food stamps.
+female headed households receiving food stamps specifically.
+we want to divide that number by the total number.
+number of households. So we're basically getting a percent.
+a percent of households that are receiving food stamps.
+or percent of female head hassled that are seem
+and I'm going to be doing some of the good stamps. And...
+So we are going to... now we have that.
+and we are going
+to show these as persons.
+percentages rather than these
+decimals because they're a little bit easier to understand.
+with their in percentage form. So to do that,
+we are going to go at the top here to this advanced center.
+and then the top-right option.
+and
+And we are going to go to...
+expand format labels for cataclysmic.com.
+category, we're going to put percentage.
+And then for this person,
+We're going to say number represents a number of numbers.
+a fraction because right now it thinks that our
+proportions in decimal format.
+We're already multiplied by 100 and turned into percentages.
+and so they're very very low. So number of
+represents a fraction, so now those are fixed.
+There, and for decimal places, we're going to go ahead and just put...
+zero here we're going to have them rounded upper down.
+based on their actual percentage points because
+because we don't.
+It's just a lot cleaner this way.
+Okay.
+So for this, we are going to go back.
+to the primary symbology button.
+And our tab really.
+And for...
+This we are going to change the method to...
+to manual interval.
+So from quantizer to manual interval,
+to manual interval.
+And then...
+Then we're gonna, let's see.
+We're on the classes tab so we can see that
+that we're already there.
+We're gonna double click the other.
+upper value for this first one.
+And we're going to change it to zero.
+0.02.
+And you can see here that they didn't convert.
+to percentages in the actual like,
+or value column, it is changed in the labor.
+we'll call them though.
+So this is 2%.
+upper value for the second we're going to do 0.04.
+or 4% or the third one.
+We're going to do 0.08.
+Fourth, we're going to zero point.
+16.
+So you see where like kind of doubling it each way.
+time. So the maximum value that we actually
+actually have is 26%.
+This 25.8 if we're looking at the raw number.
+So we can't do 32 to follow our pattern.
+So we're just going to.
+make this the maximum value, which is 26.
+So now we can click on our history.
+Instagram. Sorry, let me press enter. Now can
+look at our histogram tab to see the split now that we've
+changed it. And.
+You can see here that there aren't quite as many
+people in the point zero two or low
+lower or really 0.04. But once
+we increase the size of our...
+upper limit, we're seeing more in the
+those categories.
+So now we're going to take a look at the male hair.
+households receiving food stamps. So we are going.
+to click on mail-headed households.
+And we're actually going to...
+Port symbology from another layer because we don't want to
+redo all of the work we just did.
+So we're going to go to feature layer.
+up at the top.
+And then under this drawing tab right here.
+This button, this import button, we're going to click.
+on that. And,
+And the input layer is going to stay the same.
+So it's going to be the male head.
+households receiving food stamps and
+And we're actually going to import symbology from a new
+another layer.
+So, let's see.
+This symbology layer you can see.
+equals female headed household.
+receiving food stamps for type
+It should be value field. You don't need to change.
+change that for source field, it should be
+U18 FHH food so that female food is not a good food.
+a head household food variable we had the turd.
+Target field is U.A.
+M-H-H food, so we're gonna change it.
+that because we want it to be the male headed house
+holds food.
+See for type it should be normalization for
+field and both source and
+target field should be total underscore hh.
+So the only thing you should really have to change is this symbolic
+layer up here and the target field.
+And so let's put it in.
+like apply.
+And then we can press OK to exit.
+So now you can see that for the male head, male headed head.
+households food. We have the exact same category.
+that we did with the female headed households.
+So again, that saves us a little bit of work there.
+And on the contents pane,
+You can click the female headed house.
+and click on the button.
+feature layer so it's already on the feature layer for me.
+and click swipe to...
+compare the different layers.
+So up here in this compare tab right here.
+You see this little icon is a swipe.
+I'm gonna press that button and then you'll see.
+See that our arrow now turns into this little like upset.
+down triangle. So what you can do...
+is you can click anywhere on the map.
+So, let's go.
+click from the top and you can drag it down.
+so that you can see the female headed house.
+households versus the male, male headed households.
+exactly the same without turning the layers.
+without having to turn the layers on and off to try to compare.
+So you can see exactly what we're looking at.
+in real time here. So for male headed house
+holds receiving food stamps, you can see that.
+actually none of them reached that.
+17 to 26% category. It's all.
+basically white or a little.
+little bit of light gray in like two areas of
+dark gray, whereas for female headed households we're seeing a
+lot of black, dark gray.
+lighter grays, but that's how you can compare
+them directly. So this is a cool tool.
+if you want to compare two areas without having to like
+flip back and forth and try to remember what
+what each of the areas looked like.
+So if we want to deactivate this.
+swipe so if we're done looking at the swipe we can
+go to...
+Map tab.
+and press the explore button.
+And then now we have our little cursor back.
+again. And I think that is
+last thing we had to do for tutorial 26 so we will go ahead.
+and save the project.
+And close it.
+And I know
+you're probably sick of me explaining this but...
+In case you are ever lost, we will combine the chapter 2.
+gdb the index
+and the tutorial.
+2-6 with our last name.
+Once all of those are highlighted, we will right click.
+Send to compressed zipped.
+folder, and then we will keep the name as
+tutorial 26 with your last name for the zip folder.
+and you will upload that zip folder for the two six.
+tutorial.

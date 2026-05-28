@@ -1,0 +1,14 @@
+Arts Employment Map 
+Summary 1-1 
+Arts employment by state and metropolitan area for the U.S using Bureau of Labor Statistics 2014 data 
+for the standard occupational major group, Arts, Design, Entertainment, Sports, and Media occupations. 
+Tags 1-2: 
+Arts, Employment, Wages 
+ 
+Cost of Living Index Map 
+Summary 2-1 
+Cost of living Index by state and metropolitan area for the U.S using Council for Community and  
+Economic Research’s Cost of Living Index data (with permission) and Bureau of Labor Statistics data for  
+the standard occupational major group, Arts, Design, Entertainment, Sports, and Media occupations. 
+Tags 2-2 
+Arts, Cost of Living, Wages 

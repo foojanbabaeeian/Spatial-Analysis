@@ -1,0 +1,521 @@
+Alright everyone, welcome.
+Welcome to the chapter 3 tutorials.
+And these tutorials are kind of exciting, like I mentioned in the lecture.
+just because we're doing more of the end of the video.
+user pieces so we're seeing how to
+to apply our maps instead of just in theory water maps.
+So tutorial 3-1 is all about
+building layouts and charts. So before
+Before we do anything, we're going to, as usual,
+save project as...
+And we'll save it as tutorial three dash one.
+with our last name.
+.apurex
+All right, so you'll see that change at the top.
+And now we can start manipulating.
+our maps. So you'll see here that we have
+have two tabs here. We have the arts employment
+per 1000 population and then just arts and
+play.
+the raw counts. So we saw those in the
+So we're going to be working with these data.
+And in the first tab, we're going to go to--
+the insert tab up here.
+And we're going to do new layout.
+over here on the left side and we're going to
+choose the first one which is letter eight and a half by a
+11.
+So now you see our layouts over here.
+And in the catalog pane...
+I'm going to close out of this.
+I have lots of things open here.
+In the catalog pane, you're going to expand the
+this layouts selection.
+And you're going to click this layout.
+so that we can rename it and
+we're going to name it see.
+Arts, employment.
+out.
+All right.
+So now on the insert tab.
+We're going to also click this map frame button right.
+here and we're going to
+locate the employment per one.
+thousand population so that's the section right here.
+And we're going to use the default extent option.
+So don't click this one.
+Let's click the default extension.
+And now we're going to just draw.
+our map onto this layout. And to do that, we're going to
+and just click and drag basically.
+So we're going to just click here and
+and drag it, and we're gonna put...
+the two maps stacked on top of each other like we saw in an exercise.
+as well so you just do like half the
+page here and you'll see now we have our
+on our new layout page.
+And we are going to...
+to do the same with the other maps. So let's
+Let's insert map frame again.
+And this time we're going to do the just arts employment.
+And again, make sure you go to this default extent.
+And we will just click.
+Click and drag again to insert that.
+Right below our first map.
+And we're going to resize these maps to have
+matching borders. So we're going
+Right-click the top one.
+and go to properties down here.
+And it'll break.
+Bring up this element pane right here and you're going to
+click on the placement button and that's
+That's this top right icon right here, so if we hover over it, you can see it.
+placement so the top right one.
+And we are going to
+Type 5.5 from...
+the width, I actually got it very close. I'm impressed with myself.
+So 5.5 and then
+For the height, we're gonna do three points.
+So that'll automatically change it.
+need to click apply or anything. And now we're going to
+the same for the bottom map. So again, we'll do
+just click on this and you can either right click or if you're already
+opens the element paint, it'll just open over here.
+So again, we'll type 5.5.
+for the width and 3 points.
+five for the height.
+And let's see.
+So I think that's it for the...
+Oh my god.
+paint for right now. So now we're going to click on this top map.
+right here and go to
+layout at the top.
+So this layout.
+tab up here and we're going to be doing this.
+We're going to click full extent.
+under the map tab. So remember that the
+The full extent is just this little globe right here.
+So we're going to--
+click that and it'll zoom out a little bit so that it's in the
+appropriate scale format.
+And we'll do the same for the bottom maps.
+just click on that and again up here we'll click this.
+little full-extended globe icon.
+So now let's try adding a...
+like guides and stat maps.
+And you can use guides to position the...
+the objects in the layout so that they're evenly spaced.
+or that we have some type of...
+of outline to follow.
+So one of the things you can use is rulers, which are very, very...
+helpful and to do that will for
+right click inside the white area of the layer.
+out and you'll notice that the rulers are already on but to turn
+Turn them on if they're not already.
+Right click the white space.
+of the layout and this will pop up just make
+Make sure the rulers and guides are both turned on.
+And they're already good to go, so we don't need to do anything there.
+So the first thing we're going to do is we're going to
+to create a guide at the vertical
+ruler at five. So we're gonna
+go here. So go up to five and
+And once your arrow is on five,
+you're going to right click it and press Add Guide.
+And now we're going to do the same.
+for vertical.
+whole ruler nine.
+So let's see.
+up to nine up here. Right click it.
+And you'll see they have these little
+lines that they've now created on the on the
+layout. And now we'll
+do are horizontal.
+Roller selections.
+So let's see which one do we need to hear?
+do 6.25 first.
+where is that like here is
+So right click right there.
+It's make sure you're actually highlighting the thing.
+Here.
+Add guide and then
+We need to do 6.5, so very close to that first.
+one.
+add guide and then add
+eight. So go up here.
+Right click, add guide.
+So now we have all of our lines and all of our guides
+that we can actually use to.
+to place different pieces on this map.
+And the first thing we need to do is
+is drag the top map to the upper right.
+hand corner at the intersection of the
+no.
+and the 6.25 guides.
+So we're going to click on this and you'll see the little arrows.
+pop up so let us know what's ready to drag.
+So we're going to drag it to this.
+upper right hand corner where the nine in the six.
+6.25 intersect.
+And we're going to do the same for the bottom map,
+but now we're going to do five.
+and 6.25.
+So we'll just do upper right hand corner.
+So now you can see--
+how these guys can be helpful here.
+And let's see.
+Okay, so now we're gonna add legends and cut
+customize those a bit.
+Let's see on the insert tab at the
+the top here. We're going to
+go to the map surrounds.
+section. So this little tab "tabber"
+here, this map surrounds and we're going to
+to click the legend arrow.
+And you're going to click legend one.
+This is the first.
+one that pops up. And to please
+you're just gonna drag a rectangle again.
+just like we did with the maps when we were trying to place it and actually
+I just realized, okay.
+This is an important note, whichever map that you have selected.
+when you click legend, that's the one it'll draw for.
+So sorry if this is a little bit confusing, but this bottom
+map is clicked right now and so I'm going to place it now.
+to the bottom map and we're gonna just snap it to this little
+rectangle that we've created. So go...
+right we'll go like that.
+little past it. So they're about the same size here.
+So you'll see that it created the legend for our green or just--
+just Arts Employment Rock Count map here.
+So now we'll do the--
+same for our top map. So again, it's highly
+We'll go to legend.
+and then we'll do the same thing.
+we will draw in this little rectangle we've created again.
+So, put it just.
+all the way down to the bottom here. So now we've created
+for both of our maps.
+And let's see.
+What are you doing?
+I think that this is right now.
+Okay.
+No, so now we're going to customize the legend a little bit.
+So we're going to right click.
+on the top legend and we're going to be doing this.
+go to properties. If you already had your if you
+If you still had your element pane open and you just click on it, it will
+automatically take you to the element pane, but if you close
+it like I did, you can just right click go to properties.
+and then it'll pop up again.
+So for this, we're going to...
+Let's see. We'll click on options.
+which is the icon in the upper left hand corner.
+So this one right here, it's very nice.
+little icon and under let's.
+legend items, which is you know, scroll down.
+little bit legend items we're going to click show properties.
+So this is where we can kind of customize it.
+And what it is we're actually seeing on our legend in case
+we need to add anything.
+if we think that it's too cluttered and we want to remove something.
+And so for this, we want to get rid of the layer.
+name. So we're going to just uncheck
+and notice that just goes away.
+We don't need to click up.
+apply anything. We'll do the same for the bottom legends.
+So we'll click that and again, it'll just bring us right to this.
+and for legend. I don't know.
+items, show properties, and then again.
+again, just uncheck layer name.
+And you'll notice that--
+disappear. So...
+Now we'll insert text and we're going to title it.
+each map, but not the layout itself.
+So again, we're going to be on the insert tab in your.
+You are probably already there.
+And--
+And under the graphics and text tab over here.
+here to the right, we're going to click.
+rectangle text. So this little A icon,
+on the left, you're gonna just press this down arrow.
+And it's the first icon that appears.
+So this rectangle text.
+And we're going to draw a title box.
+starting above the left hand corner of the top.
+map so we'll just go.
+Like this and we'll just drag it all the way to that
+end here. And we're gonna
+Type arts is a good idea.
+employment.
+1000.
+population.
+We're going to press Enter and type.
+annual.
+average wages.
+[sigh]
+So once you've finished typing that, you're going to...
+Right click on the text box.
+and click properties again if you're not already
+there again it did pop up but I'm gonna take you through it again.
+again, just in case you get lost.
+And we are going to...
+go to text symbol at the top right here.
+And we're going to change the font size to
+12. So right now it's at this 10 point.
+we're just going to increase it to 12.
+and then click apply. So you see gets a little bit.
+bigger there. And then we're going
+them change the size of this text box.
+just a tiny bit. So if we're
+So I'm gonna go back to this text.
+option here and...
+And again, we're going to go to placements.
+So remember, that's this.
+right hand icon.
+And for height, we're going to type.
+0.45.
+And you'll see that now it's kind of just the exact same.
+exact length it needs to be for.
+chosen text and so for a.
+That's purpose is it.
+Purpose is I'm going.
+going to move this down a little bit so it's actually aligned with the
+our map and...
+And now we're going to insert text to the bottom half of the map.
+So again, we'll go to this insert.
+there in the graphics and text option.
+we're going to click here.
+And it'll show up in your recent or if you go just the--
+text box. It'll be this rectangle text.
+And now we'll insert our text box.
+under the bottom left hand corner of our bottom map.
+So down.
+down here will.
+And now we're going to do that.
+we're just gonna type arts and florida.
+- Climate.
+and annual.
+average.
+But I can type wages.
+Okay.
+So now we're going to be doing this.
+going to change the font size again. So once
+here in the element pane and it's double clicked or...
+wherever you need to go to get to this element.
+again. We are going to click the text.
+symbol again and...
+Like we did with the top one, we will change the font size
+from 10 to 12 include.
+click apply and we're also going to go
+So back to the text option.
+we did with the last one, we'll change the height to zero.
+.45.
+And it's pretty much a line.
+So we can just keep that there.
+So now we have
+have our titles for each of our maps.
+And let's see, we can...
+And now close the element.
+pain here and if you
+If you're not already, if you had to zoom in to type in any of the time.
+text your change of legends.
+Make sure you zoom out again so you can.
+see everything like this is shown right here.
+And let's see.
+see. If you're not already open to it, the catalogs
+pain, it should still have the layouts option.
+And you'll see that arts employment layout.
+So what we're going to do is we're going to do a little bit of a
+going to do is we're going to right click on the
+start employment layout and click export.
+file and this
+I don't remember what this defaults to.
+I've changed this to
+JPEG. So we're going to make this a JPEG.
+the file type, we don't need to change.
+where the file is saved to.
+And then the only other thing you're going to do is make a difference.
+make sure that this color depth is this twerly.
+24-bit true color.
+So if all of that is good, you can just press export.
+And I did this earlier, so let me over.
+All over it. You should not pop up like that.
+Right, so now we can see over here that.
+the export is completed.
+And let's see.
+Now we're going to go to the Arts and Plan maps of the second.
+tab right here to bring out
+to this map. And in the contents pane, we're going to
+going to click the employment layer. So we'll just click the
+employment layer.
+And on the data tab...
+in the visualize section.
+Let's see if this let's go.
+data. I'm going to see visualize right here.
+the far right side. I'm going to click that.
+You're gonna press create chart.
+And then I believe the first one we're going to do is a bar chart.
+So let's click this bar chart's the first option.
+So now this chart properties page.
+pop up over here.
+and the category or date.
+that you see right here, we're going to select name, which
+is the name of the states. So you'll see
+those pop up down here. And for aggregation,
+we're going to select "No".
+done. Okay.
+Okay, let's see.
+For the numeric fields, we're gonna press this little
+plus sign with the select and we're going
+going to select.
+to select employment arts, the third one down.
+and apply.
+And then for sort, we're going to change it to...
+y-axis descending. So the slide
+right here, Y axis descending. So now it'll sort.
+them by value.
+And on the top of this property,
+pain, we're gonna go to the general option. So if it's not
+expanded like mine you can't see it you can just press these three
+dots and it'll give you all of the options. So we're going to go
+to general and we're going to change
+some of these like the chart type
+and the x and y-axis titles.
+for our chart title, we're gonna go employ...
+We're gonna go.
+Arts, employment, and so forth.
+for.
+the top.
+10 states.
+for the x-axis.
+title, we're going to change it just to state.
+And for the Y-axis title,
+So we're going to keep it as employment.
+So just delete this.
+arts right here.
+And you'll notice...
+You don't have to like apply or done or anything.
+It'll just automatically--
+imply those or apply those.
+And you'll notice that we
+Called it the arts employment for the top 10 states, so we're going to.
+change the chart a little bit to make that true because right now we're
+We just have all of the states.
+But first we are gonna.
+reformat these bars a little. So on the top
+of the chart properties pane,
+we're gonna go to
+series. So again, if it's not showing up for you in
+in these options up here, just right, just click.
+this little three dot button and we're gonna go to series
+and we're going to click
+Click the symbol button right here.
+And for the color, we're just gonna change it to...
+red and you can, I'm not going to be picky about
+what shade of red you choose, I kind of like slightly
+darker red here. I think it's a little bit easier on the eyes.
+and to adjust the size of the map.
+pain so that the bars are a little bit.
+higher and we can see what we're doing. You can just wait until this
+these two, this double sided arrow pops up and you can
+just drag it up. So now we can see what's happening.
+in them.
+Now to actually
+reduce the number of bars so that only the top
+10 are showing and our map is accurate. We're gonna just try.
+Draw a rectangle around the first 10 bars.
+So let's count out one two
+three four five six
+6, 7, 8, 9, 10.
+So right here, so we're gonna go California to
+Massachusetts. So we just draw a little bar here.
+here. And you'll see that they've they're
+now highlighted because they've been selected.
+So hopefully that looks--
+familiar from our chapter one.
+I don't remember when we did that.
+Then we select something, we can see them selected up here.
+map as well as down here.
+And now once we have those...
+selected we're going to go to this filter.
+up here and it's just the first one. This filter
+by selection. So we're going to click that and now we're going to
+only our top... wait one, two, three, four.
+5 6 7 8 9 10 oops
+I did too many.
+See ya.
+Let me go back here.
+if you don't mess it up like me.
+You'll get
+Oh my gosh.
+I'm gonna do this one by one.
+because I can't.
+Okay.
+I'm sorry you're watching this.
+happen.
+Okay, I think now I'm
+got it. So I'm going to filter by selection. There we go. Now
+I only have 10. I'm sorry you had to see that shit.
+of mine. Okay.
+Um, at the top of the...
+We're also going to select export.
+So up here, this little...
+Um, bar chart right here. This will export.
+we're going to export to file and we're going to
+to export it as a graphic.
+And we're going to save it to our resources.
+folder. So we still go to this tutorials. But
+And now we're going to save it to resources.
+And we are going to name it...
+top, top, top, top.
+10 states.
+And we'll save it as a JPEG as well.
+So we can just...
+press. Actually let's get rid of this.
+spaces here.
+And then we'll press save.
+So if you click on the button, you can click on the button.
+I can't employ me again, maybe it's already chosen.
+We can go to...
+data again and we can create another chart.
+we're going to make a scatter plot now. So again, we're going to
+press visualize, create chart.
+And then we're gonna go to scatter plot.
+And you'll notice that our other bar chart that we've got
+made is still here. We're just making another tab basically.
+And for this...
+we are going to make the X-axis.
+population, so go here and change the
+this two population and our Y.
+The number of people in the arts.
+which is this employment arts variable.
+click that and this just shows you
+that as the population for each state increases.
+So does the number of people who are
+employed in the arts, which is sort of what I was hearing.
+to add during the lecture of, you know,
+When we were seeing that some of the states with
+high rates or sorry, not low rates.
+per 1000 population in the arts had really high rock.
+counts or raw numbers. That's what this
+hinting out is that it's very heavily swayed by the eye.
+population that we're looking at.
+And I believe that is it for tutorial three ones.
+So we're going to now save our project.
+We'll save our project here.
+can close out of it.
+So now...
+to submit, like usual, we're gonna go
+to our GIS T for Pro for itful.
+I'm going to chapter three.
+tutorials and now
+Now we are going to create
+a folder with chapter three dot gd.
+index and then tutorial.
+three dash one with your last name.
+Right click, send to...
+compressed zipped folder.
+And then we can keep that near.
+And then the zip folder is what you'll submit.
+credit for tutorial 3-1.

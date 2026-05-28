@@ -1,0 +1,1 @@
+Tutorial 3-3 is completed in ArcGIS Online / StoryMaps rather than as a local .aprx file. Use the StoryMap URL in the Canvas text/URL submission field.

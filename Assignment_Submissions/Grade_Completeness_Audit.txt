@@ -1,0 +1,133 @@
+Grade Completeness Audit
+
+Bottom line: written submissions are generated and ArcGIS ZIPs are rebuilt from completed Desktop chapter folders. ArcGIS Pro is not available here, so verification is based on transcripts, file evidence, hashes, and ZIP integrity.
+
+Ready local files:
+- Mapping_COVID19_Pandemic_Assignment.docx
+- Spatial_Analysis_Discussion_Posts.docx
+- Discussion_Post_1_GIS_Public_Health_Response.txt
+- Discussion_Post_2_CSULB_Gallery_Response.txt
+- Discussion_Post_3_GIS_Policy_Response.txt
+- Intro_to_GIS_Assignment_Folder.zip
+- Map_Designs_Assignment_Folder.zip
+- Maps_for_End_Users_Assignment_Folder.zip
+- File_Geodatabases_Assignment_Folder.zip
+
+Manual completion or verification still needed:
+- CSULB Group Verification screenshot is not present. It requires logging into ArcGIS Online, joining the course group, and capturing proof that your account is in the group.
+- Chapter 3 Tutorial 3-3 is online-only StoryMap work. A local link note is included in the Chapter 3 package, but Canvas may still require submitting the StoryMap URL directly.
+- ArcGIS Pro is not available in this environment, so map appearance and layer state cannot be visually opened and confirmed here.
+
+ArcGIS project hash audit:
+- Intro to GIS: 8 .aprx checked; 4 changed; 4 student-specific/new; 0 match clean source.
+  - changed from clean textbook source: Desktop/Chapter1_Tutorials/Tutorial1-1.aprx
+  - student-specific or new: Desktop/Chapter1_Tutorials/Tutorial1-1FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter1_Tutorials/Tutorial1-2.aprx
+  - student-specific or new: Desktop/Chapter1_Tutorials/Tutorial1-2FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter1_Tutorials/Tutorial1-3.aprx
+  - student-specific or new: Desktop/Chapter1_Tutorials/Tutorial1-3FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter1_Tutorials/Tutorial1-4.aprx
+  - student-specific or new: Desktop/Chapter1_Tutorials/Tutorial1-4FozhanBabaeiyan.aprx
+- Map Designs: 16 .aprx checked; 8 changed; 8 student-specific/new; 0 match clean source.
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-1.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-1FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-2.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-2FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-3.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-3FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-4.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-4FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-5.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-5FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-6.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-6FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-7.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-7FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter2/Tutorials/Tutorial2-8.aprx
+  - student-specific or new: Desktop/Chapter2/Tutorials/Tutorial2-8FozhanBabaeiyan.aprx
+- Maps for End Users: 6 .aprx checked; 3 changed; 3 student-specific/new; 0 match clean source.
+  - changed from clean textbook source: Desktop/Chapter3/Tutorials/Tutorial3-1.aprx
+  - student-specific or new: Desktop/Chapter3/Tutorials/Tutorial3-1FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter3/Tutorials/Tutorial3-2.aprx
+  - student-specific or new: Desktop/Chapter3/Tutorials/Tutorial3-2FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter3/Tutorials/Tutorial3-4.aprx
+  - student-specific or new: Desktop/Chapter3/Tutorials/Tutorial3-4FozhanBabaeiyan.aprx
+- File Geodatabases: 10 .aprx checked; 4 changed; 6 student-specific/new; 0 match clean source.
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-1FozhanBabaeiyan.aprx
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-2FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter4/Tutorials/Tutorial4-3.aprx
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-3FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter4/Tutorials/Tutorial4-4.aprx
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-4FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter4/Tutorials/Tutorial4-5.aprx
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-5FozhanBabaeiyan.aprx
+  - changed from clean textbook source: Desktop/Chapter4/Tutorials/Tutorial4-6.aprx
+  - student-specific or new: Desktop/Chapter4/Tutorials/Tutorial4-6FozhanBabaeiyan.aprx
+
+Folder-level file audit:
+- Intro to GIS: 221 files checked; 25 changed; 26 new; 170 unchanged.
+  - changed example: Tutorial1-1.aprx
+  - changed example: Tutorial1-2.aprx
+  - changed example: Tutorial1-3.aprx
+  - changed example: Tutorial1-4.aprx
+  - changed example: Chapter1.gdb/a00000001.freelist
+  - new example: New Notebook (1).ipynb
+  - new example: New Notebook.ipynb
+  - new example: Tutorial1-1FozhanBabaeiyan.aprx
+  - new example: Tutorial1-2FozhanBabaeiyan.aprx
+  - new example: Tutorial1-3FozhanBabaeiyan.aprx
+- Map Designs: 171 files checked; 8 changed; 8 new; 155 unchanged.
+  - changed example: Tutorials/Tutorial2-1.aprx
+  - changed example: Tutorials/Tutorial2-2.aprx
+  - changed example: Tutorials/Tutorial2-3.aprx
+  - changed example: Tutorials/Tutorial2-4.aprx
+  - changed example: Tutorials/Tutorial2-5.aprx
+  - new example: Tutorials/Tutorial2-1FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial2-2FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial2-3FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial2-4FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial2-5FozhanBabaeiyan.aprx
+- Maps for End Users: 169 files checked; 3 changed; 8 new; 158 unchanged.
+  - changed example: Tutorials/Tutorial3-1.aprx
+  - changed example: Tutorials/Tutorial3-2.aprx
+  - changed example: Tutorials/Tutorial3-4.aprx
+  - new example: Tutorials/Chapter3_Online_Links_FozhanBabaeiyan.txt
+  - new example: Tutorials/Tutorial3-1FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial3-1_ArtsEmploymentLayout.png
+  - new example: Tutorials/Tutorial3-2FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial3-3_FozhanBabaeiyan_AGOL_only_note.txt
+- File Geodatabases: 345 files checked; 38 changed; 97 new; 210 unchanged.
+  - changed example: Tutorials/Tutorial4-3.aprx
+  - changed example: Tutorials/Tutorial4-4.aprx
+  - changed example: Tutorials/Tutorial4-5.aprx
+  - changed example: Tutorials/Tutorial4-6.aprx
+  - changed example: Data/Crime.gdb/a00000001.gdbtable
+  - new example: Tutorials/Tutorial4-1FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial4-2FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial4-3FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial4-4FozhanBabaeiyan.aprx
+  - new example: Tutorials/Tutorial4-5FozhanBabaeiyan.aprx
+
+Video files present: 21 MP4 files.
+Transcript/caption files found:
+- Desktop/transcripts/Tutorial_1_1.txt
+- Desktop/transcripts/Tutorial_1_2.txt
+- Desktop/transcripts/Tutorial_1_3_mp4.txt
+- Desktop/transcripts/Tutorial_1_4.txt
+- Desktop/transcripts/Tutorial_2_1.txt
+- Desktop/transcripts/Tutorial_2_2_mp4.txt
+- Desktop/transcripts/Tutorial_2_3_mp4.txt
+- Desktop/transcripts/Tutorial_2_4_mp4.txt
+- Desktop/transcripts/Tutorial_2_5_mp4.txt
+- Desktop/transcripts/Tutorial_2_6_mp4.txt
+- Desktop/transcripts/Tutorial_2_7_mp4.txt
+- Desktop/transcripts/Tutorial_2_8_mp4.txt
+- Desktop/transcripts/Tutorial_3_1.txt
+- Desktop/transcripts/Tutorial_3_2_mp4.txt
+- Desktop/transcripts/Tutorial_3_3_mp4.txt
+- Desktop/transcripts/Tutorial_4_1_mp4.txt
+- Desktop/transcripts/Tutorial_4_2_mp4.txt
+- Desktop/transcripts/Tutorial_4_3_mp4.txt
+- Desktop/transcripts/Tutorial_4_4_mp4.txt
+- Desktop/transcripts/Tutorial_4_5_mp4.txt
+- Desktop/transcripts/Tutorial_4_6.txt

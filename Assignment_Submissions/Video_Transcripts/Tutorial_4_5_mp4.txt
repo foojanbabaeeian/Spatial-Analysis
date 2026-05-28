@@ -1,0 +1,120 @@
+Okay, so this is tutorial.
+4-5 where we will be using central point
+features for polygons. So if you
+I remember from the lecture.
+If you choose graduated symbols,
+for the symbology for a polygon layer, GIS kind of.
+automatically creates the center points and rests.
+renders them as point features if you've noticed when we've done.
+point symbols, it'll just put it right in the center.
+So it saves you the work of actually creating that.
+point feature class from the polygons.
+But it is often helpful just to make a sound.
+separate feature class with central points created from these
+on features so that you have them for other cases.
+So we will first create a central--
+point feature class for polygons.
+And the difference between central and centroid.
+is that central points ensure that all
+points actually lie within their polygons versus.
+Centroids where it kind of takes just the geometric out.
+of all the different sides. So if
+It could fall without...
+Oh, gosh.
+It could fall not within the border of the polygon.
+So first we are going to search for
+and open the Calculate Geometry Attributes tool.
+So for tools we're gonna go choose
+the analysis tab.
+tools and then we are going
+to go to calculate
+Geometry will search for it up here.
+I actually click this one.
+So our input features
+will be burglaries by neighborhood.
+and for this
+this, we will actually might not.
+have it. So for this, if you need to, you can type just
+X? Mine's still in there from when I did it earlier.
+And we are going to do...
+central point X coordinate.
+So don't do the centroid exponent, do central point x.
+coordinate for this wheel type.
+Y and.
+we will do central point Y coordinate.
+We don't have to change our--
+anything for coordinate format or coordinate system.
+So we will run that.
+Let me see.
+that it ran successfully.
+So now we can--
+open the burglaries by neighborhood.
+attribute table.
+And we'll see you in the next video.
+see now that we should have these x and y.
+values in our attribute table now.
+So--
+the tool created fields with the XM
+central point coordinates. Remember these are coordinate
+values and they are in state place.
+feet. So let's close the eyes.
+table here. And now we'll create
+a point layer so the feature to point tools
+is what we'll use and it creates a point layer of
+central points for polygons. So we will
+I'll get rid of this for now.
+So we will search for and open the feature.
+two-point tools up here if you're not already in a new
+make sure you are in the analysis tab.
+We will go to tools.
+we will search point.
+Thanks to feature.
+Oh sorry, featured a point. I don't know why I was in.
+I guess I could click the top one.
+Be sure to...
+point.
+So our input features will be
+We are Burglories by Neighborhood.
+and our output feature class.
+will be burglar.
+by neighbor.
+Overhood.
+And then we'll check this box that says inside, which will...
+tell the, we'll tell GIS to actually make sure all points.
+are included inside the polygons.
+Now we can run it.
+And now we have our different center.
+points on all of our polygons. So this is the geometric
+average or geometric middle of the field.
+of all of our polygons.
+And the last thing--
+will do for this tutorial is we'll symbolize burglaries by neighbors.
+points with graduated symbols using join.
+count with five quantiles using a color
+scheme of our choice.
+So...
+We will.
+Go back.
+Okay, here we go. So here instead of a C,
+single symbol we will do.
+Graduated symbols, I believe.
+Yeah, graduated symbols.
+So we want to make sure join count is chosen which it is.
+is for the method we
+want quantiles.
+and we do want to keep five.
+And we can do a color scheme of our choice. I'm gonna change.
+change this.
+Two.
+Let's see.
+is wait not enough we'll see
+Sure, why not?
+And then we can.
+Right click this and press zoom to layer so we can see all of
+them and now we've completed to
+for Dashpot and I did it again. I did not save my
+project does. I don't know why I'm so out of practice right now, everyone.
+So tutorial 4-5.
+with my last name.
+Save.
+And now we're completed with tutorial 4-5.
